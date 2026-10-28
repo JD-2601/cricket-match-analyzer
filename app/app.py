@@ -9,7 +9,8 @@ import plotly.graph_objects as go
 import requests
 import streamlit as st
 
-API = "http://127.0.0.1:8000"
+import os
+API = os.environ.get("API_URL", "http://127.0.0.1:8000")
 GOLD = "#F5C542"
 BLUE = "#2F8BFF"
 ICE = "#E6EEFF"
