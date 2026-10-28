@@ -1,0 +1,1218 @@
+match_id,year,venue,temp_max,temp_min,rain_mm,wind_max,batting_first_won_toss,first_innings_runs
+1082591,2017,Rajiv Gandhi International Stadium,36.6,24.3,1.5,14.4,0,207
+1082592,2017,Maharashtra Cricket Association Stadium,36.5,20.2,0.0,19.7,0,184
+1082593,2017,Saurashtra Cricket Association Stadium,34.5,20.6,0.0,17.4,0,183
+1082594,2017,Holkar Cricket Stadium,35.7,18.5,0.0,14.7,0,163
+1082595,2017,M Chinnaswamy Stadium,33.6,22.6,0.3,15.0,1,157
+1082596,2017,Rajiv Gandhi International Stadium,38.0,25.0,0.0,10.0,0,135
+1082597,2017,Wankhede Stadium,35.3,23.5,0.0,21.4,0,178
+1082598,2017,Holkar Cricket Stadium,36.0,21.4,0.0,20.4,1,148
+1082599,2017,Maharashtra Cricket Association Stadium,39.1,23.9,0.0,14.4,0,205
+1082600,2017,Wankhede Stadium,32.5,25.5,0.0,19.6,0,158
+1082601,2017,Eden Gardens,35.3,24.4,0.0,20.7,0,170
+1082602,2017,M Chinnaswamy Stadium,35.0,21.1,0.0,20.3,0,142
+1082603,2017,Saurashtra Cricket Association Stadium,42.2,22.9,0.0,20.0,0,171
+1082604,2017,Eden Gardens,34.0,24.8,0.3,26.9,0,172
+1082605,2017,Arun Jaitley Stadium,39.7,21.6,0.0,19.9,1,188
+1082606,2017,Wankhede Stadium,33.9,24.8,0.0,24.4,0,176
+1082607,2017,M Chinnaswamy Stadium,33.5,22.0,0.0,16.5,0,161
+1082608,2017,Arun Jaitley Stadium,40.6,23.9,0.0,16.4,1,168
+1082609,2017,Rajiv Gandhi International Stadium,40.6,25.4,0.0,17.7,0,159
+1082610,2017,Saurashtra Cricket Association Stadium,39.9,21.4,0.0,27.0,0,213
+1082611,2017,Rajiv Gandhi International Stadium,38.1,24.1,0.0,13.4,1,191
+1082612,2017,Holkar Cricket Stadium,39.0,25.6,0.0,30.0,0,198
+1082613,2017,Eden Gardens,34.6,27.8,5.7,30.8,0,187
+1082614,2017,Wankhede Stadium,30.9,25.9,0.0,16.3,0,142
+1082615,2017,Maharashtra Cricket Association Stadium,34.7,21.4,0.0,23.4,0,176
+1082616,2017,Saurashtra Cricket Association Stadium,37.3,24.0,0.0,22.2,0,188
+1082617,2017,Eden Gardens,34.3,27.8,1.9,27.4,0,131
+1082618,2017,Wankhede Stadium,30.9,25.5,0.0,15.2,0,160
+1082620,2017,Maharashtra Cricket Association Stadium,36.6,19.7,0.0,19.1,0,182
+1082621,2017,M Chinnaswamy Stadium,32.5,22.3,0.5,11.6,0,134
+1082622,2017,Eden Gardens,37.8,26.7,11.7,18.1,0,160
+1082623,2017,Punjab Cricket Association Stadium,36.8,19.8,0.0,23.4,0,207
+1082624,2017,Maharashtra Cricket Association Stadium,36.9,21.8,0.0,21.0,0,157
+1082625,2017,Saurashtra Cricket Association Stadium,38.8,22.9,4.1,19.1,1,153
+1082626,2017,Punjab Cricket Association Stadium,33.6,20.6,1.8,21.3,0,67
+1082627,2017,Rajiv Gandhi International Stadium,36.6,24.5,0.3,14.1,0,209
+1082628,2017,Wankhede Stadium,31.9,25.0,0.0,28.1,1,162
+1082629,2017,Maharashtra Cricket Association Stadium,38.0,19.6,0.0,24.5,0,161
+1082630,2017,Arun Jaitley Stadium,38.4,23.8,0.0,12.5,0,185
+1082631,2017,Eden Gardens,34.9,25.9,0.0,16.7,0,155
+1082632,2017,Arun Jaitley Stadium,38.4,24.5,0.0,25.0,0,208
+1082633,2017,M Chinnaswamy Stadium,34.1,22.0,0.1,12.1,0,138
+1082634,2017,Rajiv Gandhi International Stadium,38.1,25.8,0.5,22.1,0,148
+1082635,2017,Arun Jaitley Stadium,41.0,23.5,0.0,15.3,0,212
+1082636,2017,M Chinnaswamy Stadium,34.5,22.4,0.6,18.5,0,158
+1082637,2017,Punjab Cricket Association Stadium,41.0,26.0,0.0,26.8,0,189
+1082638,2017,Rajiv Gandhi International Stadium,37.8,25.1,0.0,13.7,1,138
+1082639,2017,Punjab Cricket Association Stadium,38.6,26.4,1.8,26.0,0,167
+1082640,2017,Green Park,39.1,26.8,0.0,22.6,0,195
+1082641,2017,Wankhede Stadium,32.9,26.0,0.0,21.3,0,230
+1082642,2017,Arun Jaitley Stadium,40.3,26.0,0.0,20.1,1,168
+1082643,2017,Green Park,41.0,27.0,0.0,24.3,0,154
+1082644,2017,Eden Gardens,38.1,27.8,0.0,21.9,0,173
+1082645,2017,Maharashtra Cricket Association Stadium,37.1,25.6,0.9,22.4,0,73
+1082646,2017,Arun Jaitley Stadium,42.8,26.4,0.0,19.2,1,161
+1082647,2017,Wankhede Stadium,32.4,27.2,0.0,19.8,0,162
+1082648,2017,M Chinnaswamy Stadium,32.8,21.7,0.5,16.7,0,128
+1082649,2017,M Chinnaswamy Stadium,30.6,20.7,1.2,16.5,0,107
+1082650,2017,Rajiv Gandhi International Stadium,40.2,26.3,0.0,14.1,1,129
+1136561,2018,Wankhede Stadium,31.7,23.0,0.0,21.2,0,165
+1136562,2018,Punjab Cricket Association Stadium,31.2,22.1,0.5,21.7,0,166
+1136563,2018,Eden Gardens,32.8,23.4,0.0,15.0,0,176
+1136564,2018,Rajiv Gandhi International Stadium,32.5,21.4,0.6,9.9,0,125
+1136565,2018,MA Chidambaram Stadium,32.1,25.4,0.2,19.5,0,202
+1136567,2018,Rajiv Gandhi International Stadium,34.4,22.0,2.2,7.7,0,147
+1136568,2018,M Chinnaswamy Stadium,32.0,20.9,0.0,17.8,0,155
+1136569,2018,Wankhede Stadium,31.7,24.4,0.0,21.3,0,194
+1136570,2018,Eden Gardens,36.8,25.4,0.9,17.1,0,138
+1136571,2018,M Chinnaswamy Stadium,33.2,22.2,0.0,19.1,0,217
+1136572,2018,Punjab Cricket Association Stadium,35.3,20.2,0.0,17.2,0,197
+1136573,2018,Eden Gardens,37.7,24.5,0.2,19.1,0,200
+1136574,2018,Wankhede Stadium,34.7,25.9,0.1,22.2,0,213
+1136575,2018,Sawai Mansingh Stadium,38.2,24.7,0.0,18.2,0,160
+1136576,2018,Punjab Cricket Association Stadium,35.2,22.7,0.2,15.9,1,193
+1136577,2018,Maharashtra Cricket Association Stadium,35.5,22.4,0.0,21.3,0,204
+1136578,2018,Eden Gardens,35.4,27.5,0.1,24.7,0,191
+1136579,2018,M Chinnaswamy Stadium,33.8,23.3,0.6,16.6,0,174
+1136580,2018,Rajiv Gandhi International Stadium,37.0,23.9,0.0,15.1,0,182
+1136581,2018,Sawai Mansingh Stadium,35.0,22.0,0.0,15.0,1,167
+1136582,2018,Arun Jaitley Stadium,35.7,20.9,0.0,19.9,0,143
+1136583,2018,Wankhede Stadium,33.5,24.1,0.0,21.6,0,118
+1136584,2018,M Chinnaswamy Stadium,33.3,21.1,2.1,19.2,0,205
+1136585,2018,Rajiv Gandhi International Stadium,37.1,25.1,0.4,14.8,0,132
+1136586,2018,Arun Jaitley Stadium,38.6,25.4,2.0,19.4,0,219
+1136587,2018,Maharashtra Cricket Association Stadium,40.0,22.7,0.0,21.3,0,169
+1136588,2018,Sawai Mansingh Stadium,40.9,27.6,0.0,20.7,1,151
+1136589,2018,M Chinnaswamy Stadium,33.1,20.7,0.0,9.9,0,175
+1136590,2018,Maharashtra Cricket Association Stadium,37.8,22.2,0.0,24.9,0,211
+1136591,2018,M Chinnaswamy Stadium,33.4,23.0,0.0,14.2,0,167
+1136593,2018,Eden Gardens,28.8,24.4,7.1,17.8,0,177
+1136594,2018,Holkar Cricket Stadium,39.6,24.8,0.0,22.1,0,174
+1136595,2018,Maharashtra Cricket Association Stadium,38.1,22.5,0.0,22.0,0,127
+1136596,2018,Rajiv Gandhi International Stadium,36.1,25.0,0.0,12.4,1,163
+1136597,2018,Wankhede Stadium,32.5,26.1,0.0,19.2,0,181
+1136598,2018,Holkar Cricket Stadium,40.8,28.4,0.0,22.1,0,152
+1136599,2018,Rajiv Gandhi International Stadium,37.5,26.4,0.0,11.5,0,146
+1136600,2018,Sawai Mansingh Stadium,34.9,25.2,0.5,30.9,1,158
+1136601,2018,Eden Gardens,35.0,27.7,0.0,24.1,0,210
+1136602,2018,Arun Jaitley Stadium,38.0,21.9,0.0,14.8,1,187
+1136603,2018,Sawai Mansingh Stadium,42.3,27.5,0.0,17.5,1,176
+1136604,2018,Holkar Cricket Stadium,40.2,28.4,0.0,22.2,0,245
+1136605,2018,Arun Jaitley Stadium,40.9,25.8,2.7,26.1,0,181
+1136606,2018,Maharashtra Cricket Association Stadium,38.5,22.9,0.1,18.4,0,179
+1136607,2018,Wankhede Stadium,32.7,25.7,0.0,19.7,0,168
+1136608,2018,Holkar Cricket Stadium,40.2,26.9,0.0,24.4,0,88
+1136609,2018,Eden Gardens,32.7,24.6,0.0,17.0,0,142
+1136610,2018,Wankhede Stadium,32.9,27.0,0.0,21.1,0,186
+1136611,2018,M Chinnaswamy Stadium,31.5,21.0,0.0,12.0,0,218
+1136612,2018,Arun Jaitley Stadium,39.3,25.6,0.0,14.9,0,162
+1136613,2018,Sawai Mansingh Stadium,40.2,27.0,0.0,24.5,1,164
+1136614,2018,Rajiv Gandhi International Stadium,38.9,26.0,0.0,14.0,1,172
+1136615,2018,Arun Jaitley Stadium,40.4,25.4,0.0,15.4,1,174
+1136616,2018,Maharashtra Cricket Association Stadium,35.5,22.4,0.0,24.1,0,153
+1136617,2018,Wankhede Stadium,32.3,26.6,0.0,18.9,0,139
+1136618,2018,Eden Gardens,31.6,27.0,15.4,24.5,0,169
+1136619,2018,Eden Gardens,32.4,27.4,0.1,27.4,0,174
+1136620,2018,Wankhede Stadium,33.3,28.6,0.4,19.6,0,178
+1175356,2019,MA Chidambaram Stadium,32.3,25.1,0.0,22.4,0,70
+1175357,2019,Eden Gardens,32.8,19.9,0.0,9.3,0,181
+1175358,2019,Wankhede Stadium,35.3,23.3,0.0,22.2,0,213
+1175359,2019,Sawai Mansingh Stadium,31.3,19.8,0.8,24.8,0,184
+1175360,2019,Arun Jaitley Stadium,29.7,15.2,0.0,18.6,1,147
+1175361,2019,Eden Gardens,32.4,20.3,0.0,14.1,0,218
+1175362,2019,M Chinnaswamy Stadium,35.6,20.5,0.0,16.1,0,187
+1175363,2019,Rajiv Gandhi International Stadium,36.7,23.4,0.0,11.2,1,198
+1175364,2019,Punjab Cricket Association Stadium,32.3,17.5,0.0,31.0,0,176
+1175365,2019,Arun Jaitley Stadium,36.1,20.0,0.0,18.9,0,185
+1175366,2019,Rajiv Gandhi International Stadium,37.7,23.6,0.0,19.2,0,231
+1175367,2019,MA Chidambaram Stadium,34.3,24.7,0.0,26.4,0,175
+1175368,2019,Punjab Cricket Association Stadium,30.4,17.8,0.0,21.1,0,166
+1175369,2019,Sawai Mansingh Stadium,36.3,20.3,0.0,13.3,0,158
+1175370,2019,Wankhede Stadium,31.8,23.4,0.0,21.3,0,170
+1175371,2019,Arun Jaitley Stadium,36.3,18.1,0.0,11.5,0,129
+1175372,2019,M Chinnaswamy Stadium,34.7,20.8,0.0,15.3,0,205
+1178393,2019,MA Chidambaram Stadium,33.6,26.0,0.0,20.6,1,160
+1178394,2019,Rajiv Gandhi International Stadium,36.1,22.5,0.0,14.7,0,136
+1178395,2019,M Chinnaswamy Stadium,35.2,22.2,0.0,15.8,0,149
+1178396,2019,Sawai Mansingh Stadium,38.8,24.7,0.0,22.9,0,139
+1178397,2019,Punjab Cricket Association Stadium,29.2,20.0,0.5,14.8,0,150
+1178398,2019,MA Chidambaram Stadium,32.8,27.2,0.2,24.1,0,108
+1178399,2019,Wankhede Stadium,31.3,23.5,0.0,19.5,0,197
+1178400,2019,Sawai Mansingh Stadium,39.4,24.4,0.0,17.9,0,151
+1178401,2019,Eden Gardens,34.0,25.7,4.5,13.9,0,178
+1178402,2019,Wankhede Stadium,33.9,23.4,0.0,26.5,0,187
+1178403,2019,Punjab Cricket Association Stadium,34.3,21.4,0.0,25.0,0,173
+1178404,2019,Eden Gardens,35.0,25.7,0.0,18.8,0,161
+1178405,2019,Rajiv Gandhi International Stadium,37.5,24.1,0.0,13.7,0,155
+1178406,2019,Wankhede Stadium,35.4,25.1,0.0,17.4,0,171
+1178407,2019,Punjab Cricket Association Stadium,31.1,18.3,1.2,25.2,0,182
+1178408,2019,Rajiv Gandhi International Stadium,35.2,24.6,0.0,9.8,1,132
+1178409,2019,Arun Jaitley Stadium,28.1,16.3,0.0,9.8,1,168
+1178410,2019,Eden Gardens,32.7,24.9,0.9,10.5,0,213
+1178411,2019,Sawai Mansingh Stadium,33.1,19.6,0.0,13.7,0,161
+1178412,2019,Arun Jaitley Stadium,33.4,19.5,0.0,11.5,0,163
+1178413,2019,Rajiv Gandhi International Stadium,36.6,25.1,0.0,16.0,0,159
+1178414,2019,M Chinnaswamy Stadium,32.3,20.4,2.2,11.9,0,161
+1178415,2019,Sawai Mansingh Stadium,38.3,24.0,0.0,17.8,0,191
+1178416,2019,MA Chidambaram Stadium,33.8,27.4,0.0,16.4,0,175
+1178417,2019,M Chinnaswamy Stadium,33.1,21.1,0.0,17.1,0,202
+1178418,2019,Eden Gardens,35.9,25.9,0.0,15.8,0,175
+1178419,2019,MA Chidambaram Stadium,34.3,26.3,0.0,22.2,0,155
+1178420,2019,Sawai Mansingh Stadium,41.0,27.6,0.0,16.1,0,160
+1178421,2019,Arun Jaitley Stadium,40.8,25.8,0.0,25.1,1,187
+1178422,2019,Eden Gardens,36.5,27.7,0.0,22.5,0,232
+1178423,2019,Rajiv Gandhi International Stadium,38.5,27.1,0.0,14.2,0,212
+1178425,2019,MA Chidambaram Stadium,36.7,28.6,0.7,17.4,0,179
+1178426,2019,Wankhede Stadium,30.8,24.2,0.0,18.8,1,162
+1178427,2019,Punjab Cricket Association Stadium,36.2,22.8,0.0,16.9,0,183
+1178428,2019,Arun Jaitley Stadium,37.9,23.7,0.0,22.3,1,115
+1178429,2019,M Chinnaswamy Stadium,32.7,20.5,0.0,12.4,0,175
+1178430,2019,Punjab Cricket Association Stadium,36.5,20.2,0.0,26.0,0,170
+1178431,2019,Wankhede Stadium,31.4,26.3,0.0,18.2,0,133
+1181764,2019,MA Chidambaram Stadium,37.2,28.7,0.0,26.1,1,131
+1181766,2019,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,33.9,28.3,0.1,21.1,0,162
+1181767,2019,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,33.8,27.8,0.0,25.8,0,147
+1181768,2019,Rajiv Gandhi International Stadium,37.9,26.6,0.0,15.6,1,149
+1216492,2020,Sheikh Zayed Stadium,37.4,27.8,0.0,25.4,0,162
+1216493,2020,Dubai International Cricket Stadium,40.1,25.4,0.0,23.7,0,157
+1216494,2020,Sheikh Zayed Stadium,33.6,25.6,0.0,20.7,1,84
+1216495,2020,Sharjah Cricket Stadium,30.7,20.6,0.0,21.2,0,149
+1216496,2020,Sharjah Cricket Stadium,38.1,24.1,0.0,24.2,0,216
+1216497,2020,Sheikh Zayed Stadium,35.1,25.9,0.0,23.7,0,194
+1216498,2020,Dubai International Cricket Stadium,35.6,17.0,0.0,26.1,0,126
+1216499,2020,Sheikh Zayed Stadium,31.1,23.2,0.0,21.4,0,164
+1216500,2020,Sharjah Cricket Stadium,35.3,25.6,0.0,21.6,0,184
+1216501,2020,Sheikh Zayed Stadium,38.3,27.8,0.0,26.7,1,167
+1216502,2020,Sharjah Cricket Stadium,31.5,20.6,0.0,19.3,0,120
+1216503,2020,Sheikh Zayed Stadium,38.8,29.4,0.0,25.5,0,191
+1216504,2020,Dubai International Cricket Stadium,40.5,24.2,0.0,26.2,0,174
+1216505,2020,Sheikh Zayed Stadium,30.9,25.2,0.0,19.7,0,152
+1216506,2020,Sheikh Zayed Stadium,30.8,23.1,0.0,18.8,0,153
+1216507,2020,Dubai International Cricket Stadium,35.3,26.1,0.0,27.0,1,158
+1216508,2020,Sheikh Zayed Stadium,36.8,27.8,0.0,24.1,0,195
+1216509,2020,Sharjah Cricket Stadium,35.2,20.6,0.0,26.0,1,179
+1216510,2020,Dubai International Cricket Stadium,42.5,24.8,0.0,26.2,0,206
+1216511,2020,Sheikh Zayed Stadium,36.6,27.6,0.0,21.2,1,193
+1216512,2020,Sheikh Zayed Stadium,34.2,24.4,0.0,26.3,0,163
+1216513,2020,Dubai International Cricket Stadium,37.8,25.2,0.0,24.5,1,178
+1216514,2020,Sheikh Zayed Stadium,34.5,27.1,0.0,20.1,1,154
+1216515,2020,Sharjah Cricket Stadium,33.4,25.2,0.0,21.6,0,228
+1216516,2020,Dubai International Cricket Stadium,37.3,23.9,0.0,20.0,1,164
+1216517,2020,Dubai International Cricket Stadium,36.7,18.9,0.0,19.4,1,176
+1216518,2020,Dubai International Cricket Stadium,33.1,18.4,0.0,19.4,0,154
+1216519,2020,Dubai International Cricket Stadium,38.0,25.4,0.0,21.9,0,196
+1216520,2020,Sharjah Cricket Stadium,33.0,20.0,0.0,24.5,0,149
+1216521,2020,Sharjah Cricket Stadium,31.7,20.0,0.0,21.5,0,114
+1216522,2020,Dubai International Cricket Stadium,36.3,19.0,0.0,24.9,1,177
+1216523,2020,Sheikh Zayed Stadium,34.8,30.3,0.0,29.3,1,164
+1216524,2020,Dubai International Cricket Stadium,33.0,17.4,0.0,17.0,0,219
+1216525,2020,Dubai International Cricket Stadium,35.7,24.7,0.0,27.2,1,169
+1216526,2020,Sheikh Zayed Stadium,33.4,24.4,0.0,27.8,1,148
+1216527,2020,Sharjah Cricket Stadium,35.5,24.5,0.0,19.2,0,223
+1216528,2020,Dubai International Cricket Stadium,36.9,23.6,0.0,35.8,1,167
+1216529,2020,Sheikh Zayed Stadium,33.6,29.7,0.0,24.6,1,162
+1216530,2020,Dubai International Cricket Stadium,31.7,19.3,0.0,17.5,0,191
+1216531,2020,Sharjah Cricket Stadium,35.6,20.6,0.0,28.1,1,171
+1216532,2020,Sheikh Zayed Stadium,37.6,27.7,0.0,18.8,0,162
+1216533,2020,Sheikh Zayed Stadium,33.2,23.4,0.0,26.8,1,125
+1216534,2020,Dubai International Cricket Stadium,37.2,24.5,0.0,24.5,0,163
+1216535,2020,Dubai International Cricket Stadium,33.6,19.8,0.0,22.3,0,110
+1216536,2020,Dubai International Cricket Stadium,34.1,19.0,0.0,22.6,0,172
+1216537,2020,Sheikh Zayed Stadium,32.2,24.9,0.0,20.7,0,185
+1216538,2020,Sharjah Cricket Stadium,34.7,25.6,0.0,20.4,1,208
+1216539,2020,Dubai International Cricket Stadium,41.6,23.3,0.0,25.2,0,175
+1216540,2020,Sharjah Cricket Stadium,35.5,28.2,0.0,22.9,1,194
+1216541,2020,Sheikh Zayed Stadium,35.1,24.4,0.0,21.6,1,195
+1216542,2020,Dubai International Cricket Stadium,37.0,24.2,0.0,23.4,1,201
+1216543,2020,Dubai International Cricket Stadium,36.4,21.4,0.0,29.2,1,161
+1216544,2020,Dubai International Cricket Stadium,35.1,18.9,0.0,26.2,1,145
+1216545,2020,Sheikh Zayed Stadium,37.3,27.1,0.0,22.7,1,142
+1216546,2020,Dubai International Cricket Stadium,34.6,18.1,0.0,21.9,1,164
+1216547,2020,Dubai International Cricket Stadium,37.8,24.3,0.0,21.7,0,201
+1237177,2020,Dubai International Cricket Stadium,31.3,19.8,0.0,16.4,0,200
+1237178,2020,Sheikh Zayed Stadium,33.0,23.3,0.0,18.3,0,131
+1237180,2020,Sheikh Zayed Stadium,31.4,25.9,0.0,26.8,1,189
+1237181,2020,Dubai International Cricket Stadium,31.8,21.2,0.0,21.5,1,156
+1254058,2021,MA Chidambaram Stadium,32.2,24.2,0.0,20.2,0,159
+1254059,2021,Wankhede Stadium,32.3,23.9,0.0,18.8,0,188
+1254060,2021,MA Chidambaram Stadium,31.5,25.4,0.6,16.6,0,187
+1254061,2021,Wankhede Stadium,33.4,24.8,0.0,19.2,0,221
+1254062,2021,MA Chidambaram Stadium,31.9,25.9,0.0,19.1,0,152
+1254063,2021,MA Chidambaram Stadium,31.7,26.6,2.1,19.1,0,149
+1254064,2021,Wankhede Stadium,34.0,25.5,0.0,19.4,0,147
+1254065,2021,Wankhede Stadium,32.1,24.4,0.0,23.5,0,106
+1254066,2021,MA Chidambaram Stadium,32.6,26.3,0.0,18.9,1,150
+1254067,2021,MA Chidambaram Stadium,33.3,26.7,0.0,22.5,1,204
+1254068,2021,Wankhede Stadium,34.3,24.7,0.0,19.5,0,195
+1254069,2021,Wankhede Stadium,32.6,24.7,0.0,18.3,0,188
+1254070,2021,MA Chidambaram Stadium,33.5,27.2,0.0,24.8,1,137
+1254071,2021,MA Chidambaram Stadium,33.5,26.9,0.0,26.1,1,120
+1254072,2021,Wankhede Stadium,32.0,25.2,0.0,20.0,0,220
+1254073,2021,Wankhede Stadium,32.9,25.0,0.0,23.4,0,177
+1254074,2021,MA Chidambaram Stadium,33.4,27.0,0.6,22.3,0,131
+1254075,2021,Wankhede Stadium,32.2,23.8,0.0,22.2,0,133
+1254076,2021,Wankhede Stadium,33.6,24.2,0.0,23.9,1,191
+1254077,2021,MA Chidambaram Stadium,33.0,27.1,0.2,21.7,1,159
+1254078,2021,Narendra Modi Stadium,41.9,27.9,0.0,17.2,0,123
+1254079,2021,Narendra Modi Stadium,40.8,28.5,0.0,19.8,0,171
+1254080,2021,Arun Jaitley Stadium,41.5,23.2,0.0,17.3,1,171
+1254081,2021,Arun Jaitley Stadium,40.8,24.7,0.0,17.4,0,171
+1254082,2021,Narendra Modi Stadium,41.5,28.0,0.0,13.7,0,154
+1254083,2021,Narendra Modi Stadium,41.2,28.1,0.0,15.8,0,179
+1254084,2021,Arun Jaitley Stadium,39.7,24.7,0.0,25.4,0,218
+1254085,2021,Arun Jaitley Stadium,39.3,25.2,0.3,31.2,0,220
+1254086,2021,Narendra Modi Stadium,39.6,28.3,0.0,22.6,0,166
+1254087,2021,Sheikh Zayed Stadium,38.9,30.0,0.0,23.2,1,92
+1254088,2021,Sheikh Zayed Stadium,34.8,28.8,0.0,21.9,1,235
+1254089,2021,Sheikh Zayed Stadium,35.9,29.2,0.0,20.3,0,189
+1254090,2021,Sharjah Cricket Stadium,37.9,29.8,0.0,27.3,1,164
+1254091,2021,Sharjah Cricket Stadium,37.0,27.3,0.0,22.7,0,134
+1254092,2021,Sharjah Cricket Stadium,35.9,28.6,0.0,21.4,0,127
+1254093,2021,Sharjah Cricket Stadium,35.5,27.0,0.0,21.2,0,90
+1254094,2021,Dubai International Cricket Stadium,38.7,23.9,0.0,21.8,0,134
+1254095,2021,Sheikh Zayed Stadium,35.0,29.0,0.0,21.7,0,141
+1254096,2021,Sheikh Zayed Stadium,35.9,30.7,0.0,21.2,0,155
+1254097,2021,Sheikh Zayed Stadium,35.4,30.2,0.0,21.1,0,154
+1254098,2021,Sheikh Zayed Stadium,37.0,31.4,0.0,31.3,1,171
+1254099,2021,Sheikh Zayed Stadium,35.9,30.5,0.0,26.1,0,135
+1254100,2021,Dubai International Cricket Stadium,37.0,28.8,0.0,19.0,1,164
+1254101,2021,Dubai International Cricket Stadium,36.7,25.3,0.0,20.7,0,164
+1254102,2021,Dubai International Cricket Stadium,38.0,26.3,0.0,20.9,0,165
+1254103,2021,Dubai International Cricket Stadium,39.1,28.8,0.0,24.2,0,149
+1254104,2021,Dubai International Cricket Stadium,41.8,25.9,0.0,24.7,1,156
+1254105,2021,Dubai International Cricket Stadium,36.3,27.4,0.0,21.3,1,134
+1254106,2021,Sharjah Cricket Stadium,37.0,26.3,0.0,20.1,0,171
+1254107,2021,Sharjah Cricket Stadium,36.3,29.1,0.0,20.0,0,125
+1254108,2021,Dubai International Cricket Stadium,38.0,27.6,0.0,23.5,0,165
+1254109,2021,Dubai International Cricket Stadium,38.6,29.4,0.0,30.6,1,115
+1254110,2021,Dubai International Cricket Stadium,37.0,28.7,0.0,26.4,0,136
+1254111,2021,Dubai International Cricket Stadium,39.4,27.3,0.0,24.6,0,185
+1254112,2021,Sharjah Cricket Stadium,35.1,26.3,0.0,16.9,0,129
+1254113,2021,Sharjah Cricket Stadium,36.8,26.7,0.0,23.2,0,156
+1254114,2021,Dubai International Cricket Stadium,37.5,26.8,0.0,19.6,0,172
+1254115,2021,Sharjah Cricket Stadium,39.6,25.7,0.0,26.1,1,138
+1254116,2021,Sharjah Cricket Stadium,36.9,22.8,0.0,19.0,0,135
+1254117,2021,Dubai International Cricket Stadium,35.4,23.3,0.0,18.4,0,192
+1304047,2022,Wankhede Stadium,32.4,23.2,0.0,22.2,0,131
+1304048,2022,Brabourne Stadium,32.3,23.6,0.0,21.2,0,177
+1304049,2022,Dr DY Patil Sports Academy,32.3,23.6,0.0,21.2,0,205
+1304050,2022,Wankhede Stadium,32.3,24.2,0.0,20.7,0,158
+1304051,2022,Maharashtra Cricket Association Stadium,39.3,22.2,0.0,19.9,0,210
+1304052,2022,Dr DY Patil Sports Academy,33.8,22.8,0.0,19.4,0,128
+1304053,2022,Brabourne Stadium,31.9,22.0,0.0,17.4,0,210
+1304054,2022,Wankhede Stadium,33.0,22.1,0.0,19.1,0,137
+1304055,2022,Dr DY Patil Sports Academy,31.0,23.1,0.0,19.4,0,193
+1304056,2022,Maharashtra Cricket Association Stadium,38.5,21.3,0.0,21.6,0,171
+1304057,2022,Brabourne Stadium,31.6,23.0,0.0,23.4,0,180
+1304058,2022,Dr DY Patil Sports Academy,32.1,25.0,0.0,23.9,0,169
+1304059,2022,Wankhede Stadium,32.2,24.6,0.0,22.5,0,169
+1304060,2022,Maharashtra Cricket Association Stadium,40.2,22.6,0.0,23.2,0,161
+1304061,2022,Dr DY Patil Sports Academy,32.6,25.2,0.0,18.9,0,149
+1304062,2022,Brabourne Stadium,33.4,24.3,0.0,21.3,0,189
+1304063,2022,Dr DY Patil Sports Academy,32.1,26.0,0.0,17.4,0,154
+1304064,2022,Maharashtra Cricket Association Stadium,39.3,23.2,0.0,21.6,0,151
+1304065,2022,Brabourne Stadium,32.6,25.9,0.0,19.6,0,215
+1304066,2022,Wankhede Stadium,32.6,25.9,0.0,19.6,0,165
+1304067,2022,Dr DY Patil Sports Academy,32.5,25.5,0.0,23.4,0,162
+1304068,2022,Dr DY Patil Sports Academy,33.6,24.0,0.0,22.7,0,216
+1304069,2022,Maharashtra Cricket Association Stadium,39.2,24.1,0.0,13.7,0,198
+1304070,2022,Dr DY Patil Sports Academy,32.1,25.1,0.0,18.0,0,192
+1304071,2022,Brabourne Stadium,32.1,25.4,0.0,18.9,0,175
+1304072,2022,Brabourne Stadium,31.6,23.3,0.0,19.6,0,199
+1304073,2022,Wankhede Stadium,31.6,23.3,0.0,19.6,0,189
+1304074,2022,Dr DY Patil Sports Academy,32.0,24.7,0.0,19.9,0,151
+1304075,2022,Maharashtra Cricket Association Stadium,38.5,20.3,0.0,23.0,0,169
+1304076,2022,Brabourne Stadium,31.5,24.7,0.0,23.8,0,217
+1304077,2022,Dr DY Patil Sports Academy,32.2,24.7,0.0,23.4,0,181
+1304078,2022,Brabourne Stadium,32.9,25.1,0.0,22.5,0,115
+1304079,2022,Dr DY Patil Sports Academy,38.4,28.1,0.0,29.8,0,155
+1304080,2022,Wankhede Stadium,36.4,26.7,0.0,21.3,0,222
+1304081,2022,Dr DY Patil Sports Academy,37.1,26.2,0.0,17.7,1,156
+1304082,2022,Brabourne Stadium,37.1,26.2,0.0,17.7,0,68
+1304083,2022,Wankhede Stadium,33.9,26.9,0.0,17.3,0,168
+1304084,2022,Wankhede Stadium,36.5,25.4,0.0,23.7,0,187
+1304085,2022,Maharashtra Cricket Association Stadium,39.8,23.8,0.0,21.1,0,144
+1304086,2022,Wankhede Stadium,35.4,25.8,0.0,24.0,0,195
+1304087,2022,Wankhede Stadium,36.2,26.3,0.0,19.5,0,146
+1304088,2022,Maharashtra Cricket Association Stadium,40.0,23.8,0.0,22.9,0,153
+1304089,2022,Brabourne Stadium,33.1,25.7,0.0,18.7,1,170
+1304090,2022,Dr DY Patil Sports Academy,33.1,25.7,0.0,18.7,0,158
+1304091,2022,Wankhede Stadium,33.0,26.2,0.0,16.7,1,195
+1304092,2022,Maharashtra Cricket Association Stadium,38.3,22.4,0.0,21.2,0,202
+1304093,2022,Wankhede Stadium,32.6,27.8,0.0,19.8,0,152
+1304094,2022,Dr DY Patil Sports Academy,32.9,27.2,0.0,19.6,1,143
+1304095,2022,Maharashtra Cricket Association Stadium,38.9,21.5,0.0,21.3,0,173
+1304096,2022,Brabourne Stadium,33.1,25.6,0.0,23.4,0,207
+1304097,2022,Brabourne Stadium,32.8,26.4,0.1,22.5,0,177
+1304098,2022,Wankhede Stadium,33.1,26.1,0.0,22.9,1,189
+1304099,2022,Maharashtra Cricket Association Stadium,38.8,22.2,0.0,20.9,0,176
+1304100,2022,Wankhede Stadium,33.2,26.3,0.0,26.7,1,192
+1304101,2022,Dr DY Patil Sports Academy,33.2,26.3,0.0,26.7,0,208
+1304102,2022,Dr DY Patil Sports Academy,32.7,26.8,0.0,24.6,0,165
+1304103,2022,Maharashtra Cricket Association Stadium,36.8,23.6,0.0,23.7,1,144
+1304104,2022,Dr DY Patil Sports Academy,32.5,27.4,0.0,19.8,0,160
+1304105,2022,Wankhede Stadium,32.6,28.4,0.0,18.4,0,97
+1304106,2022,Brabourne Stadium,32.1,28.2,0.0,18.5,0,209
+1304107,2022,Maharashtra Cricket Association Stadium,36.5,22.0,0.0,21.9,1,177
+1304108,2022,Wankhede Stadium,32.9,28.1,0.0,18.1,1,133
+1304109,2022,Brabourne Stadium,32.9,28.1,0.0,18.1,1,178
+1304110,2022,Dr DY Patil Sports Academy,32.7,27.3,0.0,23.3,0,159
+1304111,2022,Wankhede Stadium,32.9,27.8,0.0,18.2,0,193
+1304112,2022,Dr DY Patil Sports Academy,32.3,27.3,0.0,20.2,1,210
+1304113,2022,Wankhede Stadium,32.2,27.4,0.0,21.9,1,168
+1304114,2022,Brabourne Stadium,32.1,27.9,0.1,19.6,1,150
+1304115,2022,Wankhede Stadium,32.5,28.5,0.1,21.6,0,159
+1304116,2022,Wankhede Stadium,32.5,28.8,1.0,22.9,1,157
+1312197,2022,Eden Gardens,34.3,24.6,2.4,9.8,0,188
+1312198,2022,Eden Gardens,33.5,25.0,22.2,16.9,0,207
+1312199,2022,Narendra Modi Stadium,40.4,27.6,0.0,25.3,0,157
+1312200,2022,Narendra Modi Stadium,40.3,28.2,0.1,21.5,1,130
+1359475,2023,Narendra Modi Stadium,33.3,20.2,0.0,16.4,0,178
+1359476,2023,Punjab Cricket Association Stadium,22.8,14.5,10.5,19.3,0,191
+1359477,2023,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,28.1,17.2,2.6,19.6,0,193
+1359478,2023,Rajiv Gandhi International Stadium,33.4,20.7,0.5,9.1,0,203
+1359479,2023,M Chinnaswamy Stadium,33.8,20.1,0.0,12.3,0,171
+1359480,2023,MA Chidambaram Stadium,31.3,27.2,0.8,23.0,0,217
+1359481,2023,Arun Jaitley Stadium,28.8,17.5,0.1,16.6,0,162
+1359482,2023,Barsapara Cricket Stadium,28.0,16.9,0.0,12.2,0,197
+1359483,2023,Eden Gardens,36.4,23.8,0.0,10.9,0,204
+1359484,2023,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,34.9,19.4,0.0,22.4,1,121
+1359485,2023,Barsapara Cricket Stadium,31.3,18.6,0.0,11.8,0,199
+1359486,2023,Wankhede Stadium,35.1,25.6,0.0,17.1,0,157
+1359487,2023,Narendra Modi Stadium,38.7,24.4,0.0,11.5,1,204
+1359488,2023,Rajiv Gandhi International Stadium,34.4,22.3,0.0,11.9,0,143
+1359489,2023,M Chinnaswamy Stadium,32.9,19.4,0.0,21.1,0,212
+1359490,2023,Arun Jaitley Stadium,36.8,19.9,0.0,25.5,0,172
+1359491,2023,MA Chidambaram Stadium,33.9,23.7,0.0,17.0,0,175
+1359492,2023,Punjab Cricket Association Stadium,35.1,21.3,0.0,21.6,0,153
+1359493,2023,Eden Gardens,42.2,25.4,0.0,11.2,0,228
+1359494,2023,M Chinnaswamy Stadium,34.0,19.6,0.0,18.8,0,174
+1359495,2023,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,39.7,22.2,0.0,13.7,0,159
+1359496,2023,Wankhede Stadium,34.1,24.0,0.0,22.5,0,185
+1359497,2023,Narendra Modi Stadium,39.6,24.8,0.0,13.2,0,177
+1359498,2023,M Chinnaswamy Stadium,34.6,19.5,0.0,17.1,0,226
+1359499,2023,Rajiv Gandhi International Stadium,38.6,24.8,0.0,12.7,0,192
+1359500,2023,Sawai Mansingh Stadium,37.2,25.8,0.0,26.9,0,154
+1359501,2023,Punjab Cricket Association Stadium,30.2,19.8,0.3,20.4,0,174
+1359502,2023,Arun Jaitley Stadium,34.9,22.6,0.0,19.8,0,127
+1359503,2023,MA Chidambaram Stadium,36.0,27.6,0.0,27.4,0,134
+1359504,2023,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,36.4,21.7,0.0,17.6,1,135
+1359505,2023,Wankhede Stadium,31.6,23.8,0.0,19.1,0,214
+1359506,2023,M Chinnaswamy Stadium,33.4,21.3,0.0,13.4,0,189
+1359507,2023,Eden Gardens,33.2,24.7,4.2,17.9,0,235
+1359508,2023,Rajiv Gandhi International Stadium,33.0,23.6,4.2,15.3,1,144
+1359509,2023,Narendra Modi Stadium,40.1,23.5,0.0,14.8,0,207
+1359510,2023,M Chinnaswamy Stadium,33.2,21.0,0.8,14.4,0,200
+1359511,2023,Sawai Mansingh Stadium,35.6,22.3,0.1,20.3,1,202
+1359512,2023,Punjab Cricket Association Stadium,33.2,18.1,0.0,18.7,0,257
+1359513,2023,Eden Gardens,34.0,24.3,5.3,26.3,0,179
+1359514,2023,Arun Jaitley Stadium,34.3,21.5,3.1,18.0,1,197
+1359515,2023,MA Chidambaram Stadium,32.2,25.0,5.5,20.5,1,200
+1359516,2023,Wankhede Stadium,31.5,24.3,0.5,19.5,1,212
+1359517,2023,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,27.3,20.3,5.3,20.9,1,126
+1359518,2023,Narendra Modi Stadium,35.0,23.6,0.3,11.6,1,130
+1359520,2023,Punjab Cricket Association Stadium,27.0,18.4,1.6,22.9,0,214
+1359521,2023,Rajiv Gandhi International Stadium,31.4,21.4,0.2,10.7,1,171
+1359522,2023,Sawai Mansingh Stadium,35.0,19.7,0.1,12.1,1,118
+1359523,2023,MA Chidambaram Stadium,31.1,25.2,5.0,9.8,0,139
+1359524,2023,Arun Jaitley Stadium,34.9,20.1,1.0,24.7,1,181
+1359525,2023,Narendra Modi Stadium,40.0,28.3,0.0,17.1,0,227
+1359526,2023,Sawai Mansingh Stadium,38.2,22.0,0.0,19.5,1,214
+1359527,2023,Eden Gardens,38.4,25.7,0.0,12.4,1,179
+1359528,2023,Wankhede Stadium,33.0,27.7,0.0,19.8,0,199
+1359529,2023,MA Chidambaram Stadium,33.6,26.4,0.0,16.1,1,167
+1359530,2023,Eden Gardens,38.0,26.5,0.4,16.6,0,149
+1359531,2023,Wankhede Stadium,34.0,27.4,0.0,18.3,0,218
+1359532,2023,Rajiv Gandhi International Stadium,38.3,22.4,0.0,18.2,1,182
+1359533,2023,Arun Jaitley Stadium,41.1,23.4,0.0,19.4,0,167
+1359534,2023,Sawai Mansingh Stadium,42.6,27.5,0.0,29.1,1,171
+1359535,2023,MA Chidambaram Stadium,40.6,29.5,0.0,21.3,1,144
+1359536,2023,Narendra Modi Stadium,42.0,27.6,0.0,23.1,0,188
+1359537,2023,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,40.6,23.3,0.0,28.2,0,177
+1359538,2023,Himachal Pradesh Cricket Association Stadium,26.9,19.3,0.8,15.7,0,213
+1359539,2023,Rajiv Gandhi International Stadium,36.9,23.4,0.0,10.1,0,186
+1359540,2023,Himachal Pradesh Cricket Association Stadium,24.7,15.5,0.8,11.7,0,187
+1359541,2023,Arun Jaitley Stadium,40.2,24.8,0.0,26.2,1,223
+1359542,2023,Eden Gardens,36.3,26.7,4.0,21.4,0,176
+1359543,2023,Wankhede Stadium,32.9,27.6,0.0,19.9,0,200
+1359544,2023,M Chinnaswamy Stadium,31.6,21.0,7.3,13.1,0,197
+1370350,2023,MA Chidambaram Stadium,35.3,27.9,0.0,21.7,0,172
+1370351,2023,MA Chidambaram Stadium,36.3,28.3,0.0,26.0,1,182
+1370352,2023,Narendra Modi Stadium,41.3,27.8,0.1,25.0,0,233
+1370353,2023,Narendra Modi Stadium,36.9,24.2,0.0,25.5,0,214
+1422119,2024,MA Chidambaram Stadium,31.9,24.8,0.2,15.2,1,173
+1422120,2024,Maharaja Yadavindra Singh International Cricket Stadium,30.1,16.5,0.0,23.7,0,174
+1422121,2024,Eden Gardens,32.6,19.9,2.3,16.6,0,208
+1422122,2024,Sawai Mansingh Stadium,34.5,20.3,0.0,21.7,1,193
+1422123,2024,Narendra Modi Stadium,37.3,24.1,0.0,14.8,0,168
+1422124,2024,M Chinnaswamy Stadium,35.5,19.1,0.0,20.0,0,176
+1422125,2024,MA Chidambaram Stadium,31.9,23.6,0.0,20.5,0,206
+1422126,2024,Rajiv Gandhi International Stadium,37.2,22.3,0.0,13.1,0,277
+1422127,2024,Sawai Mansingh Stadium,38.4,23.3,0.0,19.8,0,185
+1422128,2024,M Chinnaswamy Stadium,36.0,21.2,0.0,18.8,0,182
+1422129,2024,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,38.1,22.3,0.3,30.3,1,199
+1422130,2024,Narendra Modi Stadium,37.2,23.8,0.0,13.1,1,162
+1422131,2024,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,34.2,24.7,0.0,22.1,1,191
+1422132,2024,Wankhede Stadium,33.8,24.4,0.0,20.0,0,125
+1422133,2024,M Chinnaswamy Stadium,36.8,22.6,0.0,17.9,0,181
+1422134,2024,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,33.4,25.3,0.0,24.7,1,272
+1422135,2024,Narendra Modi Stadium,37.5,25.4,0.0,12.9,0,199
+1422136,2024,Rajiv Gandhi International Stadium,39.2,25.7,0.0,10.1,0,165
+1422137,2024,Sawai Mansingh Stadium,34.2,22.6,0.0,19.0,0,183
+1422138,2024,Wankhede Stadium,36.5,25.6,0.0,26.0,0,234
+1422139,2024,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,37.0,21.5,0.0,19.8,1,163
+1426260,2024,MA Chidambaram Stadium,36.2,26.4,0.0,23.3,0,137
+1426261,2024,Maharaja Yadavindra Singh International Cricket Stadium,32.6,14.7,0.0,13.2,0,182
+1426262,2024,Sawai Mansingh Stadium,37.1,23.2,0.0,19.4,0,196
+1426263,2024,Wankhede Stadium,33.6,22.6,0.0,18.8,0,196
+1426264,2024,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,38.3,21.3,0.0,15.3,1,167
+1426265,2024,Maharaja Yadavindra Singh International Cricket Stadium,34.7,18.1,0.0,21.7,0,147
+1426266,2024,Eden Gardens,36.2,23.7,0.0,10.8,0,161
+1426267,2024,Wankhede Stadium,32.7,21.6,0.0,23.8,0,206
+1426268,2024,M Chinnaswamy Stadium,36.0,20.7,0.0,20.6,0,287
+1426269,2024,Eden Gardens,38.7,26.5,0.0,14.5,0,223
+1426270,2024,Narendra Modi Stadium,43.0,27.5,0.0,17.5,0,89
+1426271,2024,Maharaja Yadavindra Singh International Cricket Stadium,32.0,19.8,0.0,21.9,0,192
+1426272,2024,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,40.2,27.2,0.0,26.2,0,176
+1426273,2024,Arun Jaitley Stadium,36.8,22.5,0.0,20.6,0,266
+1426274,2024,Eden Gardens,41.1,27.2,0.0,21.5,0,222
+1426275,2024,Maharaja Yadavindra Singh International Cricket Stadium,33.5,19.1,0.0,14.6,1,142
+1426276,2024,Sawai Mansingh Stadium,36.4,22.9,0.0,15.0,1,179
+1426277,2024,MA Chidambaram Stadium,34.7,26.2,0.0,21.4,0,210
+1426278,2024,Arun Jaitley Stadium,37.0,20.7,0.0,22.8,0,224
+1426279,2024,Rajiv Gandhi International Stadium,39.0,25.2,0.0,12.0,1,206
+1426280,2024,Eden Gardens,40.1,27.5,0.0,19.5,0,261
+1426281,2024,Arun Jaitley Stadium,38.0,25.2,0.0,24.1,0,257
+1426282,2024,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,40.3,27.5,0.0,23.0,0,196
+1426283,2024,Narendra Modi Stadium,40.8,28.5,0.0,15.2,0,200
+1426284,2024,MA Chidambaram Stadium,35.6,26.4,0.0,24.0,0,212
+1426285,2024,Eden Gardens,41.2,28.3,0.0,20.7,1,153
+1426286,2024,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,40.6,26.4,0.0,25.0,0,144
+1426287,2024,MA Chidambaram Stadium,37.9,28.6,0.0,28.0,0,162
+1426288,2024,Rajiv Gandhi International Stadium,39.6,25.2,0.0,17.0,1,201
+1426289,2024,Wankhede Stadium,33.3,23.1,0.0,20.2,0,169
+1426290,2024,M Chinnaswamy Stadium,38.0,23.1,0.1,18.2,0,147
+1426291,2024,Himachal Pradesh Cricket Association Stadium,25.5,16.8,0.0,14.2,0,167
+1426292,2024,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,43.0,26.9,0.0,21.4,0,235
+1426293,2024,Wankhede Stadium,33.2,25.4,0.0,20.7,0,173
+1426294,2024,Arun Jaitley Stadium,41.4,25.7,0.0,17.3,0,221
+1426295,2024,Rajiv Gandhi International Stadium,36.5,23.3,0.8,19.7,1,165
+1426296,2024,Himachal Pradesh Cricket Association Stadium,25.9,19.7,1.0,12.3,0,241
+1426297,2024,Narendra Modi Stadium,42.2,28.8,0.0,19.9,0,231
+1426299,2024,MA Chidambaram Stadium,33.4,29.3,3.2,19.3,1,141
+1426300,2024,M Chinnaswamy Stadium,31.8,21.8,5.8,18.1,0,187
+1426302,2024,Arun Jaitley Stadium,40.9,23.5,0.0,20.7,0,208
+1426303,2024,Barsapara Cricket Stadium,34.8,25.3,0.1,13.0,1,144
+1426305,2024,Wankhede Stadium,36.3,28.3,0.0,17.3,0,214
+1426306,2024,M Chinnaswamy Stadium,29.4,21.1,19.5,17.8,0,218
+1426307,2024,Rajiv Gandhi International Stadium,32.8,23.7,10.3,11.4,1,214
+1426309,2024,Narendra Modi Stadium,45.2,30.7,0.0,16.5,1,159
+1426310,2024,Narendra Modi Stadium,45.9,30.3,0.0,17.9,0,172
+1426311,2024,MA Chidambaram Stadium,36.2,26.5,0.0,22.6,0,175
+1426312,2024,MA Chidambaram Stadium,39.1,28.0,0.6,21.6,1,113
+1473438,2025,Eden Gardens,26.3,21.3,9.8,15.0,0,174
+1473439,2025,Rajiv Gandhi International Stadium,32.3,22.8,0.1,9.1,0,286
+1473440,2025,MA Chidambaram Stadium,32.9,26.9,0.2,14.4,0,155
+1473441,2025,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,32.4,24.1,0.9,12.6,0,209
+1473442,2025,Narendra Modi Stadium,39.3,25.7,0.0,10.1,0,243
+1473443,2025,Barsapara Cricket Stadium,31.0,18.9,0.0,10.4,0,151
+1473444,2025,Rajiv Gandhi International Stadium,37.5,25.0,0.0,15.4,0,190
+1473445,2025,MA Chidambaram Stadium,36.3,25.3,0.0,19.2,0,196
+1473446,2025,Narendra Modi Stadium,36.8,21.8,0.0,12.6,0,196
+1473447,2025,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,35.1,25.9,0.0,15.2,1,163
+1473448,2025,Barsapara Cricket Stadium,32.4,19.7,0.0,8.5,0,182
+1473449,2025,Wankhede Stadium,37.1,25.5,0.0,16.0,0,116
+1473450,2025,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,35.9,20.5,0.0,15.3,0,171
+1473451,2025,M Chinnaswamy Stadium,32.6,20.3,0.1,13.9,0,169
+1473452,2025,Eden Gardens,37.7,25.4,0.1,10.2,0,200
+1473453,2025,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,38.5,23.0,0.0,18.2,0,203
+1473454,2025,MA Chidambaram Stadium,33.2,24.8,2.9,13.5,1,183
+1473455,2025,Maharaja Yadavindra Singh International Cricket Stadium,35.2,18.5,0.0,17.4,0,205
+1473456,2025,Eden Gardens,36.7,25.9,2.1,10.6,0,238
+1473457,2025,Rajiv Gandhi International Stadium,34.5,23.1,0.0,8.3,0,152
+1473458,2025,Wankhede Stadium,36.4,24.8,0.0,19.1,0,221
+1473459,2025,Maharaja Yadavindra Singh International Cricket Stadium,37.6,21.3,0.0,24.3,1,219
+1473460,2025,Narendra Modi Stadium,43.2,28.9,0.0,14.9,0,217
+1473461,2025,M Chinnaswamy Stadium,33.2,20.7,0.0,11.1,0,163
+1473462,2025,MA Chidambaram Stadium,36.0,28.4,0.0,14.6,0,103
+1473463,2025,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,35.4,22.6,1.1,15.3,0,180
+1473464,2025,Rajiv Gandhi International Stadium,37.1,25.2,0.0,14.1,1,245
+1473465,2025,Sawai Mansingh Stadium,36.6,22.1,0.0,16.5,0,173
+1473466,2025,Arun Jaitley Stadium,35.9,21.2,0.0,11.0,0,205
+1473467,2025,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,32.6,21.8,0.0,10.7,0,166
+1473468,2025,Maharaja Yadavindra Singh International Cricket Stadium,34.4,22.6,0.0,16.9,1,111
+1473469,2025,Arun Jaitley Stadium,38.3,25.3,0.0,11.4,0,188
+1473470,2025,Wankhede Stadium,32.4,25.6,0.0,15.7,0,162
+1473472,2025,Narendra Modi Stadium,40.6,26.9,0.0,19.1,0,203
+1473473,2025,Sawai Mansingh Stadium,39.6,26.9,0.0,17.6,1,180
+1473474,2025,Maharaja Yadavindra Singh International Cricket Stadium,35.8,24.6,0.0,29.4,0,157
+1473475,2025,Wankhede Stadium,33.0,25.3,0.0,14.5,0,176
+1473476,2025,Eden Gardens,35.6,28.0,0.0,17.3,0,198
+1473477,2025,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,40.6,26.3,0.0,16.7,0,159
+1473478,2025,Rajiv Gandhi International Stadium,38.3,27.9,0.0,9.9,0,143
+1473479,2025,M Chinnaswamy Stadium,36.2,21.0,0.0,14.6,0,205
+1473480,2025,MA Chidambaram Stadium,34.6,27.9,0.4,19.6,0,154
+1473481,2025,Eden Gardens,36.7,27.8,1.5,19.6,1,201
+1473482,2025,Wankhede Stadium,33.4,25.9,0.0,15.6,0,215
+1473483,2025,Arun Jaitley Stadium,41.2,28.0,0.0,13.8,0,162
+1473484,2025,Sawai Mansingh Stadium,40.7,26.9,0.0,16.3,0,209
+1473485,2025,Arun Jaitley Stadium,37.5,24.5,0.0,14.4,0,204
+1473486,2025,MA Chidambaram Stadium,35.6,27.9,0.0,17.4,0,190
+1473487,2025,Sawai Mansingh Stadium,39.3,25.4,0.0,13.1,0,217
+1473488,2025,Narendra Modi Stadium,43.4,28.1,0.0,14.8,0,224
+1473489,2025,M Chinnaswamy Stadium,34.6,21.2,9.3,11.1,0,213
+1473490,2025,Eden Gardens,31.6,24.5,7.9,14.5,1,206
+1473491,2025,Himachal Pradesh Cricket Association Stadium,24.4,14.2,6.8,16.5,0,236
+1473492,2025,Rajiv Gandhi International Stadium,37.5,23.9,0.0,10.6,0,133
+1473493,2025,Wankhede Stadium,33.2,23.0,6.3,15.9,0,155
+1473494,2025,Eden Gardens,36.2,24.9,0.1,10.6,1,179
+1473497,2025,Sawai Mansingh Stadium,42.1,29.6,0.0,20.2,1,219
+1473498,2025,Arun Jaitley Stadium,41.8,28.3,0.0,11.2,0,199
+1473499,2025,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,39.1,28.1,0.0,17.5,0,205
+1473500,2025,Arun Jaitley Stadium,42.4,27.6,0.0,16.2,0,187
+1473501,2025,Wankhede Stadium,31.6,26.5,1.1,10.7,0,180
+1473502,2025,Narendra Modi Stadium,40.5,29.6,0.0,11.5,0,235
+1473503,2025,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,36.1,25.6,0.0,12.9,0,231
+1473504,2025,Narendra Modi Stadium,42.4,29.8,0.0,11.6,1,230
+1473505,2025,Arun Jaitley Stadium,31.7,22.5,0.5,14.6,1,278
+1473506,2025,Sawai Mansingh Stadium,38.6,25.1,0.0,13.7,0,184
+1473507,2025,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,38.1,26.9,0.0,15.3,0,227
+1473508,2025,Maharaja Yadavindra Singh International Cricket Stadium,40.0,26.3,0.0,17.1,0,101
+1473509,2025,Maharaja Yadavindra Singh International Cricket Stadium,38.0,24.9,3.2,20.9,1,228
+1473510,2025,Narendra Modi Stadium,39.6,28.1,0.9,19.9,0,203
+1473511,2025,Narendra Modi Stadium,38.7,28.1,0.3,17.5,0,190
+1485779,2025,Sawai Mansingh Stadium,40.7,28.4,0.0,16.4,0,206
+1527674,2026,M Chinnaswamy Stadium,33.6,21.8,0.0,13.4,0,201
+1527675,2026,Wankhede Stadium,31.3,25.3,0.2,14.9,0,220
+1527676,2026,Barsapara Cricket Stadium,25.7,18.7,1.5,9.6,0,127
+1527677,2026,Maharaja Yadavindra Singh International Cricket Stadium,30.4,16.1,0.2,15.3,0,162
+1527678,2026,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,36.3,23.1,0.0,15.4,0,141
+1527679,2026,Eden Gardens,37.7,26.0,0.9,14.2,0,226
+1527680,2026,MA Chidambaram Stadium,33.3,25.4,0.0,18.3,0,209
+1527681,2026,Arun Jaitley Stadium,30.7,21.1,1.3,8.8,0,162
+1527682,2026,Narendra Modi Stadium,32.7,24.2,0.0,12.2,1,210
+1527683,2026,Rajiv Gandhi International Stadium,33.9,27.0,2.3,8.5,0,156
+1527684,2026,M Chinnaswamy Stadium,32.4,22.1,0.3,14.9,0,250
+1527687,2026,Arun Jaitley Stadium,25.8,17.0,3.5,10.8,0,210
+1527688,2026,Eden Gardens,27.3,21.6,33.6,11.5,0,181
+1527689,2026,Barsapara Cricket Stadium,25.5,18.7,9.1,12.3,0,201
+1527690,2026,Maharaja Yadavindra Singh International Cricket Stadium,28.9,15.4,0.0,17.7,0,219
+1527691,2026,MA Chidambaram Stadium,35.2,27.3,0.0,16.2,0,212
+1527692,2026,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,37.3,23.9,0.0,19.6,0,164
+1527693,2026,Wankhede Stadium,34.7,24.9,0.0,14.9,0,240
+1529264,2026,Rajiv Gandhi International Stadium,37.4,27.4,0.0,13.6,0,216
+1529265,2026,MA Chidambaram Stadium,35.1,26.3,0.0,19.1,0,192
+1529266,2026,M Chinnaswamy Stadium,35.4,22.5,0.0,14.0,0,146
+1529267,2026,Wankhede Stadium,32.5,25.1,0.0,13.0,0,195
+1529268,2026,Narendra Modi Stadium,40.2,27.0,0.0,11.2,1,180
+1529269,2026,M Chinnaswamy Stadium,35.8,23.6,0.0,16.4,0,175
+1529270,2026,Rajiv Gandhi International Stadium,39.0,27.3,0.0,9.9,0,194
+1529271,2026,Eden Gardens,36.2,27.6,0.0,15.7,1,155
+1529272,2026,Maharaja Yadavindra Singh International Cricket Stadium,36.3,19.6,0.0,19.2,0,254
+1529273,2026,Narendra Modi Stadium,39.7,26.4,0.0,11.7,0,199
+1529274,2026,Rajiv Gandhi International Stadium,36.6,27.2,0.2,13.7,0,242
+1529275,2026,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,41.3,27.1,0.0,22.7,0,159
+1529276,2026,Wankhede Stadium,36.1,26.3,0.0,17.4,0,207
+1529277,2026,M Chinnaswamy Stadium,35.1,23.8,0.0,15.2,0,205
+1529278,2026,Arun Jaitley Stadium,42.2,28.8,0.0,17.7,1,264
+1529279,2026,Sawai Mansingh Stadium,41.1,29.3,0.0,16.5,0,228
+1529280,2026,MA Chidambaram Stadium,34.7,27.5,0.0,19.6,0,158
+1529281,2026,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,43.3,30.1,0.0,22.6,0,155
+1529282,2026,Arun Jaitley Stadium,42.5,28.6,0.0,19.8,0,75
+1529283,2026,Maharaja Yadavindra Singh International Cricket Stadium,32.2,22.5,0.5,20.5,0,222
+1529284,2026,Wankhede Stadium,33.1,26.7,0.0,16.9,1,243
+1529285,2026,Narendra Modi Stadium,41.0,28.0,0.0,17.2,0,155
+1529286,2026,Sawai Mansingh Stadium,39.3,22.6,0.0,14.3,1,225
+1529287,2026,MA Chidambaram Stadium,37.0,29.6,0.0,22.4,1,159
+1529288,2026,Rajiv Gandhi International Stadium,38.8,28.1,0.0,13.7,1,165
+1529289,2026,Narendra Modi Stadium,42.3,28.0,0.0,19.1,0,163
+1529290,2026,Wankhede Stadium,32.9,28.4,0.0,16.3,0,228
+1529291,2026,Arun Jaitley Stadium,31.0,22.5,3.9,16.5,1,155
+1529292,2026,Rajiv Gandhi International Stadium,35.8,25.4,0.0,14.2,0,235
+1529294,2026,Arun Jaitley Stadium,33.7,21.6,0.1,14.2,0,142
+1529295,2026,Sawai Mansingh Stadium,37.4,25.0,0.0,12.8,0,229
+1529296,2026,MA Chidambaram Stadium,32.0,26.4,0.8,15.0,0,203
+1529297,2026,Shaheed Veer Narayan Singh International Stadium,37.5,24.1,0.0,12.3,0,166
+1529298,2026,Himachal Pradesh Cricket Association Stadium,23.3,15.8,5.8,11.3,0,210
+1529299,2026,Narendra Modi Stadium,43.9,30.5,0.0,13.6,0,168
+1529300,2026,Shaheed Veer Narayan Singh International Stadium,39.9,29.4,0.4,14.4,0,192
+1529301,2026,Himachal Pradesh Cricket Association Stadium,26.0,18.2,0.8,14.8,0,200
+1529302,2026,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,36.4,26.3,5.0,15.1,0,187
+1529303,2026,Eden Gardens,35.4,28.0,0.8,15.8,0,247
+1529304,2026,Himachal Pradesh Cricket Association Stadium,27.0,18.7,0.0,13.7,0,222
+1529305,2026,Arun Jaitley Stadium,41.3,30.4,0.0,19.8,0,193
+1529306,2026,MA Chidambaram Stadium,35.2,28.0,1.2,18.0,1,180
+1529307,2026,Sawai Mansingh Stadium,42.3,30.8,0.0,16.4,0,220
+1529308,2026,Eden Gardens,37.1,28.7,0.0,11.5,0,147
+1529309,2026,Narendra Modi Stadium,41.1,28.9,0.0,12.1,0,229
+1529310,2026,Rajiv Gandhi International Stadium,36.8,29.3,0.2,19.5,1,255
+1529311,2026,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,42.6,30.6,0.0,24.5,0,196
+1529312,2026,Wankhede Stadium,34.0,29.6,3.0,15.3,0,205
+1529313,2026,Eden Gardens,36.2,29.6,0.9,16.5,0,203
+1535462,2026,Himachal Pradesh Cricket Association Stadium,27.9,20.2,0.0,15.1,0,254
+1535463,2026,Maharaja Yadavindra Singh International Cricket Stadium,40.5,23.3,0.0,17.8,0,243
+1535464,2026,Maharaja Yadavindra Singh International Cricket Stadium,34.5,25.6,0.0,30.0,1,214
+1535465,2026,Narendra Modi Stadium,39.2,24.8,1.3,14.1,0,155
+335982,2008,M Chinnaswamy Stadium,33.3,19.4,0.0,11.0,0,222
+335983,2008,Punjab Cricket Association Stadium,35.9,15.8,0.0,19.4,1,240
+335984,2008,Arun Jaitley Stadium,37.9,20.2,0.0,21.4,1,129
+335985,2008,Wankhede Stadium,33.8,23.6,0.0,19.7,1,165
+335986,2008,Eden Gardens,38.2,26.2,0.0,12.7,1,110
+335987,2008,Sawai Mansingh Stadium,38.4,21.9,0.0,9.7,1,166
+335988,2008,Rajiv Gandhi International Stadium,38.9,25.3,0.0,12.3,1,142
+335989,2008,MA Chidambaram Stadium,36.0,25.5,0.0,17.1,0,208
+335990,2008,Rajiv Gandhi International Stadium,37.1,24.0,0.0,18.6,0,214
+335991,2008,Punjab Cricket Association Stadium,39.5,20.0,0.0,16.5,0,182
+335992,2008,M Chinnaswamy Stadium,33.4,20.5,0.0,14.5,0,135
+335993,2008,MA Chidambaram Stadium,34.0,24.8,0.0,13.5,1,147
+335994,2008,Dr DY Patil Sports Academy,32.1,25.8,0.0,17.9,0,154
+335995,2008,Punjab Cricket Association Stadium,38.9,19.9,0.0,16.8,1,158
+335996,2008,M Chinnaswamy Stadium,32.9,21.8,12.7,18.8,1,178
+335997,2008,Eden Gardens,35.8,26.8,0.0,18.9,1,137
+335998,2008,Arun Jaitley Stadium,42.2,23.0,0.0,15.8,0,191
+335999,2008,Rajiv Gandhi International Stadium,40.3,26.3,0.0,15.1,0,164
+336000,2008,Sawai Mansingh Stadium,40.9,26.0,0.0,18.9,1,196
+336001,2008,MA Chidambaram Stadium,39.0,29.1,0.4,23.1,1,169
+336002,2008,Rajiv Gandhi International Stadium,37.8,26.5,0.2,15.3,1,165
+336003,2008,Punjab Cricket Association Stadium,42.6,21.0,0.0,16.1,1,178
+336004,2008,Dr DY Patil Sports Academy,31.2,25.4,0.0,16.8,0,162
+336005,2008,Sawai Mansingh Stadium,41.3,27.6,0.0,20.6,1,109
+336006,2008,M Chinnaswamy Stadium,32.2,19.7,0.0,15.0,0,126
+336007,2008,MA Chidambaram Stadium,38.6,27.6,0.4,22.3,0,144
+336008,2008,Dr DY Patil Sports Academy,32.0,26.1,0.0,20.3,0,103
+336009,2008,Arun Jaitley Stadium,39.3,24.0,0.0,17.1,0,187
+336011,2008,Sawai Mansingh Stadium,37.1,23.2,0.4,21.2,0,140
+336013,2008,MA Chidambaram Stadium,38.7,28.2,0.0,19.8,0,181
+336014,2008,Rajiv Gandhi International Stadium,38.4,27.2,0.0,20.0,1,204
+336015,2008,Sawai Mansingh Stadium,38.5,24.2,2.0,15.9,0,156
+336016,2008,Punjab Cricket Association Stadium,36.6,21.8,0.7,12.8,1,143
+336017,2008,Eden Gardens,36.3,26.7,3.9,11.0,1,133
+336018,2008,Wankhede Stadium,32.0,26.3,0.0,20.9,0,156
+336019,2008,Punjab Cricket Association Stadium,36.8,20.2,0.2,15.3,0,221
+336020,2008,Arun Jaitley Stadium,39.1,26.0,0.0,15.9,0,194
+336021,2008,Wankhede Stadium,32.8,26.9,0.0,16.6,0,67
+336023,2008,Sawai Mansingh Stadium,40.3,27.9,0.0,27.0,0,197
+336024,2008,Rajiv Gandhi International Stadium,38.5,26.9,0.0,23.1,0,178
+336025,2008,Eden Gardens,37.5,28.0,0.0,22.1,1,149
+336026,2008,M Chinnaswamy Stadium,32.9,21.2,1.3,12.8,0,154
+336027,2008,Eden Gardens,36.4,27.6,4.2,15.1,0,147
+336028,2008,Wankhede Stadium,32.3,27.6,0.5,18.7,0,189
+336029,2008,MA Chidambaram Stadium,37.4,28.1,0.0,17.1,1,126
+336031,2008,Punjab Cricket Association Stadium,30.9,22.9,0.0,16.5,0,175
+336032,2008,Arun Jaitley Stadium,32.8,23.9,1.7,12.6,0,176
+336033,2008,MA Chidambaram Stadium,36.7,27.8,0.0,19.6,1,211
+336034,2008,M Chinnaswamy Stadium,32.9,21.2,0.0,14.3,0,156
+336035,2008,Eden Gardens,32.9,25.7,20.9,9.7,1,174
+336036,2008,Sawai Mansingh Stadium,37.9,24.2,0.6,15.8,0,145
+336037,2008,Rajiv Gandhi International Stadium,39.3,26.9,0.0,18.0,1,147
+336038,2008,Wankhede Stadium,33.0,27.7,0.1,18.8,0,192
+336039,2008,Wankhede Stadium,33.1,28.1,0.0,19.5,1,112
+336040,2008,Dr DY Patil Sports Academy,32.9,27.9,0.0,18.1,0,163
+392181,2009,Newlands,19.2,15.3,0.8,18.2,0,165
+392182,2009,Newlands,19.2,15.3,0.8,18.2,1,133
+392184,2009,Newlands,18.0,14.8,3.1,21.3,1,101
+392185,2009,St George's Park,17.1,15.2,3.1,25.0,1,179
+392186,2009,Kingsmead,18.6,16.6,10.4,24.3,0,158
+392188,2009,Newlands,23.4,12.9,0.0,18.6,1,184
+392189,2009,Kingsmead,25.0,16.6,0.0,18.4,1,189
+392190,2009,Newlands,17.1,13.7,2.4,9.2,0,150
+392191,2009,Kingsmead,26.1,18.2,0.0,10.5,1,168
+392192,2009,Kingsmead,26.2,18.7,0.0,7.1,1,168
+392194,2009,St George's Park,20.3,16.3,0.3,20.3,1,149
+392195,2009,Newlands,20.0,14.7,0.0,15.3,1,139
+392196,2009,Kingsmead,23.7,17.1,0.0,13.9,0,165
+392197,2009,St George's Park,20.3,16.7,0.0,13.0,1,187
+392198,2009,SuperSport Park,23.3,6.7,0.0,13.1,1,143
+392199,2009,Kingsmead,27.7,18.0,0.0,15.3,1,139
+392200,2009,Kingsmead,27.7,18.0,0.0,15.3,1,119
+392201,2009,SuperSport Park,25.3,13.6,0.0,19.1,0,148
+392202,2009,SuperSport Park,25.3,13.6,0.0,19.1,0,164
+392203,2009,Buffalo Park,23.0,16.4,0.0,13.7,1,148
+392204,2009,Kingsmead,24.6,19.1,0.0,13.4,1,145
+392205,2009,St George's Park,19.4,14.9,0.0,15.6,1,141
+392206,2009,New Wanderers Stadium,18.5,10.3,1.9,23.4,0,163
+392207,2009,St George's Park,18.9,13.1,0.0,19.4,1,153
+392208,2009,New Wanderers Stadium,16.3,8.2,0.0,23.5,1,149
+392209,2009,Buffalo Park,24.7,19.1,0.0,22.8,1,178
+392210,2009,Kingsmead,23.7,18.3,0.0,10.1,0,211
+392211,2009,Kingsmead,23.7,18.3,0.0,10.1,1,154
+392212,2009,SuperSport Park,22.3,11.3,5.8,17.8,1,145
+392213,2009,SuperSport Park,21.7,11.4,0.6,15.0,0,105
+392215,2009,Buffalo Park,20.8,16.4,1.3,25.0,1,116
+392216,2009,De Beers Diamond Oval,19.9,7.0,0.0,14.3,0,168
+392217,2009,De Beers Diamond Oval,19.9,7.0,0.0,14.3,1,140
+392218,2009,St George's Park,20.6,13.9,0.0,16.6,1,157
+392219,2009,New Wanderers Stadium,14.7,2.9,0.0,11.2,0,123
+392220,2009,De Beers Diamond Oval,21.8,8.3,0.0,17.0,1,166
+392221,2009,SuperSport Park,19.5,6.2,0.0,10.4,0,173
+392222,2009,SuperSport Park,19.5,6.2,0.0,10.4,1,119
+392223,2009,Kingsmead,23.7,17.4,0.0,22.1,0,173
+392224,2009,Kingsmead,24.6,16.9,0.0,21.2,1,129
+392225,2009,Kingsmead,24.6,16.9,0.0,21.2,1,145
+392226,2009,OUTsurance Oval,20.4,8.1,5.9,26.1,0,120
+392227,2009,St George's Park,23.6,14.7,2.5,29.5,1,147
+392228,2009,New Wanderers Stadium,15.2,6.4,2.4,21.5,0,160
+392229,2009,New Wanderers Stadium,14.4,5.2,0.0,23.3,0,134
+392230,2009,OUTsurance Oval,12.0,4.6,0.0,23.8,1,150
+392231,2009,SuperSport Park,19.7,5.1,0.0,15.7,1,188
+392232,2009,New Wanderers Stadium,18.8,2.6,0.0,10.1,1,134
+392233,2009,Kingsmead,22.9,17.1,0.0,15.3,0,101
+392234,2009,Kingsmead,22.9,17.1,0.0,15.3,1,116
+392235,2009,SuperSport Park,16.7,7.4,0.0,14.8,0,165
+392236,2009,SuperSport Park,16.7,7.4,0.0,14.8,1,170
+392237,2009,SuperSport Park,19.4,8.7,0.0,10.6,0,153
+392238,2009,New Wanderers Stadium,19.0,3.2,0.0,12.4,0,146
+392239,2009,New Wanderers Stadium,18.2,7.0,0.0,10.5,0,143
+419106,2010,Dr DY Patil Sports Academy,35.9,23.9,0.0,17.9,0,161
+419107,2010,Brabourne Stadium,35.6,23.6,0.0,15.6,1,212
+419108,2010,Punjab Cricket Association Stadium,30.6,13.5,0.0,19.7,0,142
+419109,2010,Eden Gardens,35.9,24.5,0.9,15.6,0,135
+419110,2010,MA Chidambaram Stadium,34.5,23.2,0.0,15.7,1,190
+419111,2010,Narendra Modi Stadium,37.5,19.6,0.0,11.2,0,141
+419112,2010,M Chinnaswamy Stadium,32.9,22.2,0.0,13.9,1,203
+419113,2010,Eden Gardens,34.9,22.2,3.8,12.7,1,164
+419114,2010,Arun Jaitley Stadium,32.6,17.2,0.0,9.2,0,218
+419115,2010,M Chinnaswamy Stadium,32.5,18.5,0.0,19.6,0,92
+419116,2010,Arun Jaitley Stadium,33.9,18.9,0.0,16.1,1,185
+419117,2010,Barabati Stadium,38.7,24.0,0.0,13.2,0,170
+419118,2010,Narendra Modi Stadium,40.7,22.9,0.0,8.9,1,168
+419119,2010,Brabourne Stadium,32.4,22.4,0.0,17.0,1,151
+419120,2010,Barabati Stadium,38.4,23.0,0.0,15.8,1,171
+419121,2010,MA Chidambaram Stadium,35.1,22.3,0.0,13.6,0,136
+419122,2010,Brabourne Stadium,35.1,24.6,0.0,20.1,1,155
+419123,2010,M Chinnaswamy Stadium,34.8,18.2,0.0,12.2,0,171
+419124,2010,Punjab Cricket Association Stadium,36.8,18.4,0.0,11.3,0,183
+419125,2010,Brabourne Stadium,31.7,22.3,0.0,15.5,0,180
+419126,2010,Narendra Modi Stadium,37.1,21.7,0.0,9.6,1,148
+419127,2010,Punjab Cricket Association Stadium,35.9,18.7,0.0,20.6,1,183
+419128,2010,M Chinnaswamy Stadium,35.0,17.9,0.0,15.5,0,183
+419129,2010,Narendra Modi Stadium,38.7,21.4,0.0,11.8,1,177
+419130,2010,Dr DY Patil Sports Academy,32.5,23.0,0.0,21.2,0,172
+419131,2010,Arun Jaitley Stadium,36.9,20.0,0.0,20.2,1,177
+419132,2010,Brabourne Stadium,31.6,24.0,0.0,16.7,0,163
+419133,2010,MA Chidambaram Stadium,36.4,28.1,0.0,25.9,1,161
+419134,2010,Arun Jaitley Stadium,36.1,18.8,0.0,15.8,1,188
+419135,2010,Eden Gardens,38.6,26.5,0.6,18.8,1,181
+419136,2010,Punjab Cricket Association Stadium,35.2,16.3,0.0,14.4,1,181
+419137,2010,MA Chidambaram Stadium,35.1,27.2,0.0,21.6,1,246
+419138,2010,Brabourne Stadium,34.7,22.0,0.0,17.1,1,178
+419139,2010,Eden Gardens,36.6,26.6,0.0,19.1,1,200
+419140,2010,Arun Jaitley Stadium,37.6,20.9,0.0,15.6,1,184
+419141,2010,Vidarbha Cricket Association Stadium,40.8,24.3,0.0,11.4,1,159
+419142,2010,MA Chidambaram Stadium,35.6,26.2,0.0,20.2,1,165
+419143,2010,Sawai Mansingh Stadium,39.1,21.6,0.0,15.6,1,153
+419144,2010,Eden Gardens,38.6,25.9,0.0,16.2,1,181
+419145,2010,M Chinnaswamy Stadium,33.5,20.8,0.2,17.1,0,184
+419146,2010,Punjab Cricket Association Stadium,39.6,21.0,0.0,21.1,1,154
+419147,2010,Vidarbha Cricket Association Stadium,42.4,30.1,0.0,16.1,1,138
+419148,2010,M Chinnaswamy Stadium,36.1,22.2,0.0,11.0,0,160
+419149,2010,Arun Jaitley Stadium,41.2,23.0,0.0,13.0,1,111
+419150,2010,Sawai Mansingh Stadium,39.8,24.8,0.0,14.8,0,174
+419151,2010,Vidarbha Cricket Association Stadium,42.3,28.6,0.0,15.6,0,151
+419152,2010,Brabourne Stadium,32.3,24.2,0.0,17.0,1,183
+419153,2010,MA Chidambaram Stadium,35.8,28.1,0.0,23.0,1,139
+419154,2010,Sawai Mansingh Stadium,41.3,22.4,0.0,14.2,1,130
+419155,2010,MA Chidambaram Stadium,35.1,28.0,0.0,21.4,1,112
+419156,2010,Himachal Pradesh Cricket Association Stadium,31.1,16.1,0.2,16.7,0,174
+419157,2010,M Chinnaswamy Stadium,34.7,21.7,0.0,11.6,0,191
+419158,2010,Eden Gardens,35.8,27.3,0.0,25.3,1,132
+419159,2010,Himachal Pradesh Cricket Association Stadium,29.0,19.1,2.2,14.7,0,192
+419160,2010,Arun Jaitley Stadium,43.9,28.8,0.0,20.2,1,145
+419161,2010,Eden Gardens,37.6,27.9,0.0,26.0,1,133
+419162,2010,Dr DY Patil Sports Academy,32.9,26.2,0.0,19.6,1,184
+419163,2010,Dr DY Patil Sports Academy,33.3,25.4,0.0,20.4,1,142
+419164,2010,Dr DY Patil Sports Academy,34.6,27.0,0.0,17.0,1,82
+419165,2010,Dr DY Patil Sports Academy,33.7,25.7,0.0,17.5,1,168
+501198,2011,MA Chidambaram Stadium,33.2,24.2,0.0,15.6,1,153
+501199,2011,Rajiv Gandhi International Stadium,34.1,23.5,2.2,8.9,0,137
+501200,2011,Nehru Stadium,31.6,26.6,0.6,9.0,1,161
+501201,2011,Arun Jaitley Stadium,33.0,19.4,0.0,13.1,1,95
+501202,2011,Dr DY Patil Sports Academy,32.7,24.4,0.0,20.8,1,112
+501203,2011,Eden Gardens,35.9,22.9,0.1,11.3,1,163
+501204,2011,Sawai Mansingh Stadium,34.3,20.3,0.1,10.7,1,151
+501205,2011,M Chinnaswamy Stadium,33.6,20.8,0.0,11.9,0,140
+501206,2011,Punjab Cricket Association Stadium,30.5,16.2,0.5,9.3,0,188
+501207,2011,Dr DY Patil Sports Academy,33.4,25.0,0.0,20.4,1,148
+501208,2011,Rajiv Gandhi International Stadium,35.4,23.9,0.0,13.9,0,175
+501209,2011,Sawai Mansingh Stadium,34.9,19.5,0.0,10.3,0,159
+501210,2011,Wankhede Stadium,31.1,24.2,0.0,15.9,0,182
+501211,2011,MA Chidambaram Stadium,33.9,25.9,0.0,16.3,1,183
+501212,2011,Rajiv Gandhi International Stadium,35.0,23.9,0.0,12.4,0,165
+501213,2011,Dr DY Patil Sports Academy,32.3,25.1,0.0,19.8,0,187
+501214,2011,Eden Gardens,36.4,25.9,0.2,16.3,0,81
+501216,2011,Arun Jaitley Stadium,33.0,18.2,0.0,15.3,1,168
+501218,2011,Wankhede Stadium,31.9,25.3,0.0,19.2,1,118
+501219,2011,Eden Gardens,36.5,26.7,0.5,12.9,0,132
+501220,2011,Punjab Cricket Association Stadium,30.8,14.0,0.5,16.9,0,195
+501221,2011,Wankhede Stadium,31.5,23.6,0.0,19.6,0,164
+501222,2011,Eden Gardens,32.7,24.9,8.7,10.7,0,171
+501223,2011,Arun Jaitley Stadium,36.2,19.4,0.0,10.2,0,231
+501224,2011,Rajiv Gandhi International Stadium,33.8,22.0,0.0,15.3,0,172
+501225,2011,Sawai Mansingh Stadium,37.5,21.2,0.0,12.1,0,109
+501226,2011,MA Chidambaram Stadium,30.7,25.0,3.4,13.2,0,142
+501227,2011,Arun Jaitley Stadium,36.3,22.9,0.0,26.3,0,160
+501228,2011,Dr DY Patil Sports Academy,33.7,25.9,0.0,20.3,1,141
+501229,2011,Nehru Stadium,30.4,25.9,2.7,11.9,0,129
+501230,2011,Arun Jaitley Stadium,38.8,23.7,0.0,14.5,0,148
+501231,2011,Sawai Mansingh Stadium,39.3,26.5,0.0,18.4,0,94
+501232,2011,M Chinnaswamy Stadium,30.4,20.8,0.0,14.4,0,181
+501233,2011,Nehru Stadium,30.1,25.8,3.9,7.8,1,157
+501234,2011,Eden Gardens,33.2,25.3,0.5,12.0,0,119
+501235,2011,Sawai Mansingh Stadium,38.9,26.4,0.0,18.2,0,143
+501236,2011,MA Chidambaram Stadium,34.0,26.6,0.4,15.5,1,165
+501237,2011,Wankhede Stadium,31.8,26.0,0.0,17.2,0,159
+501238,2011,Arun Jaitley Stadium,40.2,23.9,0.0,17.7,0,140
+501239,2011,Rajiv Gandhi International Stadium,39.2,26.8,0.0,18.0,0,169
+501240,2011,MA Chidambaram Stadium,38.5,28.3,0.2,16.2,1,147
+501241,2011,Dr DY Patil Sports Academy,32.2,26.2,0.0,17.9,0,160
+501242,2011,Nehru Stadium,30.7,26.9,2.4,8.7,0,156
+501243,2011,Rajiv Gandhi International Stadium,38.9,27.0,0.0,21.0,0,175
+501244,2011,M Chinnaswamy Stadium,32.3,19.4,0.0,13.8,0,205
+501245,2011,Eden Gardens,33.6,25.7,2.2,17.0,1,114
+501246,2011,Wankhede Stadium,31.4,24.8,0.0,17.7,0,178
+501247,2011,M Chinnaswamy Stadium,30.6,17.8,0.0,13.6,1,125
+501248,2011,Punjab Cricket Association Stadium,35.7,19.7,0.0,15.0,1,119
+501249,2011,Sawai Mansingh Stadium,41.0,24.2,0.0,26.8,0,196
+501250,2011,Rajiv Gandhi International Stadium,36.9,28.1,0.0,14.5,1,136
+501251,2011,Punjab Cricket Association Stadium,39.4,22.1,0.1,19.8,0,163
+501252,2011,Sawai Mansingh Stadium,41.1,28.1,0.0,21.8,0,146
+501253,2011,MA Chidambaram Stadium,37.8,27.1,0.0,23.4,1,176
+501254,2011,Holkar Cricket Stadium,39.8,24.8,0.0,17.7,0,178
+501256,2011,Wankhede Stadium,32.4,25.6,0.0,17.9,1,135
+501257,2011,Himachal Pradesh Cricket Association Stadium,30.1,16.2,0.0,9.4,0,170
+501258,2011,Holkar Cricket Stadium,40.4,26.0,0.0,17.7,0,97
+501259,2011,Dr DY Patil Sports Academy,32.3,25.6,0.0,12.5,0,136
+501260,2011,Himachal Pradesh Cricket Association Stadium,30.8,17.5,0.4,7.9,1,232
+501261,2011,MA Chidambaram Stadium,36.0,27.4,0.3,22.8,1,152
+501262,2011,Dr DY Patil Sports Academy,31.6,26.4,0.0,20.9,0,118
+501263,2011,Wankhede Stadium,32.1,27.1,0.0,22.5,1,133
+501264,2011,Himachal Pradesh Cricket Association Stadium,27.6,17.8,1.4,9.5,0,198
+501266,2011,M Chinnaswamy Stadium,30.3,19.7,0.0,11.3,0,128
+501267,2011,Eden Gardens,36.4,28.3,0.0,19.9,0,175
+501268,2011,Wankhede Stadium,32.2,26.7,1.1,15.5,0,175
+501269,2011,Wankhede Stadium,32.6,26.3,0.0,16.7,0,147
+501270,2011,MA Chidambaram Stadium,37.7,28.4,0.0,22.3,0,185
+501271,2011,MA Chidambaram Stadium,37.4,27.7,3.6,18.8,1,205
+548306,2012,MA Chidambaram Stadium,34.8,23.6,0.0,22.1,0,112
+548308,2012,Wankhede Stadium,31.4,23.6,0.0,17.3,0,129
+548309,2012,Sawai Mansingh Stadium,38.1,22.5,0.0,13.8,0,191
+548310,2012,M Chinnaswamy Stadium,33.3,21.3,0.0,8.8,0,157
+548311,2012,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,33.1,26.6,0.0,21.6,0,193
+548312,2012,Sawai Mansingh Stadium,37.9,21.8,0.0,17.2,0,164
+548313,2012,Subrata Roy Sahara Stadium,39.0,19.9,0.0,16.8,1,166
+548314,2012,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,33.4,26.9,0.0,25.8,1,138
+548315,2012,M Chinnaswamy Stadium,34.3,21.7,0.0,11.7,0,165
+548316,2012,Arun Jaitley Stadium,36.4,19.1,0.1,15.7,0,110
+548317,2012,Wankhede Stadium,31.1,24.0,0.0,17.7,0,197
+548318,2012,MA Chidambaram Stadium,34.5,26.1,0.0,20.1,1,205
+548319,2012,Punjab Cricket Association Stadium,30.3,16.3,0.0,14.4,0,115
+548320,2012,Eden Gardens,34.4,23.3,6.0,16.2,1,131
+548321,2012,Arun Jaitley Stadium,35.2,20.7,0.0,18.4,1,157
+548322,2012,Subrata Roy Sahara Stadium,38.1,20.1,0.0,13.4,1,155
+548323,2012,Eden Gardens,36.2,25.8,0.6,14.8,0,134
+548324,2012,M Chinnaswamy Stadium,35.1,19.8,0.0,16.4,1,195
+548325,2012,Wankhede Stadium,33.7,25.7,0.0,18.3,0,92
+548326,2012,Sawai Mansingh Stadium,34.9,19.8,0.0,15.7,1,196
+548327,2012,M Chinnaswamy Stadium,35.4,22.7,1.1,11.0,1,182
+548328,2012,Punjab Cricket Association Stadium,31.5,17.9,0.0,12.0,1,124
+548329,2012,Rajiv Gandhi International Stadium,37.8,27.3,0.4,13.2,1,187
+548330,2012,MA Chidambaram Stadium,35.2,26.6,0.0,17.9,0,164
+548331,2012,Punjab Cricket Association Stadium,35.5,23.2,0.3,15.9,0,163
+548332,2012,MA Chidambaram Stadium,36.3,27.2,0.0,15.0,1,146
+548333,2012,Arun Jaitley Stadium,34.0,21.7,0.0,19.9,0,192
+548334,2012,Wankhede Stadium,34.6,25.9,0.0,24.2,1,163
+548335,2012,Barabati Stadium,39.4,26.9,3.4,15.1,0,126
+548336,2012,Sawai Mansingh Stadium,34.4,19.0,0.0,11.2,0,189
+548337,2012,Subrata Roy Sahara Stadium,37.0,19.0,0.0,16.4,1,146
+548339,2012,Punjab Cricket Association Stadium,34.1,18.8,1.0,10.5,1,168
+548341,2012,Subrata Roy Sahara Stadium,38.7,21.6,0.0,20.0,1,177
+548342,2012,Arun Jaitley Stadium,33.7,20.5,0.0,18.5,0,207
+548343,2012,MA Chidambaram Stadium,35.1,27.3,0.0,20.0,1,156
+548344,2012,Eden Gardens,37.4,27.1,9.4,22.5,1,190
+548345,2012,Arun Jaitley Stadium,35.3,19.9,0.0,14.5,1,152
+548346,2012,Wankhede Stadium,30.5,24.1,0.0,19.5,0,100
+548347,2012,MA Chidambaram Stadium,35.1,27.6,0.2,19.8,1,139
+548348,2012,Barabati Stadium,38.6,27.9,0.1,16.7,1,186
+548349,2012,Sawai Mansingh Stadium,35.7,21.4,0.0,14.5,1,141
+548350,2012,M Chinnaswamy Stadium,31.5,20.7,0.5,13.0,0,158
+548351,2012,Subrata Roy Sahara Stadium,37.9,19.8,0.0,18.6,1,120
+548352,2012,MA Chidambaram Stadium,39.3,28.9,0.0,25.3,1,160
+548353,2012,Eden Gardens,31.8,24.8,8.5,5.4,1,150
+548354,2012,Punjab Cricket Association Stadium,35.9,19.6,0.0,21.2,1,177
+548355,2012,Wankhede Stadium,31.1,26.3,0.0,19.0,0,173
+548356,2012,M Chinnaswamy Stadium,32.1,19.3,0.0,13.7,0,181
+548357,2012,Arun Jaitley Stadium,38.7,22.8,0.0,17.3,1,153
+548358,2012,Subrata Roy Sahara Stadium,38.0,21.0,0.0,14.6,1,125
+548359,2012,Rajiv Gandhi International Stadium,37.6,25.1,0.5,11.5,0,170
+548360,2012,Wankhede Stadium,31.6,25.2,0.0,20.5,0,141
+548361,2012,Sawai Mansingh Stadium,40.0,25.9,0.1,18.5,0,126
+548362,2012,Subrata Roy Sahara Stadium,36.0,23.2,1.6,14.1,0,173
+548363,2012,Eden Gardens,36.2,27.6,0.3,19.6,1,182
+548364,2012,MA Chidambaram Stadium,36.0,27.9,0.0,22.1,0,114
+548365,2012,Sawai Mansingh Stadium,36.8,23.4,0.2,11.3,1,170
+548366,2012,Punjab Cricket Association Stadium,37.5,23.3,0.0,19.5,1,190
+548367,2012,M Chinnaswamy Stadium,29.9,20.9,1.4,8.0,0,171
+548368,2012,Eden Gardens,38.8,28.7,1.2,20.4,0,158
+548369,2012,Arun Jaitley Stadium,39.2,23.5,0.0,18.2,1,136
+548370,2012,Wankhede Stadium,31.5,25.6,0.0,19.2,0,140
+548371,2012,Himachal Pradesh Cricket Association Stadium,28.2,15.4,0.4,9.4,0,120
+548372,2012,Arun Jaitley Stadium,39.9,25.7,0.0,18.3,0,215
+548373,2012,Rajiv Gandhi International Stadium,40.5,24.8,0.0,19.8,1,126
+548374,2012,Himachal Pradesh Cricket Association Stadium,27.7,15.5,0.1,10.8,0,141
+548375,2012,Subrata Roy Sahara Stadium,38.8,21.1,0.0,21.6,1,136
+548376,2012,Rajiv Gandhi International Stadium,40.5,27.2,0.0,20.5,0,132
+548377,2012,Sawai Mansingh Stadium,40.2,23.8,0.0,13.4,1,162
+548378,2012,Subrata Roy Sahara Stadium,38.0,21.5,0.0,18.5,1,162
+548379,2012,M Chinnaswamy Stadium,32.4,21.1,0.0,15.5,0,187
+548380,2012,MA Chidambaram Stadium,40.5,30.7,0.0,18.8,0,222
+548381,2012,MA Chidambaram Stadium,40.1,30.6,0.0,21.7,1,190
+597998,2013,Eden Gardens,37.0,25.0,0.0,15.9,0,128
+597999,2013,M Chinnaswamy Stadium,33.4,21.2,0.0,8.9,0,156
+598000,2013,Rajiv Gandhi International Stadium,37.9,22.8,0.0,10.3,0,126
+598001,2013,Arun Jaitley Stadium,32.7,16.7,0.0,21.8,1,165
+598002,2013,MA Chidambaram Stadium,37.0,27.7,0.0,21.1,1,148
+598003,2013,Subrata Roy Sahara Stadium,37.9,18.3,0.0,17.8,1,99
+598004,2013,Rajiv Gandhi International Stadium,37.2,25.4,0.0,15.0,1,130
+598005,2013,Sawai Mansingh Stadium,35.9,18.8,0.0,10.3,0,144
+598006,2013,Wankhede Stadium,32.7,21.7,0.0,22.4,1,209
+598007,2013,Punjab Cricket Association Stadium,32.6,18.3,2.2,12.3,0,138
+598008,2013,M Chinnaswamy Stadium,34.8,20.4,0.0,10.1,0,154
+598009,2013,Subrata Roy Sahara Stadium,38.1,20.8,0.0,17.8,1,145
+598010,2013,Arun Jaitley Stadium,34.6,19.2,0.0,15.5,1,114
+598011,2013,Wankhede Stadium,34.0,24.0,0.0,20.5,1,183
+598012,2013,MA Chidambaram Stadium,32.5,25.8,1.3,20.4,0,165
+598013,2013,Eden Gardens,35.8,26.1,0.4,15.8,1,180
+598014,2013,Sawai Mansingh Stadium,36.2,22.5,0.0,17.2,0,124
+598015,2013,MA Chidambaram Stadium,35.9,27.2,0.0,23.1,1,159
+598016,2013,Punjab Cricket Association Stadium,33.7,16.8,1.8,20.8,0,157
+598017,2013,M Chinnaswamy Stadium,34.5,21.7,0.0,12.8,0,152
+598018,2013,Maharashtra Cricket Association Stadium,34.9,18.0,0.0,16.4,0,119
+598019,2013,Sawai Mansingh Stadium,37.1,20.4,0.0,10.2,1,179
+598020,2013,Arun Jaitley Stadium,36.4,19.6,0.0,11.6,1,169
+598021,2013,Rajiv Gandhi International Stadium,37.8,26.0,0.4,22.7,1,123
+598022,2013,Eden Gardens,29.9,23.9,11.5,10.6,1,119
+598023,2013,M Chinnaswamy Stadium,32.9,21.1,0.0,11.7,0,117
+598024,2013,Arun Jaitley Stadium,32.5,21.7,1.3,26.8,1,161
+598025,2013,Punjab Cricket Association Stadium,31.6,20.9,4.1,23.4,0,185
+598026,2013,MA Chidambaram Stadium,33.8,27.2,1.2,21.6,1,185
+598027,2013,M Chinnaswamy Stadium,31.4,21.8,0.0,15.3,0,263
+598028,2013,Himachal Pradesh Cricket Association Stadium,27.7,15.8,0.4,10.3,0,171
+598029,2013,Eden Gardens,33.0,23.3,2.4,10.6,1,159
+598030,2013,MA Chidambaram Stadium,33.3,27.1,0.3,15.9,1,159
+598031,2013,Eden Gardens,35.4,25.8,0.5,14.7,1,149
+598032,2013,Sawai Mansingh Stadium,36.9,24.2,0.0,22.2,1,144
+598033,2013,Wankhede Stadium,35.1,25.2,0.0,22.6,1,194
+598034,2013,MA Chidambaram Stadium,37.0,27.4,0.0,18.6,0,200
+598035,2013,Shaheed Veer Narayan Singh International Stadium,39.1,27.1,0.0,12.1,0,164
+598036,2013,Sawai Mansingh Stadium,38.8,23.6,0.0,18.2,0,171
+598037,2013,Wankhede Stadium,35.1,26.8,0.0,20.3,1,174
+598038,2013,Subrata Roy Sahara Stadium,41.2,22.6,0.0,18.4,1,164
+598039,2013,Rajiv Gandhi International Stadium,39.9,26.0,0.0,13.7,1,129
+598040,2013,Shaheed Veer Narayan Singh International Stadium,41.5,29.6,0.2,19.2,1,136
+598041,2013,MA Chidambaram Stadium,36.4,27.5,0.0,23.5,1,186
+598042,2013,Subrata Roy Sahara Stadium,40.1,25.1,0.1,17.4,1,187
+598043,2013,Eden Gardens,38.1,27.9,0.0,23.9,1,132
+598044,2013,Rajiv Gandhi International Stadium,41.3,27.5,0.0,21.6,1,80
+598045,2013,M Chinnaswamy Stadium,31.8,21.5,0.0,20.5,0,174
+598046,2013,Wankhede Stadium,32.9,26.2,0.0,19.3,1,139
+598047,2013,Sawai Mansingh Stadium,41.1,27.1,0.0,15.1,1,178
+598048,2013,M Chinnaswamy Stadium,33.3,22.5,0.0,13.7,1,161
+598049,2013,Sawai Mansingh Stadium,41.1,24.1,0.0,13.2,1,154
+598050,2013,Wankhede Stadium,32.1,25.7,0.0,18.8,1,170
+598051,2013,Rajiv Gandhi International Stadium,39.5,27.8,0.4,14.8,0,223
+598052,2013,Punjab Cricket Association Stadium,38.4,20.9,0.0,17.8,0,145
+598053,2013,Subrata Roy Sahara Stadium,38.4,22.6,0.0,17.2,1,152
+598054,2013,Arun Jaitley Stadium,40.4,23.8,0.0,13.1,0,183
+598055,2013,Subrata Roy Sahara Stadium,37.2,22.7,0.1,18.6,1,112
+598056,2013,Punjab Cricket Association Stadium,36.7,22.9,0.7,20.3,0,150
+598057,2013,JSCA International Stadium Complex,38.4,25.0,0.0,19.2,0,115
+598058,2013,Sawai Mansingh Stadium,36.4,23.6,0.8,18.6,0,141
+598059,2013,Arun Jaitley Stadium,32.8,19.8,0.2,8.7,0,120
+598060,2013,Wankhede Stadium,32.1,25.7,0.0,20.0,1,178
+598061,2013,JSCA International Stadium Complex,37.3,23.4,0.0,13.3,0,170
+598062,2013,MA Chidambaram Stadium,36.6,29.1,0.0,16.9,1,168
+598063,2013,Wankhede Stadium,31.9,26.1,0.0,19.5,0,166
+598064,2013,Punjab Cricket Association Stadium,37.7,22.5,0.0,14.2,0,190
+598065,2013,Rajiv Gandhi International Stadium,38.3,29.4,0.0,17.3,1,136
+598066,2013,Himachal Pradesh Cricket Association Stadium,30.4,15.2,0.0,9.3,0,183
+598067,2013,Subrata Roy Sahara Stadium,37.5,23.1,0.9,15.3,1,172
+598069,2013,Rajiv Gandhi International Stadium,39.1,28.9,0.0,19.6,1,130
+598070,2013,Arun Jaitley Stadium,43.8,26.8,0.0,17.3,1,192
+598071,2013,Arun Jaitley Stadium,43.5,27.8,0.0,20.3,1,132
+598072,2013,Eden Gardens,35.6,26.8,2.0,13.8,1,165
+598073,2013,Eden Gardens,33.5,27.5,1.9,14.5,1,148
+729279,2014,Sheikh Zayed Stadium,36.7,22.2,0.0,23.9,1,163
+729281,2014,Sharjah Cricket Stadium,36.7,22.7,0.0,21.3,0,145
+729283,2014,Sheikh Zayed Stadium,34.8,25.4,0.0,28.0,1,205
+729285,2014,Sheikh Zayed Stadium,34.8,25.4,0.0,28.0,0,133
+729287,2014,Dubai International Cricket Stadium,38.8,19.7,0.0,25.4,0,115
+729289,2014,Dubai International Cricket Stadium,38.8,19.7,0.0,25.4,1,166
+729291,2014,Sharjah Cricket Stadium,33.4,23.7,0.0,28.8,0,191
+729293,2014,Sheikh Zayed Stadium,33.0,21.1,0.0,19.9,1,177
+729295,2014,Sharjah Cricket Stadium,36.2,24.0,0.0,26.5,0,193
+729297,2014,Dubai International Cricket Stadium,36.9,24.1,0.0,17.2,0,140
+729299,2014,Sharjah Cricket Stadium,38.4,24.6,0.0,19.8,0,150
+729301,2014,Dubai International Cricket Stadium,37.4,22.0,0.0,25.1,1,184
+729303,2014,Dubai International Cricket Stadium,37.4,22.0,0.0,25.1,1,141
+729305,2014,Sheikh Zayed Stadium,34.7,23.6,0.0,19.6,0,70
+729307,2014,Sheikh Zayed Stadium,34.7,23.6,0.0,19.6,0,132
+729309,2014,Sharjah Cricket Stadium,36.9,20.1,0.0,21.7,1,125
+729311,2014,Sharjah Cricket Stadium,36.9,20.1,0.0,21.7,1,145
+729313,2014,Dubai International Cricket Stadium,39.2,20.1,0.0,22.1,0,124
+729315,2014,Sheikh Zayed Stadium,35.7,23.4,0.0,20.1,1,152
+729317,2014,Dubai International Cricket Stadium,39.4,23.9,0.0,26.6,0,172
+733973,2014,Wankhede Stadium,33.1,24.6,0.0,18.7,1,168
+733975,2014,Arun Jaitley Stadium,36.9,24.8,0.6,16.4,0,152
+733977,2014,M Chinnaswamy Stadium,34.7,22.2,3.9,13.6,0,155
+733979,2014,Narendra Modi Stadium,38.6,25.7,0.7,9.4,0,170
+733981,2014,Arun Jaitley Stadium,36.9,25.0,1.3,19.3,0,178
+733983,2014,Wankhede Stadium,34.2,25.1,0.0,17.0,0,187
+733985,2014,Arun Jaitley Stadium,36.7,23.6,0.0,12.7,1,160
+733987,2014,Barabati Stadium,37.2,26.8,0.5,20.9,0,231
+733989,2014,Narendra Modi Stadium,41.5,26.0,0.0,13.5,0,134
+733991,2014,M Chinnaswamy Stadium,26.9,20.1,29.2,20.6,0,198
+733993,2014,Arun Jaitley Stadium,37.4,22.2,0.0,10.1,0,143
+733995,2014,Wankhede Stadium,32.2,26.5,0.0,18.1,0,157
+733997,2014,Barabati Stadium,36.4,25.4,0.0,16.5,0,149
+733999,2014,M Chinnaswamy Stadium,29.9,20.5,0.0,10.2,1,190
+734001,2014,Rajiv Gandhi International Stadium,34.7,24.1,0.0,18.3,1,157
+734003,2014,JSCA International Stadium Complex,36.8,23.8,0.0,13.6,1,148
+734005,2014,M Chinnaswamy Stadium,31.5,19.8,0.0,8.9,0,186
+734007,2014,Rajiv Gandhi International Stadium,35.0,25.2,0.0,17.7,0,205
+734009,2014,Barabati Stadium,39.1,27.5,0.8,10.8,0,141
+734011,2014,Narendra Modi Stadium,36.7,26.3,0.0,16.9,0,201
+734013,2014,JSCA International Stadium Complex,37.8,24.8,0.0,13.0,1,138
+734015,2014,Rajiv Gandhi International Stadium,37.5,25.6,0.0,11.8,1,142
+734017,2014,Narendra Modi Stadium,39.2,27.4,0.0,13.8,1,178
+734019,2014,Arun Jaitley Stadium,37.9,23.7,0.0,20.3,0,164
+734021,2014,Rajiv Gandhi International Stadium,35.5,25.1,0.0,9.8,1,160
+734023,2014,Eden Gardens,40.2,28.0,0.0,19.1,0,154
+734025,2014,Punjab Cricket Association Stadium,36.3,21.6,0.0,18.9,0,156
+734027,2014,Eden Gardens,38.5,28.2,0.0,21.3,0,195
+734029,2014,JSCA International Stadium Complex,38.3,25.0,0.0,18.2,0,185
+734031,2014,Wankhede Stadium,32.9,26.1,0.0,18.7,0,173
+734033,2014,Punjab Cricket Association Stadium,39.5,23.5,0.7,23.9,0,179
+734035,2014,M Chinnaswamy Stadium,32.1,21.7,0.0,13.6,0,154
+734037,2014,Eden Gardens,34.8,27.5,0.7,16.8,0,160
+734039,2014,Punjab Cricket Association Stadium,39.3,22.0,0.0,15.8,0,115
+734041,2014,Wankhede Stadium,32.6,26.3,0.0,20.2,0,189
+734043,2014,Eden Gardens,30.1,25.7,14.2,21.4,0,163
+734045,2014,Brabourne Stadium,33.2,27.5,0.0,21.7,0,173
+734047,2014,Wankhede Stadium,32.7,27.8,0.0,20.3,0,226
+734049,2014,M Chinnaswamy Stadium,30.0,21.4,15.3,14.5,0,199
+829705,2015,Eden Gardens,30.0,24.0,3.5,10.0,0,168
+829707,2015,MA Chidambaram Stadium,33.2,26.1,1.2,19.6,0,150
+829709,2015,Maharashtra Cricket Association Stadium,34.9,22.8,1.3,13.4,0,162
+829711,2015,MA Chidambaram Stadium,34.8,25.5,0.0,20.6,1,209
+829713,2015,Eden Gardens,33.7,25.3,0.4,15.6,0,177
+829715,2015,Arun Jaitley Stadium,29.6,20.0,0.0,15.5,0,184
+829717,2015,Wankhede Stadium,30.8,24.2,0.0,20.5,0,177
+829719,2015,M Chinnaswamy Stadium,26.7,19.3,16.1,7.2,0,166
+829721,2015,Narendra Modi Stadium,33.6,23.0,0.0,9.4,1,164
+829723,2015,Eden Gardens,32.1,24.7,5.4,16.0,0,165
+829725,2015,Maharashtra Cricket Association Stadium,32.5,19.2,0.0,16.7,1,165
+829727,2015,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,29.7,23.8,2.7,15.9,0,127
+829729,2015,Wankhede Stadium,33.6,26.4,0.0,21.7,1,183
+829731,2015,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,32.5,25.7,0.0,19.9,1,167
+829733,2015,Maharashtra Cricket Association Stadium,38.0,20.6,0.0,15.9,0,155
+829735,2015,Narendra Modi Stadium,41.0,24.0,0.0,11.9,1,156
+829737,2015,M Chinnaswamy Stadium,29.8,19.3,0.0,11.9,0,209
+829739,2015,Arun Jaitley Stadium,38.8,24.4,0.2,19.2,0,146
+829741,2015,Narendra Modi Stadium,41.3,26.3,0.0,12.1,0,191
+829743,2015,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,34.6,27.7,0.0,27.4,0,176
+829745,2015,M Chinnaswamy Stadium,31.4,20.8,2.2,11.1,0,181
+829747,2015,Arun Jaitley Stadium,38.7,21.2,0.0,11.1,0,190
+829749,2015,Narendra Modi Stadium,39.0,23.2,0.0,12.9,0,130
+829751,2015,Wankhede Stadium,31.9,25.4,0.0,16.9,1,157
+829753,2015,MA Chidambaram Stadium,33.7,25.4,5.9,20.0,1,192
+829757,2015,Arun Jaitley Stadium,34.3,22.9,0.0,25.0,0,95
+829759,2015,Punjab Cricket Association Stadium,34.0,23.1,1.4,25.3,0,150
+829761,2015,Eden Gardens,35.6,27.2,0.0,20.3,1,171
+829763,2015,M Chinnaswamy Stadium,31.4,19.7,0.4,9.3,0,200
+829765,2015,MA Chidambaram Stadium,34.8,26.0,0.0,20.4,0,134
+829767,2015,Arun Jaitley Stadium,36.2,23.5,0.0,21.8,0,118
+829769,2015,Wankhede Stadium,32.5,26.0,0.0,15.2,0,187
+829773,2015,Rajiv Gandhi International Stadium,38.3,24.2,0.0,15.2,0,192
+829775,2015,Punjab Cricket Association Stadium,36.0,17.5,0.0,13.7,1,172
+829777,2015,Brabourne Stadium,32.3,25.7,0.0,17.9,0,189
+829779,2015,MA Chidambaram Stadium,34.0,27.2,0.7,21.1,1,148
+829781,2015,Eden Gardens,33.1,25.6,0.0,12.3,0,167
+829783,2015,Wankhede Stadium,33.3,25.2,0.0,16.2,1,152
+829785,2015,M Chinnaswamy Stadium,30.0,21.2,3.8,7.2,0,226
+829787,2015,Brabourne Stadium,33.6,26.8,0.0,18.3,0,201
+829789,2015,MA Chidambaram Stadium,36.3,27.3,0.0,21.5,1,158
+829791,2015,Eden Gardens,33.9,27.2,0.0,14.1,1,183
+829793,2015,Shaheed Veer Narayan Singh International Stadium,40.9,28.6,0.0,13.1,1,163
+829795,2015,Wankhede Stadium,34.4,27.6,0.0,22.0,1,235
+829797,2015,MA Chidambaram Stadium,34.6,28.4,0.0,17.6,1,157
+829799,2015,Rajiv Gandhi International Stadium,36.7,26.4,1.1,14.0,1,185
+829801,2015,Shaheed Veer Narayan Singh International Stadium,39.2,26.7,0.0,14.3,1,119
+829805,2015,Wankhede Stadium,34.1,27.3,0.3,20.0,0,171
+829809,2015,Punjab Cricket Association Stadium,35.9,21.2,0.0,8.2,1,130
+829811,2015,Brabourne Stadium,34.1,27.4,0.0,20.1,1,199
+829813,2015,M Chinnaswamy Stadium,28.3,20.4,13.6,10.4,0,187
+829815,2015,Rajiv Gandhi International Stadium,35.0,24.4,0.0,11.9,1,113
+829817,2015,Wankhede Stadium,33.0,26.9,0.0,18.2,1,187
+829819,2015,Maharashtra Cricket Association Stadium,38.3,22.8,0.0,18.0,1,180
+829821,2015,JSCA International Stadium Complex,39.2,22.7,0.0,17.7,0,139
+829823,2015,Eden Gardens,38.8,29.4,0.0,25.8,0,202
+980901,2016,Wankhede Stadium,34.7,24.7,0.0,22.5,1,121
+980903,2016,Eden Gardens,38.8,26.4,0.0,13.8,0,98
+980905,2016,Punjab Cricket Association Stadium,33.4,18.0,0.4,18.3,0,161
+980907,2016,M Chinnaswamy Stadium,35.6,22.8,0.0,11.2,0,227
+980909,2016,Eden Gardens,38.8,25.7,0.0,17.6,0,187
+980911,2016,Saurashtra Cricket Association Stadium,37.8,22.4,0.0,16.7,1,163
+980913,2016,Arun Jaitley Stadium,39.5,21.9,0.0,19.1,0,111
+980915,2016,Rajiv Gandhi International Stadium,40.2,27.4,0.0,15.7,1,142
+980917,2016,Wankhede Stadium,32.4,23.8,0.0,21.0,0,143
+980919,2016,Punjab Cricket Association Stadium,39.6,23.4,0.0,12.7,1,152
+980921,2016,M Chinnaswamy Stadium,35.8,22.8,0.0,14.2,0,191
+980923,2016,Rajiv Gandhi International Stadium,38.6,27.1,0.1,17.9,0,142
+980925,2016,Punjab Cricket Association Stadium,36.5,24.3,0.0,13.6,0,138
+980927,2016,Wankhede Stadium,32.7,26.5,0.0,20.3,0,170
+980929,2016,Saurashtra Cricket Association Stadium,36.5,21.5,0.0,16.9,0,135
+980931,2016,Maharashtra Cricket Association Stadium,34.8,22.5,0.0,21.3,0,185
+980933,2016,Arun Jaitley Stadium,36.5,21.8,0.0,17.8,0,164
+980935,2016,Rajiv Gandhi International Stadium,40.3,28.6,0.0,19.4,0,143
+980937,2016,Saurashtra Cricket Association Stadium,36.9,22.3,0.0,14.5,1,180
+980939,2016,Maharashtra Cricket Association Stadium,36.2,20.2,0.0,19.1,0,160
+980941,2016,Punjab Cricket Association Stadium,36.4,17.6,0.0,15.9,0,189
+980943,2016,Rajiv Gandhi International Stadium,40.4,27.8,2.1,16.8,0,118
+980945,2016,Arun Jaitley Stadium,39.4,21.6,0.0,11.5,0,172
+980947,2016,Wankhede Stadium,35.1,26.0,0.0,18.4,0,174
+980949,2016,Maharashtra Cricket Association Stadium,39.5,22.7,0.0,17.3,0,195
+980951,2016,Arun Jaitley Stadium,39.6,20.1,0.0,12.1,0,186
+980953,2016,Rajiv Gandhi International Stadium,40.6,28.3,0.9,14.4,0,194
+980955,2016,Saurashtra Cricket Association Stadium,40.0,23.6,0.0,20.3,0,154
+980957,2016,Maharashtra Cricket Association Stadium,39.2,21.9,0.0,18.5,0,159
+980959,2016,M Chinnaswamy Stadium,35.3,23.5,2.1,11.9,0,185
+980961,2016,Saurashtra Cricket Association Stadium,38.9,24.0,0.1,15.8,0,149
+980963,2016,Eden Gardens,34.5,26.9,2.9,13.6,0,164
+980965,2016,Arun Jaitley Stadium,34.1,23.9,1.6,20.5,0,162
+980967,2016,Rajiv Gandhi International Stadium,33.7,23.2,2.1,18.0,0,126
+980969,2016,M Chinnaswamy Stadium,32.1,21.4,6.2,10.6,0,191
+980971,2016,Punjab Cricket Association Stadium,35.8,22.2,0.0,12.5,0,181
+980973,2016,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,35.0,27.7,0.2,18.1,0,177
+980975,2016,Eden Gardens,34.5,25.7,1.4,14.0,0,158
+980977,2016,Punjab Cricket Association Stadium,36.4,26.0,0.0,21.9,0,175
+980979,2016,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,34.1,28.0,0.0,18.2,1,137
+980981,2016,M Chinnaswamy Stadium,31.0,20.8,0.1,7.9,0,151
+980983,2016,Rajiv Gandhi International Stadium,37.8,26.1,0.0,13.1,0,146
+980985,2016,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,35.2,28.4,0.0,20.8,1,124
+980987,2016,M Chinnaswamy Stadium,32.9,22.6,4.2,10.5,0,248
+980991,2016,Punjab Cricket Association Stadium,41.1,24.3,0.0,19.6,1,179
+980993,2016,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,34.5,28.3,0.0,22.0,0,206
+980995,2016,Eden Gardens,35.5,28.6,0.2,26.3,0,183
+980997,2016,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,32.8,27.6,0.9,22.2,0,121
+981001,2016,Green Park,41.5,29.4,0.0,22.9,0,124
+981003,2016,Shaheed Veer Narayan Singh International Stadium,39.6,28.4,0.0,13.3,0,158
+981005,2016,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,34.4,28.3,0.0,24.2,1,172
+981007,2016,Green Park,39.7,26.9,0.0,24.9,0,172
+981009,2016,Eden Gardens,34.1,25.0,0.0,11.8,0,171
+981011,2016,Shaheed Veer Narayan Singh International Stadium,43.5,30.6,0.0,21.3,0,138
+981013,2016,M Chinnaswamy Stadium,32.9,21.1,0.0,17.0,0,158
+981015,2016,Arun Jaitley Stadium,39.0,24.8,1.8,12.4,0,162
+981017,2016,Arun Jaitley Stadium,40.8,27.9,1.3,19.0,0,162
+981019,2016,M Chinnaswamy Stadium,28.3,21.5,4.5,17.0,1,208
