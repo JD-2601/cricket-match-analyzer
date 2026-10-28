@@ -28,51 +28,20 @@ def venue_stats(name: str):
         "avg_rain_mm": round(g.rain_mm.mean(), 2),
     }
 venues = pd.read_csv("data/processed/venues.csv")
+import json
 
-import time
-
-_weather_cache = {}  # city -> (time saved, result)
+try:
+    with open("data/processed/forecasts.json") as f:
+        _forecasts = json.load(f)
+except Exception:
+    _forecasts = {}
 
 
 @app.get("/weather/{city}")
 def forecast(city: str):
-    key = city.lower()
-    cached = _weather_cache.get(key)
-    if cached and time.time() - cached[0] < 3600:
-        return cached[1]
-
-    row = venues[venues.city.str.lower() == key]
-    if row.empty:
-        return {"error": "city not found"}
-
-    lat = float(row.iloc[0].latitude)
-    lon = float(row.iloc[0].longitude)
-
-    r = None
-    for attempt in range(3):
-        r = requests.get(
-            "https://api.open-meteo.com/v1/forecast",
-            params={
-                "latitude": lat,
-                "longitude": lon,
-                "daily": "temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max",
-                "forecast_days": 5,
-                "timezone": "auto",
-            },
-            timeout=30,
-        )
-        if r.status_code != 429:
-            break
-        time.sleep(2 * (attempt + 1))
-
-    if r.status_code != 200:
-        if cached:
-            return cached[1]
-        return {"error": "weather service failed", "status": r.status_code}
-
-    days = pd.DataFrame(r.json()["daily"]).rename(columns={"time": "date"})
-    result = {"city": city, "forecast": days.to_dict("records")}
-    _weather_cache[key] = (time.time(), result)
+    result = _forecasts.get(city.lower())
+    if result is None:
+        return {"error": "forecast not available for this city"}
     return result
 bundle = joblib.load("ml/model_v2.joblib")
 
