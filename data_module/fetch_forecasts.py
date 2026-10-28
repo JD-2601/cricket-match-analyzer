@@ -10,25 +10,27 @@ URL = "https://api.open-meteo.com/v1/forecast"
 
 
 def fetch(lat, lon):
-    for attempt in range(4):
-        r = requests.get(
-            URL,
-            params={
-                "latitude": lat,
-                "longitude": lon,
-                "daily": "temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max",
-                "forecast_days": 5,
-                "timezone": "auto",
-            },
-            timeout=30,
-        )
+    for attempt in range(3):
+        try:
+            r = requests.get(
+                URL,
+                params={
+                    "latitude": lat,
+                    "longitude": lon,
+                    "daily": "temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max",
+                    "forecast_days": 5,
+                    "timezone": "auto",
+                },
+                timeout=15,
+            )
+        except requests.exceptions.RequestException:
+            return None
         if r.status_code == 200:
             return r.json()["daily"]
         if r.status_code != 429:
             break
         time.sleep(5 * (attempt + 1))
     return None
-
 
 def main():
     venues = pd.read_csv("data/processed/venues.csv").drop_duplicates("city")
