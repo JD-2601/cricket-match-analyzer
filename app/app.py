@@ -340,6 +340,20 @@ if page == "Ground Explorer":
                     f"to {int(df.iloc[-1]['year'])}. " + text)
         st.markdown(f'<div class="note">{text} Raw averages, not adjusted for year.</div>',
                     unsafe_allow_html=True)
+
+        mm = requests.get(f"{API}/venue/{venue}/matches", timeout=30).json()
+        st.markdown('<div class="section">Matches at this ground</div>', unsafe_allow_html=True)
+        mdf = pd.DataFrame(mm["matches"])
+        if mdf.empty:
+            st.info("No matches found for this ground.")
+        else:
+            mdf["Result"] = mdf.apply(
+                lambda r: (f"{r.winner} by {int(r.win_margin)} {r.margin_type}"
+                           if r.winner and r.margin_type else (r.winner or "No result")), axis=1)
+            mdf["Date"] = pd.to_datetime(mdf["start_date"]).dt.strftime("%d %b %Y")
+            mdf = mdf.rename(columns={"team_1": "Team 1", "team_2": "Team 2"})
+            st.dataframe(mdf[["Date", "Team 1", "Team 2", "Result"]],
+                         hide_index=True, use_container_width=True)
 if page == "Weather Forecast":
     with st.container(key="controls"):
         cities = requests.get(f"{API}/cities", timeout=30).json()["cities"]

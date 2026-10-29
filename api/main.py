@@ -90,3 +90,12 @@ def player_stats(name: str):
     if row.empty:
         return {"error": "player not found"}
     return row.iloc[0].to_dict()
+
+
+@app.get("/venue/{venue}/matches")
+def venue_matches(venue: str):
+    m = matches[matches.venue == venue].sort_values("start_date", ascending=False)
+    m = m[["start_date", "team_1", "team_2", "winner", "win_margin", "margin_type"]].copy()
+    m["win_margin"] = m["win_margin"].fillna(0)
+    m = m.fillna("")
+    return {"venue": venue, "matches": m.to_dict("records")}
