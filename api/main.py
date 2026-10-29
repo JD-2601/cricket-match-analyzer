@@ -75,3 +75,18 @@ def venue_history(name: str):
 @app.get("/cities")
 def cities():
     return {"cities": sorted(venues.city.dropna().unique().tolist())}
+
+players_df = pd.read_csv("data/processed/players.csv")
+
+
+@app.get("/players")
+def list_players():
+    return {"players": sorted(players_df.player.tolist())}
+
+
+@app.get("/player/{name}")
+def player_stats(name: str):
+    row = players_df[players_df.player == name]
+    if row.empty:
+        return {"error": "player not found"}
+    return row.iloc[0].to_dict()

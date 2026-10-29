@@ -241,7 +241,7 @@ def weather_card(label, value, sub, t):
         f'<div class="sub" style="color:{ink}">{sub}</div></div>')
 st.sidebar.markdown("### 🏏 Menu")
 gender = st.sidebar.radio("Section", ["Men's", "Women's"])
-page = st.sidebar.radio("Page", ["Score Predictor", "Ground Explorer", "Weather Forecast"])
+page = st.sidebar.radio("Page", ["Score Predictor", "Ground Explorer", "Weather Forecast", "Player Stats"])
 
 header(gender, page)
 
@@ -398,3 +398,61 @@ if page == "Weather Forecast":
                 'Conditions at the ground itself can differ a little.</div>',
                 unsafe_allow_html=True)
 apply_background(results)
+
+
+if page == "Player Stats":
+    import plotly.graph_objects as go
+
+    header(gender, page)
+
+    @st.cache_data(ttl=3600)
+    def get_players():
+        return requests.get(f"{API}/players", timeout=30).json()["players"]
+
+    names = get_players()
+    default = names.index("V Kohli") if "V Kohli" in names else 0
+    player = st.selectbox("Player (type to search)", names, index=default)
+    p = requests.get(f"{API}/player/{player}", timeout=30).json()
+
+    if "error" in p:
+        st.error(p["error"])
+    else:
+        st.subheader("Batting")
+        c = st.columns(4)
+        with c[0]:
+            card("Runs", f"{int(p['bat_runs'])}", f"{int(p['bat_matches'])} matches")
+        with c[1]:
+            card("Strike rate", f"{p['strike_rate']}", "runs per 100 balls")
+        with c[2]:
+            card("Average", f"{p['bat_avg']}", "runs per dismissal")
+        with c[3]:
+            card("Highest", f"{int(p['highest'])}", f"{int(p['fifties'])} fifties, {int(p['hundreds'])} hundreds")
+
+        if p["bowl_matches"] > 0 and p["balls_bowled"] >= 30:
+            st.subheader("Bowling")
+            c = st.columns(3)
+            with c[0]:
+                card("Wickets", f"{int(p['wickets'])}", f"{int(p['bowl_matches'])} matches")
+            with c[1]:
+                card("Economy", f"{p['economy']}", "runs per over")
+            with c[2]:
+                card("Balls bowled", f"{int(p['balls_bowled'])}", f"{int(p['runs_conceded'])} runs conceded")
+
+        fours = p["fours"] * 4
+        sixes = p["sixes"] * 6
+        other = max(p["bat_runs"] - fours - sixes, 0)
+        fig = go.Figure(go.Bar(
+            x=["Fours", "Sixes", "Singles, twos and threes"],
+            y=[fours, sixes, other],
+            text=[int(fours), int(sixes), int(other)],
+            textposition="outside",
+            marker_color=["#f5c542", "#ff6b4a", "#3b82f6"],
+        ))
+        fig.update_layout(
+            title=f"Where {player}'s runs came from",
+            template="plotly_dark",
+            paper_bgcolor="rgba(0,0,0,0)",
+            plot_bgcolor="rgba(0,0,0,0)",
+            height=400,
+        )
+        st.plotly_chart(fig, use_container_width=True)
