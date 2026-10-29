@@ -401,42 +401,41 @@ apply_background(results)
 
 
 if page == "Player Stats":
-    import plotly.graph_objects as go
-
-    header(gender, page)
+    results = True
 
     @st.cache_data(ttl=3600)
     def get_players():
         return requests.get(f"{API}/players", timeout=30).json()["players"]
 
-    names = get_players()
-    default = names.index("V Kohli") if "V Kohli" in names else 0
-    player = st.selectbox("Player (type to search)", names, index=default)
+    with st.container(key="controls"):
+        names = get_players()
+        default = names.index("V Kohli") if "V Kohli" in names else 0
+        player = st.selectbox("Player (type to search)", names, index=default)
+
     p = requests.get(f"{API}/player/{player}", timeout=30).json()
 
     if "error" in p:
         st.error(p["error"])
     else:
         st.subheader("Batting")
-        c = st.columns(4)
-        with c[0]:
-            card("Runs", f"{int(p['bat_runs'])}", f"{int(p['bat_matches'])} matches")
-        with c[1]:
-            card("Strike rate", f"{p['strike_rate']}", "runs per 100 balls")
-        with c[2]:
-            card("Average", f"{p['bat_avg']}", "runs per dismissal")
-        with c[3]:
-            card("Highest", f"{int(p['highest'])}", f"{int(p['fifties'])} fifties, {int(p['hundreds'])} hundreds")
+        batting = [
+            ("Runs", f"{int(p['bat_runs'])}", f"{int(p['bat_matches'])} matches"),
+            ("Strike rate", f"{p['strike_rate']}", "runs per 100 balls"),
+            ("Average", f"{p['bat_avg']}", "runs per dismissal"),
+            ("Highest", f"{int(p['highest'])}", f"{int(p['fifties'])} fifties, {int(p['hundreds'])} hundreds"),
+        ]
+        for col, item in zip(st.columns(4), batting):
+            col.markdown(card(*item), unsafe_allow_html=True)
 
         if p["bowl_matches"] > 0 and p["balls_bowled"] >= 30:
             st.subheader("Bowling")
-            c = st.columns(3)
-            with c[0]:
-                card("Wickets", f"{int(p['wickets'])}", f"{int(p['bowl_matches'])} matches")
-            with c[1]:
-                card("Economy", f"{p['economy']}", "runs per over")
-            with c[2]:
-                card("Balls bowled", f"{int(p['balls_bowled'])}", f"{int(p['runs_conceded'])} runs conceded")
+            bowling = [
+                ("Wickets", f"{int(p['wickets'])}", f"{int(p['bowl_matches'])} matches"),
+                ("Economy", f"{p['economy']}", "runs per over"),
+                ("Balls bowled", f"{int(p['balls_bowled'])}", f"{int(p['runs_conceded'])} runs conceded"),
+            ]
+            for col, item in zip(st.columns(3), bowling):
+                col.markdown(card(*item), unsafe_allow_html=True)
 
         fours = p["fours"] * 4
         sixes = p["sixes"] * 6
