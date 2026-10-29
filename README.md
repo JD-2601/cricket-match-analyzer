@@ -41,6 +41,10 @@ Run the tests with `pytest`.
 
 Data: Cricsheet (IPL ball-by-ball), Open-Meteo (weather). Tools: Python, pandas, scikit-learn, FastAPI, Streamlit, Plotly.
 
+## Formats
+
+Men: IPL, T20I, ODI, Test. Women: WPL, T20I, ODI, Test. Every format has player stats, team stats and ground records. Score prediction is available for all formats except WPL, which only started in 2023 and has too few matches. IPL uses a trained model with weather. The other formats estimate from the ground's history and the format average.
+
 ## Still to do
 
-Women's data, other formats (ODI, Test), humidity, head-to-head records.
+Weather for non-IPL formats, humidity, head-to-head records.
