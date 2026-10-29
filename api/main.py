@@ -145,3 +145,60 @@ def women_player(name: str):
     if row.empty:
         return {"error": "player not found"}
     return row.iloc[0].to_dict()
+
+
+all_players = pd.read_csv("data/processed/players_all.csv")
+all_teams = pd.read_csv("data/processed/teams_all.csv")
+
+
+@app.get("/stats/players")
+def stats_players(gender: str, fmt: str):
+    df = all_players[(all_players.gender == gender) & (all_players.fmt == fmt)]
+    return {"players": sorted(df.player.tolist())}
+
+
+@app.get("/stats/player")
+def stats_player(gender: str, fmt: str, name: str):
+    df = all_players[(all_players.gender == gender) & (all_players.fmt == fmt) & (all_players.player == name)]
+    if df.empty:
+        return {"error": "player not found"}
+    return df.iloc[0].to_dict()
+
+
+@app.get("/stats/teams")
+def stats_teams(gender: str, fmt: str):
+    df = all_teams[(all_teams.gender == gender) & (all_teams.fmt == fmt)]
+    df = df.sort_values("matches", ascending=False)
+    return {"teams": df.to_dict("records")}
+
+
+matches_all = pd.read_csv("data/processed/matches_all.csv")
+
+
+@app.get("/fmt/venues")
+def fmt_venues(gender: str, fmt: str):
+    df = matches_all[(matches_all.gender == gender) & (matches_all.fmt == fmt)]
+    return {"venues": sorted(df.venue.dropna().unique().tolist())}
+
+
+@app.get("/fmt/matches")
+def fmt_matches(gender: str, fmt: str, venue: str):
+    df = matches_all[(matches_all.gender == gender) & (matches_all.fmt == fmt) & (matches_all.venue == venue)]
+    df = df.sort_values("start_date", ascending=False)
+    df = df[["start_date", "team_1", "team_2", "winner", "win_margin", "margin_type"]].copy()
+    df["win_margin"] = df["win_margin"].fillna(0)
+    return {"matches": df.fillna("").to_dict("records")}
+
+
+@app.get("/fmt/predict")
+def fmt_predict(gender: str, fmt: str, venue: str):
+    df = matches_all[(matches_all.gender == gender) & (matches_all.fmt == fmt)]
+    overall = df.first_runs.dropna()
+    g = df[df.venue == venue].first_runs.dropna()
+    n = len(g)
+    w = n / (n + 5)
+    pred = w * g.mean() + (1 - w) * overall.mean() if n else overall.mean()
+    sd = g.std() if n >= 3 else overall.std()
+    sd = 0 if pd.isna(sd) else float(sd)
+    return {"predicted": round(float(pred)), "low": round(float(pred - 0.5 * sd)),
+            "high": round(float(pred + 0.5 * sd)), "matches": int(n)}
