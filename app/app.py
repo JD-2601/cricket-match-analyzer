@@ -241,13 +241,115 @@ def weather_card(label, value, sub, t):
         f'<div class="sub" style="color:{ink}">{sub}</div></div>')
 st.sidebar.markdown("### 🏏 Menu")
 gender = st.sidebar.radio("Section", ["Men's", "Women's"])
-page = st.sidebar.radio("Page", ["Score Predictor", "Ground Explorer", "Weather Forecast", "Player Stats"])
+if gender == "Men's":
+    fmt = st.sidebar.radio("Format", ["IPL", "T20I", "ODI", "Test"])
+else:
+    fmt = st.sidebar.radio("Format", ["WPL", "T20I", "ODI", "Test"])
 
-header(gender, page)
+if gender == "Men's" and fmt == "IPL":
+    pages = ["Score Predictor", "Ground Explorer", "Weather Forecast", "Player Stats", "Team Stats"]
+elif fmt == "WPL":
+    pages = ["Ground Records", "Player Stats", "Team Stats"]
+else:
+    pages = ["Score Predictor", "Ground Records", "Player Stats", "Team Stats"]
+page = st.sidebar.radio("Page", pages)
 
-if gender == "Women's":
-    apply_background(False)
-    hint("Women's data isn't loaded yet. We'll add it after the men's pipeline is finished.")
+header(f"{gender} - {fmt}", page)
+
+g = "male" if gender == "Men's" else "female"
+IPL_PAGES = ["Score Predictor", "Ground Explorer", "Weather Forecast", "Player Stats"]
+
+if not (gender == "Men's" and fmt == "IPL" and page in IPL_PAGES):
+    apply_background(True)
+
+    @st.cache_data(ttl=3600)
+    def get_fmt_venues(g, fmt):
+        return requests.get(f"{API}/fmt/venues", params={"gender": g, "fmt": fmt}, timeout=60).json()["venues"]
+
+    @st.cache_data(ttl=3600)
+    def get_fmt_players(g, fmt):
+        return requests.get(f"{API}/stats/players", params={"gender": g, "fmt": fmt}, timeout=60).json()["players"]
+
+    if page == "Score Predictor":
+        with st.container(key="controls"):
+            venue = st.selectbox("Ground", get_fmt_venues(g, fmt), index=None, placeholder="Choose a ground")
+        if venue is None:
+            hint("Choose a ground to see the predicted first-innings score.")
+        else:
+            r = requests.get(f"{API}/fmt/predict", params={"gender": g, "fmt": fmt, "venue": venue}, timeout=30).json()
+            c = st.columns(3)
+            c[0].markdown(card("Predicted first innings", r["predicted"], "runs"), unsafe_allow_html=True)
+            c[1].markdown(card("Likely range", f"{r['low']} - {r['high']}", "runs"), unsafe_allow_html=True)
+            c[2].markdown(card("Based on", r["matches"], "matches at this ground"), unsafe_allow_html=True)
+            extra = " Test prediction is the first-innings total only." if fmt == "Test" else ""
+            st.markdown('<div class="note">This estimate uses the ground history blended with the format average. It does not use weather. With few matches at a ground it leans on the format average.' + extra + '</div>', unsafe_allow_html=True)
+
+    if page == "Ground Records":
+        with st.container(key="controls"):
+            venue = st.selectbox("Ground", get_fmt_venues(g, fmt), index=None, placeholder="Choose a ground")
+        if venue is None:
+            hint("Choose a ground to see every match played there.")
+        else:
+            mm = requests.get(f"{API}/fmt/matches", params={"gender": g, "fmt": fmt, "venue": venue}, timeout=30).json()
+            mdf = pd.DataFrame(mm["matches"])
+            st.markdown(card("Matches", len(mdf)), unsafe_allow_html=True)
+            st.markdown('<div class="section">Matches at this ground</div>', unsafe_allow_html=True)
+            if mdf.empty:
+                st.info("No matches found for this ground.")
+            else:
+                mdf["Result"] = mdf.apply(
+                    lambda r: (f"{r.winner} by {int(r.win_margin)} {r.margin_type}"
+                               if r.winner and r.margin_type else (r.winner or "No result")), axis=1)
+                mdf["Date"] = pd.to_datetime(mdf["start_date"]).dt.strftime("%d %b %Y")
+                mdf = mdf.rename(columns={"team_1": "Team 1", "team_2": "Team 2"})
+                st.dataframe(mdf[["Date", "Team 1", "Team 2", "Result"]], hide_index=True, use_container_width=True)
+
+    if page == "Player Stats":
+        with st.container(key="controls"):
+            names = get_fmt_players(g, fmt)
+            player = st.selectbox("Player (type to search)", names, index=None, placeholder="Choose a player")
+        if player is None:
+            hint("Choose a player to see batting and bowling records.")
+        else:
+            p = requests.get(f"{API}/stats/player", params={"gender": g, "fmt": fmt, "name": player}, timeout=30).json()
+            if "error" in p:
+                st.error(p["error"])
+            else:
+                st.subheader("Batting")
+                batting = [
+                    ("Runs", f"{int(p['bat_runs'])}", f"{int(p['bat_matches'])} matches"),
+                    ("Strike rate", f"{p['strike_rate']}", "runs per 100 balls"),
+                    ("Average", f"{p['bat_avg']}", "runs per dismissal"),
+                    ("Highest", f"{int(p['highest'])}", f"{int(p['fifties'])} fifties, {int(p['hundreds'])} hundreds"),
+                ]
+                for col, item in zip(st.columns(4), batting):
+                    col.markdown(card(*item), unsafe_allow_html=True)
+                if p["balls_bowled"] >= 30:
+                    st.subheader("Bowling")
+                    bowling = [
+                        ("Wickets", f"{int(p['wickets'])}", f"{int(p['bowl_matches'])} matches"),
+                        ("Economy", f"{p['economy']}", "runs per over"),
+                        ("Balls bowled", f"{int(p['balls_bowled'])}", f"{int(p['runs_conceded'])} runs conceded"),
+                    ]
+                    for col, item in zip(st.columns(3), bowling):
+                        col.markdown(card(*item), unsafe_allow_html=True)
+                st.markdown('<div class="note">Names come from Cricsheet initials, so players with the same initials and surname can be merged.</div>', unsafe_allow_html=True)
+
+    if page == "Team Stats":
+        t = requests.get(f"{API}/stats/teams", params={"gender": g, "fmt": fmt}, timeout=60).json()["teams"]
+        tdf = pd.DataFrame(t)
+        if tdf.empty:
+            st.info("No team data for this format.")
+        else:
+            tdf = tdf.rename(columns={"team": "Team", "matches": "Matches", "wins": "Wins", "losses": "Losses",
+                                      "no_result": "No result", "win_pct": "Win %",
+                                      "avg_score": "Avg score", "highest_total": "Highest total"})
+            st.markdown('<div class="section">Team records</div>', unsafe_allow_html=True)
+            st.dataframe(tdf[["Team", "Matches", "Wins", "Losses", "No result", "Win %", "Avg score", "Highest total"]],
+                         hide_index=True, use_container_width=True)
+
+    if fmt == "WPL":
+        st.markdown('<div class="note">Score prediction is not offered for WPL. The league only started in 2023, so there are too few matches (88) for a reliable prediction. These pages show past records only.</div>', unsafe_allow_html=True)
     st.stop()
 
 try:

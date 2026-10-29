@@ -99,3 +99,49 @@ def venue_matches(venue: str):
     m["win_margin"] = m["win_margin"].fillna(0)
     m = m.fillna("")
     return {"venue": venue, "matches": m.to_dict("records")}
+
+
+wmatches = pd.read_csv("data/processed/matches_women.csv")
+wfirst = pd.read_csv("data/processed/first_innings_women.csv")
+wplayers = pd.read_csv("data/processed/players_women.csv")
+
+
+@app.get("/women/venues")
+def women_venues():
+    return {"venues": sorted(wmatches.venue.dropna().unique().tolist())}
+
+
+@app.get("/women/venue/{venue}/stats")
+def women_venue_stats(venue: str):
+    f = wfirst[wfirst.venue == venue]
+    return {"matches": int((wmatches.venue == venue).sum()),
+            "avg_first_innings_runs": round(float(f.runs.mean()), 1) if len(f) else 0}
+
+
+@app.get("/women/venue/{venue}/history")
+def women_venue_history(venue: str):
+    f = wfirst[wfirst.venue == venue]
+    h = f.groupby("year").runs.agg(["count", "mean"]).round(1).reset_index()
+    return {"history": h.to_dict("records")}
+
+
+@app.get("/women/venue/{venue}/matches")
+def women_venue_matches(venue: str):
+    m = wmatches[wmatches.venue == venue].sort_values("start_date", ascending=False)
+    m = m[["start_date", "team_1", "team_2", "winner", "win_margin", "margin_type"]].copy()
+    m["win_margin"] = m["win_margin"].fillna(0)
+    m = m.fillna("")
+    return {"venue": venue, "matches": m.to_dict("records")}
+
+
+@app.get("/women/players")
+def women_players():
+    return {"players": sorted(wplayers.player.tolist())}
+
+
+@app.get("/women/player/{name}")
+def women_player(name: str):
+    row = wplayers[wplayers.player == name]
+    if row.empty:
+        return {"error": "player not found"}
+    return row.iloc[0].to_dict()

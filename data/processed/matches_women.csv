@@ -1,0 +1,89 @@
+match_id,gender,match_format,competition,venue,city,start_date,team_1,team_2,toss_winner,toss_decision,winner,result_type,win_margin,margin_type
+1358929,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,2023-03-04,Mumbai Indians,Gujarat Giants,Gujarat Giants,field,Mumbai Indians,normal,143.0,runs
+1358930,female,T20,Women's Premier League,"Brabourne Stadium, Mumbai",Mumbai,2023-03-05,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,normal,60.0,runs
+1358931,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,2023-03-05,Gujarat Giants,UP Warriorz,Gujarat Giants,bat,UP Warriorz,normal,3.0,wickets
+1358932,female,T20,Women's Premier League,"Brabourne Stadium, Mumbai",Mumbai,2023-03-06,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Mumbai Indians,normal,9.0,wickets
+1358933,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,2023-03-07,Delhi Capitals,UP Warriorz,UP Warriorz,field,Delhi Capitals,normal,42.0,runs
+1358934,female,T20,Women's Premier League,"Brabourne Stadium, Mumbai",Mumbai,2023-03-08,Gujarat Giants,Royal Challengers Bangalore,Gujarat Giants,bat,Gujarat Giants,normal,11.0,runs
+1358935,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,2023-03-09,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,normal,8.0,wickets
+1358936,female,T20,Women's Premier League,"Brabourne Stadium, Mumbai",Mumbai,2023-03-10,Royal Challengers Bangalore,UP Warriorz,Royal Challengers Bangalore,bat,UP Warriorz,normal,10.0,wickets
+1358937,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,2023-03-11,Gujarat Giants,Delhi Capitals,Gujarat Giants,bat,Delhi Capitals,normal,10.0,wickets
+1358938,female,T20,Women's Premier League,"Brabourne Stadium, Mumbai",Mumbai,2023-03-12,UP Warriorz,Mumbai Indians,UP Warriorz,bat,Mumbai Indians,normal,8.0,wickets
+1358939,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,2023-03-13,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,6.0,wickets
+1358940,female,T20,Women's Premier League,"Brabourne Stadium, Mumbai",Mumbai,2023-03-14,Mumbai Indians,Gujarat Giants,Gujarat Giants,field,Mumbai Indians,normal,55.0,runs
+1358941,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,2023-03-15,UP Warriorz,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,normal,5.0,wickets
+1358942,female,T20,Women's Premier League,"Brabourne Stadium, Mumbai",Mumbai,2023-03-16,Gujarat Giants,Delhi Capitals,Delhi Capitals,field,Gujarat Giants,normal,11.0,runs
+1358943,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,2023-03-18,Mumbai Indians,UP Warriorz,UP Warriorz,field,UP Warriorz,normal,5.0,wickets
+1358944,female,T20,Women's Premier League,"Brabourne Stadium, Mumbai",Mumbai,2023-03-18,Gujarat Giants,Royal Challengers Bangalore,Gujarat Giants,bat,Royal Challengers Bangalore,normal,8.0,wickets
+1358945,female,T20,Women's Premier League,"Brabourne Stadium, Mumbai",Mumbai,2023-03-20,Gujarat Giants,UP Warriorz,Gujarat Giants,bat,UP Warriorz,normal,3.0,wickets
+1358946,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,2023-03-20,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,9.0,wickets
+1358947,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,2023-03-21,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,normal,4.0,wickets
+1358948,female,T20,Women's Premier League,"Brabourne Stadium, Mumbai",Mumbai,2023-03-21,UP Warriorz,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,5.0,wickets
+1358949,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,2023-03-24,Mumbai Indians,UP Warriorz,UP Warriorz,field,Mumbai Indians,normal,72.0,runs
+1358950,female,T20,Women's Premier League,"Brabourne Stadium, Mumbai",Mumbai,2023-03-26,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,normal,7.0,wickets
+1417716,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-02-23,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,normal,4.0,wickets
+1417717,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-02-24,Royal Challengers Bangalore,UP Warriorz,UP Warriorz,field,Royal Challengers Bangalore,normal,2.0,runs
+1417718,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-02-25,Gujarat Giants,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,normal,5.0,wickets
+1417719,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-02-26,UP Warriorz,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,9.0,wickets
+1417720,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-02-27,Gujarat Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,normal,8.0,wickets
+1417721,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-02-28,Mumbai Indians,UP Warriorz,UP Warriorz,field,UP Warriorz,normal,7.0,wickets
+1417722,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-02-29,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,normal,25.0,runs
+1417723,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-03-01,Gujarat Giants,UP Warriorz,UP Warriorz,field,UP Warriorz,normal,6.0,wickets
+1417724,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-03-02,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,normal,7.0,wickets
+1417725,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-03-03,Delhi Capitals,Gujarat Giants,Gujarat Giants,field,Delhi Capitals,normal,25.0,runs
+1417726,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2024-03-04,Royal Challengers Bangalore,UP Warriorz,UP Warriorz,field,Royal Challengers Bangalore,normal,23.0,runs
+1417727,female,T20,Women's Premier League,"Arun Jaitley Stadium, Delhi",Delhi,2024-03-05,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,normal,29.0,runs
+1417728,female,T20,Women's Premier League,"Arun Jaitley Stadium, Delhi",Delhi,2024-03-06,Gujarat Giants,Royal Challengers Bangalore,Gujarat Giants,bat,Gujarat Giants,normal,19.0,runs
+1417729,female,T20,Women's Premier League,"Arun Jaitley Stadium, Delhi",Delhi,2024-03-07,Mumbai Indians,UP Warriorz,Mumbai Indians,bat,Mumbai Indians,normal,42.0,runs
+1417730,female,T20,Women's Premier League,"Arun Jaitley Stadium, Delhi",Delhi,2024-03-08,UP Warriorz,Delhi Capitals,UP Warriorz,bat,UP Warriorz,normal,1.0,runs
+1417731,female,T20,Women's Premier League,"Arun Jaitley Stadium, Delhi",Delhi,2024-03-09,Gujarat Giants,Mumbai Indians,Gujarat Giants,bat,Mumbai Indians,normal,7.0,wickets
+1417732,female,T20,Women's Premier League,"Arun Jaitley Stadium, Delhi",Delhi,2024-03-10,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,normal,1.0,runs
+1417733,female,T20,Women's Premier League,"Arun Jaitley Stadium, Delhi",Delhi,2024-03-11,Gujarat Giants,UP Warriorz,Gujarat Giants,bat,Gujarat Giants,normal,8.0,runs
+1417734,female,T20,Women's Premier League,"Arun Jaitley Stadium, Delhi",Delhi,2024-03-12,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,normal,7.0,wickets
+1417735,female,T20,Women's Premier League,"Arun Jaitley Stadium, Delhi",Delhi,2024-03-13,Gujarat Giants,Delhi Capitals,Gujarat Giants,bat,Delhi Capitals,normal,7.0,wickets
+1417736,female,T20,Women's Premier League,"Arun Jaitley Stadium, Delhi",Delhi,2024-03-15,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,normal,5.0,runs
+1417737,female,T20,Women's Premier League,"Arun Jaitley Stadium, Delhi",Delhi,2024-03-17,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Royal Challengers Bangalore,normal,8.0,wickets
+1469298,female,T20,Women's Premier League,"Kotambi Stadium, Vadodara",Vadodara,2025-02-14,Gujarat Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,6.0,wickets
+1469299,female,T20,Women's Premier League,"Kotambi Stadium, Vadodara",Vadodara,2025-02-15,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,2.0,wickets
+1469300,female,T20,Women's Premier League,"Kotambi Stadium, Vadodara",Vadodara,2025-02-16,UP Warriorz,Gujarat Giants,Gujarat Giants,field,Gujarat Giants,normal,6.0,wickets
+1469301,female,T20,Women's Premier League,"Kotambi Stadium, Vadodara",Vadodara,2025-02-17,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,8.0,wickets
+1469302,female,T20,Women's Premier League,"Kotambi Stadium, Vadodara",Vadodara,2025-02-18,Gujarat Giants,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,normal,5.0,wickets
+1469303,female,T20,Women's Premier League,"Kotambi Stadium, Vadodara",Vadodara,2025-02-19,UP Warriorz,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,7.0,wickets
+1469304,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2025-02-21,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,normal,4.0,wickets
+1469305,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2025-02-22,UP Warriorz,Delhi Capitals,Delhi Capitals,field,UP Warriorz,normal,33.0,runs
+1469306,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2025-02-24,Royal Challengers Bengaluru,UP Warriorz,UP Warriorz,field,,tie,,
+1469307,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2025-02-25,Gujarat Giants,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,6.0,wickets
+1469308,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2025-02-26,UP Warriorz,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,normal,8.0,wickets
+1469309,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2025-02-27,Royal Challengers Bengaluru,Gujarat Giants,Gujarat Giants,field,Gujarat Giants,normal,6.0,wickets
+1469310,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2025-02-28,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,9.0,wickets
+1469311,female,T20,Women's Premier League,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,2025-03-01,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,9.0,wickets
+1469312,female,T20,Women's Premier League,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,2025-03-03,Gujarat Giants,UP Warriorz,UP Warriorz,field,Gujarat Giants,normal,81.0,runs
+1469313,female,T20,Women's Premier League,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,2025-03-06,UP Warriorz,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,normal,6.0,wickets
+1469314,female,T20,Women's Premier League,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,2025-03-07,Delhi Capitals,Gujarat Giants,Gujarat Giants,field,Gujarat Giants,normal,5.0,wickets
+1469315,female,T20,Women's Premier League,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,2025-03-08,UP Warriorz,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,UP Warriorz,normal,12.0,runs
+1469316,female,T20,Women's Premier League,"Brabourne Stadium, Mumbai",Mumbai,2025-03-10,Mumbai Indians,Gujarat Giants,Gujarat Giants,field,Mumbai Indians,normal,9.0,runs
+1469317,female,T20,Women's Premier League,"Brabourne Stadium, Mumbai",Mumbai,2025-03-11,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bengaluru,normal,11.0,runs
+1469318,female,T20,Women's Premier League,"Brabourne Stadium, Mumbai",Mumbai,2025-03-13,Mumbai Indians,Gujarat Giants,Gujarat Giants,field,Mumbai Indians,normal,47.0,runs
+1469319,female,T20,Women's Premier League,"Brabourne Stadium, Mumbai",Mumbai,2025-03-15,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,normal,8.0,runs
+1513682,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Navi Mumbai",Navi Mumbai,2026-01-09,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,3.0,wickets
+1513683,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Navi Mumbai",Navi Mumbai,2026-01-10,Gujarat Giants,UP Warriorz,UP Warriorz,field,Gujarat Giants,normal,10.0,runs
+1513684,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Navi Mumbai",Navi Mumbai,2026-01-10,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,normal,50.0,runs
+1513685,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Navi Mumbai",Navi Mumbai,2026-01-11,Gujarat Giants,Delhi Capitals,Delhi Capitals,field,Gujarat Giants,normal,4.0,runs
+1513686,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Navi Mumbai",Navi Mumbai,2026-01-12,UP Warriorz,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,9.0,wickets
+1513687,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Navi Mumbai",Navi Mumbai,2026-01-13,Gujarat Giants,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,normal,7.0,wickets
+1513688,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Navi Mumbai",Navi Mumbai,2026-01-14,UP Warriorz,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,7.0,wickets
+1513689,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Navi Mumbai",Navi Mumbai,2026-01-15,Mumbai Indians,UP Warriorz,UP Warriorz,field,UP Warriorz,normal,7.0,wickets
+1513690,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Navi Mumbai",Navi Mumbai,2026-01-16,Royal Challengers Bengaluru,Gujarat Giants,Gujarat Giants,field,Royal Challengers Bengaluru,normal,32.0,runs
+1513691,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Navi Mumbai",Navi Mumbai,2026-01-17,UP Warriorz,Mumbai Indians,Mumbai Indians,field,UP Warriorz,normal,22.0,runs
+1513692,female,T20,Women's Premier League,"Dr DY Patil Sports Academy, Navi Mumbai",Navi Mumbai,2026-01-17,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,8.0,wickets
+1513693,female,T20,Women's Premier League,"Kotambi Stadium, Vadodara",Vadodara,2026-01-19,Royal Challengers Bengaluru,Gujarat Giants,Gujarat Giants,field,Royal Challengers Bengaluru,normal,61.0,runs
+1513694,female,T20,Women's Premier League,"Kotambi Stadium, Vadodara",Vadodara,2026-01-20,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,7.0,wickets
+1513695,female,T20,Women's Premier League,"Kotambi Stadium, Vadodara",Vadodara,2026-01-22,Gujarat Giants,UP Warriorz,UP Warriorz,field,Gujarat Giants,normal,45.0,runs
+1513696,female,T20,Women's Premier League,"Kotambi Stadium, Vadodara",Vadodara,2026-01-24,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,7.0,wickets
+1513697,female,T20,Women's Premier League,"Kotambi Stadium, Vadodara",Vadodara,2026-01-26,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Mumbai Indians,normal,15.0,runs
+1513698,female,T20,Women's Premier League,"Kotambi Stadium, Vadodara",Vadodara,2026-01-27,Gujarat Giants,Delhi Capitals,Delhi Capitals,field,Gujarat Giants,normal,3.0,runs
+1513699,female,T20,Women's Premier League,"Kotambi Stadium, Vadodara",Vadodara,2026-01-29,UP Warriorz,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,8.0,wickets
+1513700,female,T20,Women's Premier League,"Kotambi Stadium, Vadodara",Vadodara,2026-01-30,Gujarat Giants,Mumbai Indians,Gujarat Giants,bat,Gujarat Giants,normal,11.0,runs
+1513701,female,T20,Women's Premier League,"Kotambi Stadium, Vadodara",Vadodara,2026-02-01,UP Warriorz,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,5.0,wickets
+1513702,female,T20,Women's Premier League,"Kotambi Stadium, Vadodara",Vadodara,2026-02-03,Gujarat Giants,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,normal,7.0,wickets
+1513703,female,T20,Women's Premier League,"Kotambi Stadium, Vadodara",Vadodara,2026-02-05,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,Royal Challengers Bengaluru,normal,6.0,wickets
