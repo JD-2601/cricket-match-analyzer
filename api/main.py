@@ -223,3 +223,20 @@ def fmt_h2h(gender: str, fmt: str, a: str, b: str):
     return {"played": int(len(df)), "a_wins": a_wins, "b_wins": b_wins,
             "no_result": int(len(df) - a_wins - b_wins),
             "last": last.fillna("").to_dict("records")}
+
+
+import json as _json
+
+try:
+    with open("data/processed/venue_forecasts.json", encoding="utf-8") as _f:
+        venue_fc = _json.load(_f)
+except Exception:
+    venue_fc = {}
+
+
+@app.get("/fmt/weather")
+def fmt_weather(venue: str):
+    r = venue_fc.get(venue)
+    if r is None:
+        return {"error": "forecast not available for this ground"}
+    return r

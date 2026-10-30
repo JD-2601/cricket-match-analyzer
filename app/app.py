@@ -251,7 +251,7 @@ if gender == "Men's" and fmt == "IPL":
 elif fmt == "WPL":
     pages = ["Ground Records", "Player Stats", "Team Stats", "Head to Head"]
 else:
-    pages = ["Score Predictor", "Ground Records", "Player Stats", "Team Stats", "Head to Head"]
+    pages = ["Score Predictor", "Ground Records", "Weather Forecast", "Player Stats", "Team Stats", "Head to Head"]
 page = st.sidebar.radio("Page", pages)
 
 header(f"{gender} - {fmt}", page)
@@ -377,6 +377,28 @@ if not (gender == "Men's" and fmt == "IPL" and page in IPL_PAGES):
                 ldf = ldf.rename(columns={"team_1": "Team 1", "team_2": "Team 2"})
                 st.dataframe(ldf[["Date", "Team 1", "Team 2", "Result"]], hide_index=True, use_container_width=True)
             st.markdown('<div class="note">Counts only matches in this format. Teams that renamed over time (for example IPL franchises) are counted under each name separately.</div>', unsafe_allow_html=True)
+
+    if page == "Weather Forecast":
+        with st.container(key="controls"):
+            venue = st.selectbox("Ground", get_fmt_venues(g, fmt), index=None, placeholder="Choose a ground")
+        if venue is None:
+            hint("Choose a ground to see the next 5 days of weather.")
+        else:
+            w = requests.get(f"{API}/fmt/weather", params={"venue": venue}, timeout=30).json()
+            if "error" in w:
+                st.error(w["error"])
+            else:
+                days = pd.DataFrame(w["forecast"])
+                days["label"] = pd.to_datetime(days["date"]).dt.strftime("%a %d %b")
+                for col, row in zip(st.columns(len(days)), days.itertuples()):
+                    icon = "\U0001F327\uFE0F" if row.precipitation_sum >= 1 else "\u2600\uFE0F"
+                    col.markdown(weather_card(
+                        f"{icon} {row.label}",
+                        f"{row.temperature_2m_max:g}\u00b0",
+                        f"Low {row.temperature_2m_min:g}\u00b0<br>Rain {row.precipitation_sum:g} mm"
+                        f"<br>Wind {row.wind_speed_10m_max:g} km/h",
+                        row.temperature_2m_max), unsafe_allow_html=True)
+                st.markdown('<div class="note">Forecast from Open-Meteo for the ground location, found by place search, so it can be a little off. Past records for this ground are on the Ground Records page.</div>', unsafe_allow_html=True)
 
     if fmt == "WPL":
         st.markdown('<div class="note">Score prediction is not offered for WPL. The league only started in 2023, so there are too few matches (88) for a reliable prediction. These pages show past records only.</div>', unsafe_allow_html=True)
