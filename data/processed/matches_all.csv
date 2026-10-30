@@ -2,118 +2,118 @@ gender,fmt,venue,start_date,team_1,team_2,winner,win_margin,margin_type,first_ru
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2017-04-05,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,35.0,runs,207
 male,IPL,Maharashtra Cricket Association Stadium,2017-04-06,Rising Pune Supergiant,Mumbai Indians,Rising Pune Supergiant,7.0,wickets,184
 male,IPL,Saurashtra Cricket Association Stadium,2017-04-07,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,10.0,wickets,183
-male,IPL,Holkar Cricket Stadium,2017-04-08,Kings XI Punjab,Rising Pune Supergiant,Kings XI Punjab,6.0,wickets,163
-male,IPL,M.Chinnaswamy Stadium,2017-04-08,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,15.0,runs,157
+male,IPL,Holkar Cricket Stadium,2017-04-08,Punjab Kings,Rising Pune Supergiant,Punjab Kings,6.0,wickets,163
+male,IPL,M.Chinnaswamy Stadium,2017-04-08,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,15.0,runs,157
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2017-04-09,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,9.0,wickets,135
 male,IPL,Wankhede Stadium,2017-04-09,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,4.0,wickets,178
-male,IPL,Holkar Cricket Stadium,2017-04-10,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,8.0,wickets,148
-male,IPL,Maharashtra Cricket Association Stadium,2017-04-11,Rising Pune Supergiant,Delhi Daredevils,Delhi Daredevils,97.0,runs,205
+male,IPL,Holkar Cricket Stadium,2017-04-10,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,8.0,wickets,148
+male,IPL,Maharashtra Cricket Association Stadium,2017-04-11,Rising Pune Supergiant,Delhi Capitals,Delhi Capitals,97.0,runs,205
 male,IPL,Wankhede Stadium,2017-04-12,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,4.0,wickets,158
-male,IPL,Eden Gardens,2017-04-13,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,8.0,wickets,170
+male,IPL,Eden Gardens,2017-04-13,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,8.0,wickets,170
 male,IPL,M Chinnaswamy Stadium,2017-04-14,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,4.0,wickets,142
 male,IPL,Saurashtra Cricket Association Stadium,2017-04-14,Gujarat Lions,Rising Pune Supergiant,Gujarat Lions,7.0,wickets,171
 male,IPL,Eden Gardens,2017-04-15,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,17.0,runs,172
-male,IPL,Feroz Shah Kotla,2017-04-15,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,51.0,runs,188
+male,IPL,Feroz Shah Kotla,2017-04-15,Delhi Capitals,Punjab Kings,Delhi Capitals,51.0,runs,188
 male,IPL,Wankhede Stadium,2017-04-16,Mumbai Indians,Gujarat Lions,Mumbai Indians,6.0,wickets,176
 male,IPL,M Chinnaswamy Stadium,2017-04-16,Royal Challengers Bangalore,Rising Pune Supergiant,Rising Pune Supergiant,27.0,runs,161
-male,IPL,Feroz Shah Kotla,2017-04-17,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,4.0,wickets,168
-male,IPL,"Rajiv Gandhi International Stadium, Uppal",2017-04-17,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,5.0,runs,159
+male,IPL,Feroz Shah Kotla,2017-04-17,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,4.0,wickets,168
+male,IPL,"Rajiv Gandhi International Stadium, Uppal",2017-04-17,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,5.0,runs,159
 male,IPL,Saurashtra Cricket Association Stadium,2017-04-18,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,21.0,runs,213
-male,IPL,"Rajiv Gandhi International Stadium, Uppal",2017-04-19,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,15.0,runs,191
-male,IPL,Holkar Cricket Stadium,2017-04-20,Kings XI Punjab,Mumbai Indians,Mumbai Indians,8.0,wickets,198
+male,IPL,"Rajiv Gandhi International Stadium, Uppal",2017-04-19,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,15.0,runs,191
+male,IPL,Holkar Cricket Stadium,2017-04-20,Punjab Kings,Mumbai Indians,Mumbai Indians,8.0,wickets,198
 male,IPL,Eden Gardens,2017-04-21,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,4.0,wickets,187
-male,IPL,Wankhede Stadium,2017-04-22,Mumbai Indians,Delhi Daredevils,Mumbai Indians,14.0,runs,142
+male,IPL,Wankhede Stadium,2017-04-22,Mumbai Indians,Delhi Capitals,Mumbai Indians,14.0,runs,142
 male,IPL,Maharashtra Cricket Association Stadium,2017-04-22,Rising Pune Supergiant,Sunrisers Hyderabad,Rising Pune Supergiant,6.0,wickets,176
-male,IPL,Saurashtra Cricket Association Stadium,2017-04-23,Gujarat Lions,Kings XI Punjab,Kings XI Punjab,26.0,runs,188
+male,IPL,Saurashtra Cricket Association Stadium,2017-04-23,Gujarat Lions,Punjab Kings,Punjab Kings,26.0,runs,188
 male,IPL,Eden Gardens,2017-04-23,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,82.0,runs,131
 male,IPL,Wankhede Stadium,2017-04-24,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,3.0,runs,160
 male,IPL,Maharashtra Cricket Association Stadium,2017-04-26,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,7.0,wickets,182
 male,IPL,M Chinnaswamy Stadium,2017-04-27,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,7.0,wickets,134
-male,IPL,Eden Gardens,2017-04-28,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,7.0,wickets,160
-male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2017-04-28,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,26.0,runs,207
+male,IPL,Eden Gardens,2017-04-28,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,7.0,wickets,160
+male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2017-04-28,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,26.0,runs,207
 male,IPL,Maharashtra Cricket Association Stadium,2017-04-29,Rising Pune Supergiant,Royal Challengers Bangalore,Rising Pune Supergiant,61.0,runs,157
 male,IPL,Saurashtra Cricket Association Stadium,2017-04-29,Gujarat Lions,Mumbai Indians,,,,153
-male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2017-04-30,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,10.0,wickets,67
+male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2017-04-30,Punjab Kings,Delhi Capitals,Punjab Kings,10.0,wickets,67
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2017-04-30,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,48.0,runs,209
 male,IPL,Wankhede Stadium,2017-05-01,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,5.0,wickets,162
 male,IPL,Maharashtra Cricket Association Stadium,2017-05-01,Rising Pune Supergiant,Gujarat Lions,Rising Pune Supergiant,5.0,wickets,161
-male,IPL,Feroz Shah Kotla,2017-05-02,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,6.0,wickets,185
+male,IPL,Feroz Shah Kotla,2017-05-02,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,6.0,wickets,185
 male,IPL,Eden Gardens,2017-05-03,Kolkata Knight Riders,Rising Pune Supergiant,Rising Pune Supergiant,4.0,wickets,155
-male,IPL,Feroz Shah Kotla,2017-05-04,Delhi Daredevils,Gujarat Lions,Delhi Daredevils,7.0,wickets,208
-male,IPL,M Chinnaswamy Stadium,2017-05-05,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,19.0,runs,138
+male,IPL,Feroz Shah Kotla,2017-05-04,Delhi Capitals,Gujarat Lions,Delhi Capitals,7.0,wickets,208
+male,IPL,M Chinnaswamy Stadium,2017-05-05,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,19.0,runs,138
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2017-05-06,Sunrisers Hyderabad,Rising Pune Supergiant,Rising Pune Supergiant,12.0,runs,148
-male,IPL,Feroz Shah Kotla,2017-05-06,Delhi Daredevils,Mumbai Indians,Mumbai Indians,146.0,runs,212
+male,IPL,Feroz Shah Kotla,2017-05-06,Delhi Capitals,Mumbai Indians,Mumbai Indians,146.0,runs,212
 male,IPL,M Chinnaswamy Stadium,2017-05-07,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,6.0,wickets,158
-male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2017-05-07,Kings XI Punjab,Gujarat Lions,Gujarat Lions,6.0,wickets,189
+male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2017-05-07,Punjab Kings,Gujarat Lions,Gujarat Lions,6.0,wickets,189
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2017-05-08,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,7.0,wickets,138
-male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2017-05-09,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,14.0,runs,167
-male,IPL,Green Park,2017-05-10,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,2.0,wickets,195
-male,IPL,Wankhede Stadium,2017-05-11,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,7.0,runs,230
-male,IPL,Feroz Shah Kotla,2017-05-12,Delhi Daredevils,Rising Pune Supergiant,Delhi Daredevils,7.0,runs,168
+male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2017-05-09,Punjab Kings,Kolkata Knight Riders,Punjab Kings,14.0,runs,167
+male,IPL,Green Park,2017-05-10,Gujarat Lions,Delhi Capitals,Delhi Capitals,2.0,wickets,195
+male,IPL,Wankhede Stadium,2017-05-11,Mumbai Indians,Punjab Kings,Punjab Kings,7.0,runs,230
+male,IPL,Feroz Shah Kotla,2017-05-12,Delhi Capitals,Rising Pune Supergiant,Delhi Capitals,7.0,runs,168
 male,IPL,Green Park,2017-05-13,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,8.0,wickets,154
 male,IPL,Eden Gardens,2017-05-13,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,9.0,runs,173
-male,IPL,Maharashtra Cricket Association Stadium,2017-05-14,Rising Pune Supergiant,Kings XI Punjab,Rising Pune Supergiant,9.0,wickets,73
-male,IPL,Feroz Shah Kotla,2017-05-14,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,10.0,runs,161
+male,IPL,Maharashtra Cricket Association Stadium,2017-05-14,Rising Pune Supergiant,Punjab Kings,Rising Pune Supergiant,9.0,wickets,73
+male,IPL,Feroz Shah Kotla,2017-05-14,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,10.0,runs,161
 male,IPL,Wankhede Stadium,2017-05-16,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,20.0,runs,162
 male,IPL,M Chinnaswamy Stadium,2017-05-17,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,7.0,wickets,128
 male,IPL,M Chinnaswamy Stadium,2017-05-19,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,6.0,wickets,107
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2017-05-21,Mumbai Indians,Rising Pune Supergiant,Mumbai Indians,1.0,runs,129
 male,IPL,Wankhede Stadium,2018-04-07,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,1.0,wickets,165
-male,IPL,Punjab Cricket Association IS Bindra Stadium,2018-04-08,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,6.0,wickets,166
+male,IPL,Punjab Cricket Association IS Bindra Stadium,2018-04-08,Delhi Capitals,Punjab Kings,Punjab Kings,6.0,wickets,166
 male,IPL,Eden Gardens,2018-04-08,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,4.0,wickets,176
 male,IPL,Rajiv Gandhi International Stadium,2018-04-09,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,9.0,wickets,125
 male,IPL,MA Chidambaram Stadium,2018-04-10,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,5.0,wickets,202
-male,IPL,Sawai Mansingh Stadium,2018-04-11,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,10.0,runs,153
+male,IPL,Sawai Mansingh Stadium,2018-04-11,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,10.0,runs,153
 male,IPL,Rajiv Gandhi International Stadium,2018-04-12,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,1.0,wickets,147
-male,IPL,M.Chinnaswamy Stadium,2018-04-13,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,4.0,wickets,155
-male,IPL,Wankhede Stadium,2018-04-14,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,7.0,wickets,194
+male,IPL,M.Chinnaswamy Stadium,2018-04-13,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,4.0,wickets,155
+male,IPL,Wankhede Stadium,2018-04-14,Mumbai Indians,Delhi Capitals,Delhi Capitals,7.0,wickets,194
 male,IPL,Eden Gardens,2018-04-14,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,5.0,wickets,138
 male,IPL,M.Chinnaswamy Stadium,2018-04-15,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,19.0,runs,217
-male,IPL,Punjab Cricket Association IS Bindra Stadium,2018-04-15,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,4.0,runs,197
-male,IPL,Eden Gardens,2018-04-16,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,71.0,runs,200
+male,IPL,Punjab Cricket Association IS Bindra Stadium,2018-04-15,Punjab Kings,Chennai Super Kings,Punjab Kings,4.0,runs,197
+male,IPL,Eden Gardens,2018-04-16,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,71.0,runs,200
 male,IPL,Wankhede Stadium,2018-04-17,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,46.0,runs,213
 male,IPL,Sawai Mansingh Stadium,2018-04-18,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,7.0,wickets,160
-male,IPL,Punjab Cricket Association IS Bindra Stadium,2018-04-19,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,15.0,runs,193
+male,IPL,Punjab Cricket Association IS Bindra Stadium,2018-04-19,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,15.0,runs,193
 male,IPL,Maharashtra Cricket Association Stadium,2018-04-20,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,64.0,runs,204
-male,IPL,Eden Gardens,2018-04-21,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,9.0,wickets,191
-male,IPL,M.Chinnaswamy Stadium,2018-04-21,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,6.0,wickets,174
+male,IPL,Eden Gardens,2018-04-21,Kolkata Knight Riders,Punjab Kings,Punjab Kings,9.0,wickets,191
+male,IPL,M.Chinnaswamy Stadium,2018-04-21,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,6.0,wickets,174
 male,IPL,Rajiv Gandhi International Stadium,2018-04-22,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,4.0,runs,182
 male,IPL,Sawai Mansingh Stadium,2018-04-22,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,3.0,wickets,167
-male,IPL,Arun Jaitley Stadium,2018-04-23,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,4.0,runs,143
+male,IPL,Arun Jaitley Stadium,2018-04-23,Punjab Kings,Delhi Capitals,Punjab Kings,4.0,runs,143
 male,IPL,Wankhede Stadium,2018-04-24,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,31.0,runs,118
 male,IPL,M.Chinnaswamy Stadium,2018-04-25,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,5.0,wickets,205
-male,IPL,Rajiv Gandhi International Stadium,2018-04-26,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,13.0,runs,132
-male,IPL,Arun Jaitley Stadium,2018-04-27,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,55.0,runs,219
+male,IPL,Rajiv Gandhi International Stadium,2018-04-26,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,13.0,runs,132
+male,IPL,Arun Jaitley Stadium,2018-04-27,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,55.0,runs,219
 male,IPL,Maharashtra Cricket Association Stadium,2018-04-28,Chennai Super Kings,Mumbai Indians,Mumbai Indians,8.0,wickets,169
 male,IPL,Sawai Mansingh Stadium,2018-04-29,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,11.0,runs,151
 male,IPL,M.Chinnaswamy Stadium,2018-04-29,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,6.0,wickets,175
-male,IPL,Maharashtra Cricket Association Stadium,2018-04-30,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,13.0,runs,211
+male,IPL,Maharashtra Cricket Association Stadium,2018-04-30,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,13.0,runs,211
 male,IPL,M.Chinnaswamy Stadium,2018-05-01,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,14.0,runs,167
-male,IPL,Arun Jaitley Stadium,2018-05-02,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,4.0,runs,196
+male,IPL,Arun Jaitley Stadium,2018-05-02,Delhi Capitals,Rajasthan Royals,Delhi Capitals,4.0,runs,196
 male,IPL,Eden Gardens,2018-05-03,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,6.0,wickets,177
-male,IPL,Holkar Cricket Stadium,2018-05-04,Kings XI Punjab,Mumbai Indians,Mumbai Indians,6.0,wickets,174
+male,IPL,Holkar Cricket Stadium,2018-05-04,Punjab Kings,Mumbai Indians,Mumbai Indians,6.0,wickets,174
 male,IPL,Maharashtra Cricket Association Stadium,2018-05-05,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,6.0,wickets,127
-male,IPL,Rajiv Gandhi International Stadium,2018-05-05,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,7.0,wickets,163
+male,IPL,Rajiv Gandhi International Stadium,2018-05-05,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,7.0,wickets,163
 male,IPL,Wankhede Stadium,2018-05-06,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,13.0,runs,181
-male,IPL,Holkar Cricket Stadium,2018-05-06,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,6.0,wickets,152
+male,IPL,Holkar Cricket Stadium,2018-05-06,Rajasthan Royals,Punjab Kings,Punjab Kings,6.0,wickets,152
 male,IPL,Rajiv Gandhi International Stadium,2018-05-07,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,5.0,runs,146
-male,IPL,Sawai Mansingh Stadium,2018-05-08,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,15.0,runs,158
+male,IPL,Sawai Mansingh Stadium,2018-05-08,Rajasthan Royals,Punjab Kings,Rajasthan Royals,15.0,runs,158
 male,IPL,Eden Gardens,2018-05-09,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,102.0,runs,210
-male,IPL,Arun Jaitley Stadium,2018-05-10,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,9.0,wickets,187
+male,IPL,Arun Jaitley Stadium,2018-05-10,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,9.0,wickets,187
 male,IPL,Sawai Mansingh Stadium,2018-05-11,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,4.0,wickets,176
-male,IPL,Holkar Cricket Stadium,2018-05-12,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,31.0,runs,245
-male,IPL,Arun Jaitley Stadium,2018-05-12,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,5.0,wickets,181
+male,IPL,Holkar Cricket Stadium,2018-05-12,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,31.0,runs,245
+male,IPL,Arun Jaitley Stadium,2018-05-12,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,5.0,wickets,181
 male,IPL,Maharashtra Cricket Association Stadium,2018-05-13,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,8.0,wickets,179
 male,IPL,Wankhede Stadium,2018-05-13,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,7.0,wickets,168
-male,IPL,Holkar Cricket Stadium,2018-05-14,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,10.0,wickets,88
+male,IPL,Holkar Cricket Stadium,2018-05-14,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,10.0,wickets,88
 male,IPL,Eden Gardens,2018-05-15,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,6.0,wickets,142
-male,IPL,Wankhede Stadium,2018-05-16,Mumbai Indians,Kings XI Punjab,Mumbai Indians,3.0,runs,186
+male,IPL,Wankhede Stadium,2018-05-16,Mumbai Indians,Punjab Kings,Mumbai Indians,3.0,runs,186
 male,IPL,M.Chinnaswamy Stadium,2018-05-17,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,14.0,runs,218
-male,IPL,Arun Jaitley Stadium,2018-05-18,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,34.0,runs,162
+male,IPL,Arun Jaitley Stadium,2018-05-18,Delhi Capitals,Chennai Super Kings,Delhi Capitals,34.0,runs,162
 male,IPL,Sawai Mansingh Stadium,2018-05-19,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,30.0,runs,164
 male,IPL,Rajiv Gandhi International Stadium,2018-05-19,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,5.0,wickets,172
-male,IPL,Arun Jaitley Stadium,2018-05-20,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,11.0,runs,174
-male,IPL,Maharashtra Cricket Association Stadium,2018-05-20,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,5.0,wickets,153
+male,IPL,Arun Jaitley Stadium,2018-05-20,Delhi Capitals,Mumbai Indians,Delhi Capitals,11.0,runs,174
+male,IPL,Maharashtra Cricket Association Stadium,2018-05-20,Punjab Kings,Chennai Super Kings,Chennai Super Kings,5.0,wickets,153
 male,IPL,Wankhede Stadium,2018-05-22,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,2.0,wickets,139
 male,IPL,Eden Gardens,2018-05-23,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,25.0,runs,169
 male,IPL,Eden Gardens,2018-05-25,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,14.0,runs,174
@@ -121,118 +121,118 @@ male,IPL,Wankhede Stadium,2018-05-27,Sunrisers Hyderabad,Chennai Super Kings,Che
 male,IPL,MA Chidambaram Stadium,2019-03-23,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,7.0,wickets,70
 male,IPL,Eden Gardens,2019-03-24,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,6.0,wickets,181
 male,IPL,Wankhede Stadium,2019-03-24,Delhi Capitals,Mumbai Indians,Delhi Capitals,37.0,runs,213
-male,IPL,Sawai Mansingh Stadium,2019-03-25,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,14.0,runs,184
+male,IPL,Sawai Mansingh Stadium,2019-03-25,Punjab Kings,Rajasthan Royals,Punjab Kings,14.0,runs,184
 male,IPL,Arun Jaitley Stadium,2019-03-26,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,6.0,wickets,147
-male,IPL,Eden Gardens,2019-03-27,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,28.0,runs,218
+male,IPL,Eden Gardens,2019-03-27,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,28.0,runs,218
 male,IPL,M.Chinnaswamy Stadium,2019-03-28,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,6.0,runs,187
 male,IPL,Rajiv Gandhi International Stadium,2019-03-29,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,5.0,wickets,198
-male,IPL,Punjab Cricket Association IS Bindra Stadium,2019-03-30,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,8.0,wickets,176
+male,IPL,Punjab Cricket Association IS Bindra Stadium,2019-03-30,Mumbai Indians,Punjab Kings,Punjab Kings,8.0,wickets,176
 male,IPL,Arun Jaitley Stadium,2019-03-30,Kolkata Knight Riders,Delhi Capitals,,,,185
 male,IPL,Rajiv Gandhi International Stadium,2019-03-31,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,118.0,runs,231
 male,IPL,MA Chidambaram Stadium,2019-03-31,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,8.0,runs,175
-male,IPL,Punjab Cricket Association IS Bindra Stadium,2019-04-01,Kings XI Punjab,Delhi Capitals,Kings XI Punjab,14.0,runs,166
+male,IPL,Punjab Cricket Association IS Bindra Stadium,2019-04-01,Punjab Kings,Delhi Capitals,Punjab Kings,14.0,runs,166
 male,IPL,Sawai Mansingh Stadium,2019-04-02,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,7.0,wickets,158
 male,IPL,Wankhede Stadium,2019-04-03,Mumbai Indians,Chennai Super Kings,Mumbai Indians,37.0,runs,170
 male,IPL,Arun Jaitley Stadium,2019-04-04,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,5.0,wickets,129
 male,IPL,M.Chinnaswamy Stadium,2019-04-05,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,5.0,wickets,205
-male,IPL,MA Chidambaram Stadium,2019-04-06,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,22.0,runs,160
+male,IPL,MA Chidambaram Stadium,2019-04-06,Chennai Super Kings,Punjab Kings,Chennai Super Kings,22.0,runs,160
 male,IPL,Rajiv Gandhi International Stadium,2019-04-06,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,40.0,runs,136
 male,IPL,M.Chinnaswamy Stadium,2019-04-07,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,4.0,wickets,149
 male,IPL,Sawai Mansingh Stadium,2019-04-07,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,8.0,wickets,139
-male,IPL,Punjab Cricket Association IS Bindra Stadium,2019-04-08,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,6.0,wickets,150
+male,IPL,Punjab Cricket Association IS Bindra Stadium,2019-04-08,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,6.0,wickets,150
 male,IPL,MA Chidambaram Stadium,2019-04-09,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,7.0,wickets,108
-male,IPL,Wankhede Stadium,2019-04-10,Kings XI Punjab,Mumbai Indians,Mumbai Indians,3.0,wickets,197
+male,IPL,Wankhede Stadium,2019-04-10,Punjab Kings,Mumbai Indians,Mumbai Indians,3.0,wickets,197
 male,IPL,Sawai Mansingh Stadium,2019-04-11,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,4.0,wickets,151
 male,IPL,Eden Gardens,2019-04-12,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,7.0,wickets,178
 male,IPL,Wankhede Stadium,2019-04-13,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,4.0,wickets,187
-male,IPL,Punjab Cricket Association IS Bindra Stadium,2019-04-13,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,8.0,wickets,173
+male,IPL,Punjab Cricket Association IS Bindra Stadium,2019-04-13,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,8.0,wickets,173
 male,IPL,Eden Gardens,2019-04-14,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,5.0,wickets,161
 male,IPL,Rajiv Gandhi International Stadium,2019-04-14,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,39.0,runs,155
 male,IPL,Wankhede Stadium,2019-04-15,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,5.0,wickets,171
-male,IPL,Punjab Cricket Association IS Bindra Stadium,2019-04-16,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,12.0,runs,182
+male,IPL,Punjab Cricket Association IS Bindra Stadium,2019-04-16,Punjab Kings,Rajasthan Royals,Punjab Kings,12.0,runs,182
 male,IPL,Rajiv Gandhi International Stadium,2019-04-17,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,6.0,wickets,132
 male,IPL,Arun Jaitley Stadium,2019-04-18,Mumbai Indians,Delhi Capitals,Mumbai Indians,40.0,runs,168
 male,IPL,Eden Gardens,2019-04-19,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,10.0,runs,213
 male,IPL,Sawai Mansingh Stadium,2019-04-20,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,5.0,wickets,161
-male,IPL,Arun Jaitley Stadium,2019-04-20,Kings XI Punjab,Delhi Capitals,Delhi Capitals,5.0,wickets,163
+male,IPL,Arun Jaitley Stadium,2019-04-20,Punjab Kings,Delhi Capitals,Delhi Capitals,5.0,wickets,163
 male,IPL,Rajiv Gandhi International Stadium,2019-04-21,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,9.0,wickets,159
 male,IPL,M.Chinnaswamy Stadium,2019-04-21,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,1.0,runs,161
 male,IPL,Sawai Mansingh Stadium,2019-04-22,Rajasthan Royals,Delhi Capitals,Delhi Capitals,6.0,wickets,191
 male,IPL,MA Chidambaram Stadium,2019-04-23,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,6.0,wickets,175
-male,IPL,M.Chinnaswamy Stadium,2019-04-24,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,17.0,runs,202
+male,IPL,M.Chinnaswamy Stadium,2019-04-24,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,17.0,runs,202
 male,IPL,Eden Gardens,2019-04-25,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,3.0,wickets,175
 male,IPL,MA Chidambaram Stadium,2019-04-26,Mumbai Indians,Chennai Super Kings,Mumbai Indians,46.0,runs,155
 male,IPL,Sawai Mansingh Stadium,2019-04-27,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,7.0,wickets,160
 male,IPL,Arun Jaitley Stadium,2019-04-28,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,16.0,runs,187
 male,IPL,Eden Gardens,2019-04-28,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,34.0,runs,232
-male,IPL,Rajiv Gandhi International Stadium,2019-04-29,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,45.0,runs,212
+male,IPL,Rajiv Gandhi International Stadium,2019-04-29,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,45.0,runs,212
 male,IPL,M.Chinnaswamy Stadium,2019-04-30,Royal Challengers Bangalore,Rajasthan Royals,,,,62
 male,IPL,MA Chidambaram Stadium,2019-05-01,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,80.0,runs,179
 male,IPL,Wankhede Stadium,2019-05-02,Mumbai Indians,Sunrisers Hyderabad,,,,162
-male,IPL,Punjab Cricket Association IS Bindra Stadium,2019-05-03,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,7.0,wickets,183
+male,IPL,Punjab Cricket Association IS Bindra Stadium,2019-05-03,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,7.0,wickets,183
 male,IPL,Arun Jaitley Stadium,2019-05-04,Rajasthan Royals,Delhi Capitals,Delhi Capitals,5.0,wickets,115
 male,IPL,M.Chinnaswamy Stadium,2019-05-04,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,4.0,wickets,175
-male,IPL,Punjab Cricket Association IS Bindra Stadium,2019-05-05,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,6.0,wickets,170
+male,IPL,Punjab Cricket Association IS Bindra Stadium,2019-05-05,Chennai Super Kings,Punjab Kings,Punjab Kings,6.0,wickets,170
 male,IPL,Wankhede Stadium,2019-05-05,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,9.0,wickets,133
 male,IPL,MA Chidambaram Stadium,2019-05-07,Chennai Super Kings,Mumbai Indians,Mumbai Indians,6.0,wickets,131
 male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2019-05-08,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,2.0,wickets,162
 male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2019-05-10,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,6.0,wickets,147
 male,IPL,Rajiv Gandhi International Stadium,2019-05-12,Mumbai Indians,Chennai Super Kings,Mumbai Indians,1.0,runs,149
 male,IPL,Sheikh Zayed Stadium,2020-09-19,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,5.0,wickets,162
-male,IPL,Dubai International Cricket Stadium,2020-09-20,Delhi Capitals,Kings XI Punjab,,,,157
+male,IPL,Dubai International Cricket Stadium,2020-09-20,Delhi Capitals,Punjab Kings,,,,157
 male,IPL,Sheikh Zayed Stadium,2020-10-21,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,8.0,wickets,84
 male,IPL,Sharjah Cricket Stadium,2020-11-03,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,10.0,wickets,149
 male,IPL,Sharjah Cricket Stadium,2020-09-22,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,16.0,runs,216
 male,IPL,Sheikh Zayed Stadium,2020-10-24,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,59.0,runs,194
-male,IPL,Dubai International Cricket Stadium,2020-10-24,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,12.0,runs,126
+male,IPL,Dubai International Cricket Stadium,2020-10-24,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,12.0,runs,126
 male,IPL,Sheikh Zayed Stadium,2020-10-28,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,5.0,wickets,164
 male,IPL,Sharjah Cricket Stadium,2020-10-09,Delhi Capitals,Rajasthan Royals,Delhi Capitals,46.0,runs,184
 male,IPL,Sheikh Zayed Stadium,2020-10-07,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,10.0,runs,167
 male,IPL,Sharjah Cricket Stadium,2020-10-31,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,5.0,wickets,120
-male,IPL,Sheikh Zayed Stadium,2020-10-01,Mumbai Indians,Kings XI Punjab,Mumbai Indians,48.0,runs,191
+male,IPL,Sheikh Zayed Stadium,2020-10-01,Mumbai Indians,Punjab Kings,Mumbai Indians,48.0,runs,191
 male,IPL,Dubai International Cricket Stadium,2020-09-30,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,37.0,runs,174
 male,IPL,Sheikh Zayed Stadium,2020-11-02,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,6.0,wickets,152
-male,IPL,Sheikh Zayed Stadium,2020-11-01,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,9.0,wickets,153
+male,IPL,Sheikh Zayed Stadium,2020-11-01,Punjab Kings,Chennai Super Kings,Chennai Super Kings,9.0,wickets,153
 male,IPL,Dubai International Cricket Stadium,2020-10-11,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,5.0,wickets,158
 male,IPL,Sheikh Zayed Stadium,2020-09-23,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,49.0,runs,195
 male,IPL,Sharjah Cricket Stadium,2020-10-17,Chennai Super Kings,Delhi Capitals,Delhi Capitals,5.0,wickets,179
-male,IPL,Dubai International Cricket Stadium,2020-09-24,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,97.0,runs,206
+male,IPL,Dubai International Cricket Stadium,2020-09-24,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,97.0,runs,206
 male,IPL,Sheikh Zayed Stadium,2020-10-06,Mumbai Indians,Rajasthan Royals,Mumbai Indians,57.0,runs,193
 male,IPL,Sheikh Zayed Stadium,2020-10-18,Kolkata Knight Riders,Sunrisers Hyderabad,,,,163
-male,IPL,Dubai International Cricket Stadium,2020-10-04,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,10.0,wickets,178
+male,IPL,Dubai International Cricket Stadium,2020-10-04,Punjab Kings,Chennai Super Kings,Chennai Super Kings,10.0,wickets,178
 male,IPL,Sheikh Zayed Stadium,2020-10-03,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,8.0,wickets,154
 male,IPL,Sharjah Cricket Stadium,2020-10-03,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,18.0,runs,228
 male,IPL,Dubai International Cricket Stadium,2020-10-02,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,7.0,runs,164
-male,IPL,Dubai International Cricket Stadium,2020-10-18,Mumbai Indians,Kings XI Punjab,,,,176
+male,IPL,Dubai International Cricket Stadium,2020-10-18,Mumbai Indians,Punjab Kings,,,,176
 male,IPL,Dubai International Cricket Stadium,2020-10-22,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,8.0,wickets,154
 male,IPL,Dubai International Cricket Stadium,2020-10-05,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,59.0,runs,196
-male,IPL,Sharjah Cricket Stadium,2020-10-26,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,8.0,wickets,149
+male,IPL,Sharjah Cricket Stadium,2020-10-26,Kolkata Knight Riders,Punjab Kings,Punjab Kings,8.0,wickets,149
 male,IPL,Sharjah Cricket Stadium,2020-10-23,Chennai Super Kings,Mumbai Indians,Mumbai Indians,10.0,wickets,114
 male,IPL,Dubai International Cricket Stadium,2020-10-17,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,7.0,wickets,177
-male,IPL,Sheikh Zayed Stadium,2020-10-10,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,2.0,runs,164
+male,IPL,Sheikh Zayed Stadium,2020-10-10,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,2.0,runs,164
 male,IPL,Dubai International Cricket Stadium,2020-10-27,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,88.0,runs,219
 male,IPL,Dubai International Cricket Stadium,2020-10-10,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,37.0,runs,169
 male,IPL,Sheikh Zayed Stadium,2020-10-16,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,8.0,wickets,148
-male,IPL,Sharjah Cricket Stadium,2020-09-27,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,4.0,wickets,223
+male,IPL,Sharjah Cricket Stadium,2020-09-27,Punjab Kings,Rajasthan Royals,Rajasthan Royals,4.0,wickets,223
 male,IPL,Dubai International Cricket Stadium,2020-10-13,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,20.0,runs,167
 male,IPL,Sheikh Zayed Stadium,2020-10-11,Delhi Capitals,Mumbai Indians,Mumbai Indians,5.0,wickets,162
 male,IPL,Dubai International Cricket Stadium,2020-11-01,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,60.0,runs,191
-male,IPL,Sharjah Cricket Stadium,2020-10-15,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,8.0,wickets,171
+male,IPL,Sharjah Cricket Stadium,2020-10-15,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,8.0,wickets,171
 male,IPL,Sheikh Zayed Stadium,2020-09-29,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,15.0,runs,162
 male,IPL,Sheikh Zayed Stadium,2020-10-19,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,7.0,wickets,125
 male,IPL,Dubai International Cricket Stadium,2020-09-21,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,10.0,runs,163
 male,IPL,Dubai International Cricket Stadium,2020-10-31,Delhi Capitals,Mumbai Indians,Mumbai Indians,9.0,wickets,110
 male,IPL,Dubai International Cricket Stadium,2020-10-29,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,6.0,wickets,172
-male,IPL,Sheikh Zayed Stadium,2020-10-30,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,7.0,wickets,185
+male,IPL,Sheikh Zayed Stadium,2020-10-30,Punjab Kings,Rajasthan Royals,Rajasthan Royals,7.0,wickets,185
 male,IPL,Sharjah Cricket Stadium,2020-10-04,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,34.0,runs,208
 male,IPL,Dubai International Cricket Stadium,2020-09-25,Delhi Capitals,Chennai Super Kings,Delhi Capitals,44.0,runs,175
 male,IPL,Sharjah Cricket Stadium,2020-10-12,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,82.0,runs,194
 male,IPL,Sheikh Zayed Stadium,2020-10-25,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,8.0,wickets,195
-male,IPL,Dubai International Cricket Stadium,2020-10-08,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,69.0,runs,201
+male,IPL,Dubai International Cricket Stadium,2020-10-08,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,69.0,runs,201
 male,IPL,Dubai International Cricket Stadium,2020-10-14,Delhi Capitals,Rajasthan Royals,Delhi Capitals,13.0,runs,161
 male,IPL,Dubai International Cricket Stadium,2020-10-25,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,8.0,wickets,145
 male,IPL,Sheikh Zayed Stadium,2020-09-26,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,7.0,wickets,142
-male,IPL,Dubai International Cricket Stadium,2020-10-20,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,5.0,wickets,164
+male,IPL,Dubai International Cricket Stadium,2020-10-20,Delhi Capitals,Punjab Kings,Punjab Kings,5.0,wickets,164
 male,IPL,Dubai International Cricket Stadium,2020-09-28,Royal Challengers Bangalore,Mumbai Indians,,,,201
 male,IPL,Dubai International Cricket Stadium,2020-11-05,Mumbai Indians,Delhi Capitals,Mumbai Indians,57.0,runs,200
 male,IPL,Sheikh Zayed Stadium,2020-11-06,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,6.0,wickets,131
@@ -446,129 +446,129 @@ male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2023-05-23,Chennai Super Kin
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2023-05-24,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,81.0,runs,182
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2023-05-26,Gujarat Titans,Mumbai Indians,Gujarat Titans,62.0,runs,233
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2023-05-29,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,5.0,wickets,214
-male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2024-03-22,Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,6.0,wickets,173
+male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2024-03-22,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,6.0,wickets,173
 male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024-03-23,Delhi Capitals,Punjab Kings,Punjab Kings,4.0,wickets,174
 male,IPL,"Eden Gardens, Kolkata",2024-03-23,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,4.0,runs,208
 male,IPL,"Sawai Mansingh Stadium, Jaipur",2024-03-24,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,20.0,runs,193
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2024-03-24,Gujarat Titans,Mumbai Indians,Gujarat Titans,6.0,runs,168
-male,IPL,"M Chinnaswamy Stadium, Bengaluru",2024-03-25,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,4.0,wickets,176
+male,IPL,"M Chinnaswamy Stadium, Bengaluru",2024-03-25,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,4.0,wickets,176
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2024-03-26,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,63.0,runs,206
 male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-03-27,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,31.0,runs,277
 male,IPL,"Sawai Mansingh Stadium, Jaipur",2024-03-28,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,12.0,runs,185
-male,IPL,"M Chinnaswamy Stadium, Bengaluru",2024-03-29,Royal Challengers Bengaluru,Kolkata Knight Riders,Kolkata Knight Riders,7.0,wickets,182
+male,IPL,"M Chinnaswamy Stadium, Bengaluru",2024-03-29,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,7.0,wickets,182
 male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-03-30,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,21.0,runs,199
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2024-03-31,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,7.0,wickets,162
 male,IPL,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2024-03-31,Delhi Capitals,Chennai Super Kings,Delhi Capitals,20.0,runs,191
 male,IPL,"Wankhede Stadium, Mumbai",2024-04-01,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,6.0,wickets,125
-male,IPL,"M Chinnaswamy Stadium, Bengaluru",2024-04-02,Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,28.0,runs,181
+male,IPL,"M Chinnaswamy Stadium, Bengaluru",2024-04-02,Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,28.0,runs,181
 male,IPL,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2024-04-03,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,106.0,runs,272
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2024-04-04,Gujarat Titans,Punjab Kings,Punjab Kings,3.0,wickets,199
 male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-04-05,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,6.0,wickets,165
-male,IPL,"Sawai Mansingh Stadium, Jaipur",2024-04-06,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,6.0,wickets,183
+male,IPL,"Sawai Mansingh Stadium, Jaipur",2024-04-06,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,6.0,wickets,183
 male,IPL,"Wankhede Stadium, Mumbai",2024-04-07,Mumbai Indians,Delhi Capitals,Mumbai Indians,29.0,runs,234
 male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-04-07,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,33.0,runs,163
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2024-04-08,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,7.0,wickets,137
 male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024-04-09,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,2.0,runs,182
 male,IPL,"Sawai Mansingh Stadium, Jaipur",2024-04-10,Rajasthan Royals,Gujarat Titans,Gujarat Titans,3.0,wickets,196
-male,IPL,"Wankhede Stadium, Mumbai",2024-04-11,Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,7.0,wickets,196
+male,IPL,"Wankhede Stadium, Mumbai",2024-04-11,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,7.0,wickets,196
 male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-04-12,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,6.0,wickets,167
 male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024-04-13,Punjab Kings,Rajasthan Royals,Rajasthan Royals,3.0,wickets,147
 male,IPL,"Eden Gardens, Kolkata",2024-04-14,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,8.0,wickets,161
 male,IPL,"Wankhede Stadium, Mumbai",2024-04-14,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,20.0,runs,206
-male,IPL,"M Chinnaswamy Stadium, Bengaluru",2024-04-15,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,25.0,runs,287
+male,IPL,"M Chinnaswamy Stadium, Bengaluru",2024-04-15,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,25.0,runs,287
 male,IPL,"Eden Gardens, Kolkata",2024-04-16,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,2.0,wickets,223
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2024-04-17,Gujarat Titans,Delhi Capitals,Delhi Capitals,6.0,wickets,89
 male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024-04-18,Mumbai Indians,Punjab Kings,Mumbai Indians,9.0,runs,192
 male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-04-19,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,8.0,wickets,176
 male,IPL,"Arun Jaitley Stadium, Delhi",2024-04-20,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,67.0,runs,266
-male,IPL,"Eden Gardens, Kolkata",2024-04-21,Kolkata Knight Riders,Royal Challengers Bengaluru,Kolkata Knight Riders,1.0,runs,222
+male,IPL,"Eden Gardens, Kolkata",2024-04-21,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,1.0,runs,222
 male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2024-04-21,Punjab Kings,Gujarat Titans,Gujarat Titans,3.0,wickets,142
 male,IPL,"Sawai Mansingh Stadium, Jaipur",2024-04-22,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,9.0,wickets,179
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2024-04-23,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,6.0,wickets,210
 male,IPL,"Arun Jaitley Stadium, Delhi",2024-04-24,Delhi Capitals,Gujarat Titans,Delhi Capitals,4.0,runs,224
-male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-04-25,Royal Challengers Bengaluru,Sunrisers Hyderabad,Royal Challengers Bengaluru,35.0,runs,206
+male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-04-25,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,35.0,runs,206
 male,IPL,"Eden Gardens, Kolkata",2024-04-26,Kolkata Knight Riders,Punjab Kings,Punjab Kings,8.0,wickets,261
 male,IPL,"Arun Jaitley Stadium, Delhi",2024-04-27,Delhi Capitals,Mumbai Indians,Delhi Capitals,10.0,runs,257
 male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-04-27,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,7.0,wickets,196
-male,IPL,"Narendra Modi Stadium, Ahmedabad",2024-04-28,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,9.0,wickets,200
+male,IPL,"Narendra Modi Stadium, Ahmedabad",2024-04-28,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,9.0,wickets,200
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2024-04-28,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,78.0,runs,212
 male,IPL,"Eden Gardens, Kolkata",2024-04-29,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,7.0,wickets,153
 male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-04-30,Mumbai Indians,Lucknow Super Giants,Lucknow Super Giants,4.0,wickets,144
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2024-05-01,Chennai Super Kings,Punjab Kings,Punjab Kings,7.0,wickets,162
 male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-05-02,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,1.0,runs,201
 male,IPL,"Wankhede Stadium, Mumbai",2024-05-03,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,24.0,runs,169
-male,IPL,"M Chinnaswamy Stadium, Bengaluru",2024-05-04,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,4.0,wickets,147
+male,IPL,"M Chinnaswamy Stadium, Bengaluru",2024-05-04,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,4.0,wickets,147
 male,IPL,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2024-05-05,Chennai Super Kings,Punjab Kings,Chennai Super Kings,28.0,runs,167
 male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2024-05-05,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,98.0,runs,235
 male,IPL,"Wankhede Stadium, Mumbai",2024-05-06,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,7.0,wickets,173
 male,IPL,"Arun Jaitley Stadium, Delhi",2024-05-07,Delhi Capitals,Rajasthan Royals,Delhi Capitals,20.0,runs,221
 male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-05-08,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,10.0,wickets,165
-male,IPL,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2024-05-09,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,60.0,runs,241
+male,IPL,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2024-05-09,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,60.0,runs,241
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2024-05-10,Gujarat Titans,Chennai Super Kings,Gujarat Titans,35.0,runs,231
 male,IPL,"Eden Gardens, Kolkata",2024-05-11,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,18.0,runs,157
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2024-05-12,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,5.0,wickets,141
-male,IPL,"M Chinnaswamy Stadium, Bengaluru",2024-05-12,Royal Challengers Bengaluru,Delhi Capitals,Royal Challengers Bengaluru,47.0,runs,187
+male,IPL,"M Chinnaswamy Stadium, Bengaluru",2024-05-12,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,47.0,runs,187
 male,IPL,"Arun Jaitley Stadium, Delhi",2024-05-14,Delhi Capitals,Lucknow Super Giants,Delhi Capitals,19.0,runs,208
 male,IPL,"Barsapara Cricket Stadium, Guwahati",2024-05-15,Rajasthan Royals,Punjab Kings,Punjab Kings,5.0,wickets,144
 male,IPL,"Wankhede Stadium, Mumbai",2024-05-17,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,18.0,runs,214
-male,IPL,"M Chinnaswamy Stadium, Bengaluru",2024-05-18,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,27.0,runs,218
+male,IPL,"M Chinnaswamy Stadium, Bengaluru",2024-05-18,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,27.0,runs,218
 male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2024-05-19,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,4.0,wickets,214
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2024-05-21,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,8.0,wickets,159
-male,IPL,"Narendra Modi Stadium, Ahmedabad",2024-05-22,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,4.0,wickets,172
+male,IPL,"Narendra Modi Stadium, Ahmedabad",2024-05-22,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,4.0,wickets,172
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2024-05-24,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,36.0,runs,175
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2024-05-26,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,8.0,wickets,113
-male,IPL,"Eden Gardens, Kolkata",2025-03-22,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,7.0,wickets,174
+male,IPL,"Eden Gardens, Kolkata",2025-03-22,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,7.0,wickets,174
 male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025-03-23,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,44.0,runs,286
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2025-03-23,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,4.0,wickets,155
 male,IPL,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2025-03-24,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,1.0,wickets,209
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2025-03-25,Punjab Kings,Gujarat Titans,Punjab Kings,11.0,runs,243
 male,IPL,"Barsapara Cricket Stadium, Guwahati",2025-03-26,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,8.0,wickets,151
 male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025-03-27,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,5.0,wickets,190
-male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2025-03-28,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,50.0,runs,196
+male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2025-03-28,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,50.0,runs,196
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2025-03-29,Gujarat Titans,Mumbai Indians,Gujarat Titans,36.0,runs,196
 male,IPL,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2025-03-30,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,7.0,wickets,163
 male,IPL,"Barsapara Cricket Stadium, Guwahati",2025-03-30,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,6.0,runs,182
 male,IPL,"Wankhede Stadium, Mumbai",2025-03-31,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,8.0,wickets,116
 male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-04-01,Lucknow Super Giants,Punjab Kings,Punjab Kings,8.0,wickets,171
-male,IPL,"M Chinnaswamy Stadium, Bengaluru",2025-04-02,Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,8.0,wickets,169
+male,IPL,"M Chinnaswamy Stadium, Bengaluru",2025-04-02,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,8.0,wickets,169
 male,IPL,"Eden Gardens, Kolkata",2025-04-03,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,80.0,runs,200
 male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-04-04,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,12.0,runs,203
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2025-04-05,Delhi Capitals,Chennai Super Kings,Delhi Capitals,25.0,runs,183
 male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2025-04-05,Rajasthan Royals,Punjab Kings,Rajasthan Royals,50.0,runs,205
 male,IPL,"Eden Gardens, Kolkata",2025-04-08,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,4.0,runs,238
 male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025-04-06,Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,7.0,wickets,152
-male,IPL,"Wankhede Stadium, Mumbai",2025-04-07,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,12.0,runs,221
+male,IPL,"Wankhede Stadium, Mumbai",2025-04-07,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,12.0,runs,221
 male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2025-04-08,Punjab Kings,Chennai Super Kings,Punjab Kings,18.0,runs,219
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2025-04-09,Gujarat Titans,Rajasthan Royals,Gujarat Titans,58.0,runs,217
-male,IPL,"M Chinnaswamy Stadium, Bengaluru",2025-04-10,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,6.0,wickets,163
+male,IPL,"M Chinnaswamy Stadium, Bengaluru",2025-04-10,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,6.0,wickets,163
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2025-04-11,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,8.0,wickets,103
 male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-04-12,Gujarat Titans,Lucknow Super Giants,Lucknow Super Giants,6.0,wickets,180
 male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025-04-12,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,8.0,wickets,245
-male,IPL,"Sawai Mansingh Stadium, Jaipur",2025-04-13,Rajasthan Royals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,9.0,wickets,173
+male,IPL,"Sawai Mansingh Stadium, Jaipur",2025-04-13,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,9.0,wickets,173
 male,IPL,"Arun Jaitley Stadium, Delhi",2025-04-13,Mumbai Indians,Delhi Capitals,Mumbai Indians,12.0,runs,205
 male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-04-14,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,5.0,wickets,166
 male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2025-04-15,Punjab Kings,Kolkata Knight Riders,Punjab Kings,16.0,runs,111
 male,IPL,"Arun Jaitley Stadium, Delhi",2025-04-16,Delhi Capitals,Rajasthan Royals,,,,188
 male,IPL,"Wankhede Stadium, Mumbai",2025-04-17,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,4.0,wickets,162
-male,IPL,"M Chinnaswamy Stadium, Bengaluru",2025-04-18,Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,5.0,wickets,95
+male,IPL,"M Chinnaswamy Stadium, Bengaluru",2025-04-18,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,5.0,wickets,95
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2025-04-19,Delhi Capitals,Gujarat Titans,Gujarat Titans,7.0,wickets,203
 male,IPL,"Sawai Mansingh Stadium, Jaipur",2025-04-19,Lucknow Super Giants,Rajasthan Royals,Lucknow Super Giants,2.0,runs,180
-male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2025-04-20,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,7.0,wickets,157
+male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2025-04-20,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,7.0,wickets,157
 male,IPL,"Wankhede Stadium, Mumbai",2025-04-20,Chennai Super Kings,Mumbai Indians,Mumbai Indians,9.0,wickets,176
 male,IPL,"Eden Gardens, Kolkata",2025-04-21,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,39.0,runs,198
 male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-04-22,Lucknow Super Giants,Delhi Capitals,Delhi Capitals,8.0,wickets,159
 male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025-04-23,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,7.0,wickets,143
-male,IPL,"M Chinnaswamy Stadium, Bengaluru",2025-04-24,Royal Challengers Bengaluru,Rajasthan Royals,Royal Challengers Bengaluru,11.0,runs,205
+male,IPL,"M Chinnaswamy Stadium, Bengaluru",2025-04-24,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,11.0,runs,205
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2025-04-25,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,5.0,wickets,154
 male,IPL,"Eden Gardens, Kolkata",2025-04-26,Punjab Kings,Kolkata Knight Riders,,,,201
 male,IPL,"Wankhede Stadium, Mumbai",2025-04-27,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,54.0,runs,215
-male,IPL,"Arun Jaitley Stadium, Delhi",2025-04-27,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,6.0,wickets,162
+male,IPL,"Arun Jaitley Stadium, Delhi",2025-04-27,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,6.0,wickets,162
 male,IPL,"Sawai Mansingh Stadium, Jaipur",2025-04-28,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,8.0,wickets,209
 male,IPL,"Arun Jaitley Stadium, Delhi",2025-04-29,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,14.0,runs,204
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2025-04-30,Chennai Super Kings,Punjab Kings,Punjab Kings,4.0,wickets,190
 male,IPL,"Sawai Mansingh Stadium, Jaipur",2025-05-01,Mumbai Indians,Rajasthan Royals,Mumbai Indians,100.0,runs,217
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2025-05-02,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,38.0,runs,224
-male,IPL,"M Chinnaswamy Stadium, Bengaluru",2025-05-03,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,2.0,runs,213
+male,IPL,"M Chinnaswamy Stadium, Bengaluru",2025-05-03,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,2.0,runs,213
 male,IPL,"Eden Gardens, Kolkata",2025-05-04,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,1.0,runs,206
 male,IPL,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2025-05-04,Punjab Kings,Lucknow Super Giants,Punjab Kings,37.0,runs,236
 male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2025-05-05,Delhi Capitals,Sunrisers Hyderabad,,,,133
@@ -581,17 +581,17 @@ male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
 male,IPL,"Arun Jaitley Stadium, Delhi",2025-05-20,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,6.0,wickets,187
 male,IPL,"Wankhede Stadium, Mumbai",2025-05-21,Mumbai Indians,Delhi Capitals,Mumbai Indians,59.0,runs,180
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2025-05-22,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,33.0,runs,235
-male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-05-23,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,42.0,runs,231
+male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-05-23,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,42.0,runs,231
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2025-05-25,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,83.0,runs,230
 male,IPL,"Arun Jaitley Stadium, Delhi",2025-05-25,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,110.0,runs,278
 male,IPL,"Sawai Mansingh Stadium, Jaipur",2025-05-26,Mumbai Indians,Punjab Kings,Punjab Kings,7.0,wickets,184
-male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-05-27,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,6.0,wickets,227
-male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2025-05-29,Punjab Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,8.0,wickets,101
+male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2025-05-27,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,6.0,wickets,227
+male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",2025-05-29,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,8.0,wickets,101
 male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2025-05-30,Mumbai Indians,Gujarat Titans,Mumbai Indians,20.0,runs,228
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2025-06-01,Mumbai Indians,Punjab Kings,Punjab Kings,5.0,wickets,203
-male,IPL,"Narendra Modi Stadium, Ahmedabad",2025-06-03,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,6.0,runs,190
+male,IPL,"Narendra Modi Stadium, Ahmedabad",2025-06-03,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,6.0,runs,190
 male,IPL,"Sawai Mansingh Stadium, Jaipur",2025-05-24,Punjab Kings,Delhi Capitals,Delhi Capitals,6.0,wickets,206
-male,IPL,"M Chinnaswamy Stadium, Bengaluru",2026-03-28,Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,6.0,wickets,201
+male,IPL,"M Chinnaswamy Stadium, Bengaluru",2026-03-28,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,6.0,wickets,201
 male,IPL,"Wankhede Stadium, Mumbai",2026-03-29,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,6.0,wickets,220
 male,IPL,"Barsapara Cricket Stadium, Guwahati",2026-03-30,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,8.0,wickets,127
 male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2026-03-31,Gujarat Titans,Punjab Kings,Punjab Kings,3.0,wickets,162
@@ -601,22 +601,22 @@ male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2026-04-03,Chennai Super Kin
 male,IPL,"Arun Jaitley Stadium, Delhi",2026-04-04,Mumbai Indians,Delhi Capitals,Delhi Capitals,6.0,wickets,162
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2026-04-04,Rajasthan Royals,Gujarat Titans,Rajasthan Royals,6.0,runs,210
 male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2026-04-05,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,5.0,wickets,156
-male,IPL,"M Chinnaswamy Stadium, Bengaluru",2026-04-05,Royal Challengers Bengaluru,Chennai Super Kings,Royal Challengers Bengaluru,43.0,runs,250
+male,IPL,"M Chinnaswamy Stadium, Bengaluru",2026-04-05,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,43.0,runs,250
 male,IPL,"Eden Gardens, Kolkata",2026-04-06,Kolkata Knight Riders,Punjab Kings,,,,25
 male,IPL,"Barsapara Cricket Stadium, Guwahati",2026-04-07,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,27.0,runs,150
 male,IPL,"Arun Jaitley Stadium, Delhi",2026-04-08,Gujarat Titans,Delhi Capitals,Gujarat Titans,1.0,runs,210
 male,IPL,"Eden Gardens, Kolkata",2026-04-09,Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,3.0,wickets,181
-male,IPL,"Barsapara Cricket Stadium, Guwahati",2026-04-10,Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,6.0,wickets,201
+male,IPL,"Barsapara Cricket Stadium, Guwahati",2026-04-10,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,6.0,wickets,201
 male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2026-04-11,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,6.0,wickets,219
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2026-04-11,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,23.0,runs,212
 male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2026-04-12,Lucknow Super Giants,Gujarat Titans,Gujarat Titans,7.0,wickets,164
-male,IPL,"Wankhede Stadium, Mumbai",2026-04-12,Royal Challengers Bengaluru,Mumbai Indians,Royal Challengers Bengaluru,18.0,runs,240
+male,IPL,"Wankhede Stadium, Mumbai",2026-04-12,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,18.0,runs,240
 male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2026-04-13,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,57.0,runs,216
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2026-04-14,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,32.0,runs,192
-male,IPL,"M Chinnaswamy Stadium, Bengaluru",2026-04-15,Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,5.0,wickets,146
+male,IPL,"M Chinnaswamy Stadium, Bengaluru",2026-04-15,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,5.0,wickets,146
 male,IPL,"Wankhede Stadium, Mumbai",2026-04-16,Mumbai Indians,Punjab Kings,Punjab Kings,7.0,wickets,195
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2026-04-17,Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,5.0,wickets,180
-male,IPL,"M Chinnaswamy Stadium, Bengaluru",2026-04-18,Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,6.0,wickets,175
+male,IPL,"M Chinnaswamy Stadium, Bengaluru",2026-04-18,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,6.0,wickets,175
 male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2026-04-18,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,10.0,runs,194
 male,IPL,"Eden Gardens, Kolkata",2026-04-19,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,4.0,wickets,155
 male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2026-04-19,Punjab Kings,Lucknow Super Giants,Punjab Kings,54.0,runs,254
@@ -624,15 +624,15 @@ male,IPL,"Narendra Modi Stadium, Ahmedabad",2026-04-20,Mumbai Indians,Gujarat Ti
 male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2026-04-21,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,47.0,runs,242
 male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2026-04-22,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,40.0,runs,159
 male,IPL,"Wankhede Stadium, Mumbai",2026-04-23,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,103.0,runs,207
-male,IPL,"M Chinnaswamy Stadium, Bengaluru",2026-04-24,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,5.0,wickets,205
+male,IPL,"M Chinnaswamy Stadium, Bengaluru",2026-04-24,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,5.0,wickets,205
 male,IPL,"Arun Jaitley Stadium, Delhi",2026-04-25,Delhi Capitals,Punjab Kings,Punjab Kings,6.0,wickets,264
 male,IPL,"Sawai Mansingh Stadium, Jaipur",2026-04-25,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,5.0,wickets,228
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2026-04-26,Chennai Super Kings,Gujarat Titans,Gujarat Titans,8.0,wickets,158
 male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2026-04-26,Kolkata Knight Riders,Lucknow Super Giants,,,,155
-male,IPL,"Arun Jaitley Stadium, Delhi",2026-04-27,Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,9.0,wickets,75
+male,IPL,"Arun Jaitley Stadium, Delhi",2026-04-27,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,9.0,wickets,75
 male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2026-04-28,Punjab Kings,Rajasthan Royals,Rajasthan Royals,6.0,wickets,222
 male,IPL,"Wankhede Stadium, Mumbai",2026-04-29,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,6.0,wickets,243
-male,IPL,"Narendra Modi Stadium, Ahmedabad",2026-04-30,Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,4.0,wickets,155
+male,IPL,"Narendra Modi Stadium, Ahmedabad",2026-04-30,Royal Challengers Bangalore,Gujarat Titans,Gujarat Titans,4.0,wickets,155
 male,IPL,"Sawai Mansingh Stadium, Jaipur",2026-05-01,Rajasthan Royals,Delhi Capitals,Delhi Capitals,7.0,wickets,225
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2026-05-02,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,8.0,wickets,159
 male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2026-05-03,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,7.0,wickets,165
@@ -640,201 +640,201 @@ male,IPL,"Narendra Modi Stadium, Ahmedabad",2026-05-03,Punjab Kings,Gujarat Tita
 male,IPL,"Wankhede Stadium, Mumbai",2026-05-04,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,6.0,wickets,228
 male,IPL,"Arun Jaitley Stadium, Delhi",2026-05-05,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,8.0,wickets,155
 male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2026-05-06,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,33.0,runs,235
-male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2026-05-07,Lucknow Super Giants,Royal Challengers Bengaluru,Lucknow Super Giants,9.0,runs,209
+male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2026-05-07,Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,9.0,runs,209
 male,IPL,"Arun Jaitley Stadium, Delhi",2026-05-08,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,8.0,wickets,142
 male,IPL,"Sawai Mansingh Stadium, Jaipur",2026-05-09,Gujarat Titans,Rajasthan Royals,Gujarat Titans,77.0,runs,229
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2026-05-10,Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,5.0,wickets,203
-male,IPL,"Shaheed Veer Narayan Singh International Stadium, Raipur",2026-05-10,Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,2.0,wickets,166
+male,IPL,"Shaheed Veer Narayan Singh International Stadium, Raipur",2026-05-10,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,2.0,wickets,166
 male,IPL,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2026-05-11,Punjab Kings,Delhi Capitals,Delhi Capitals,3.0,wickets,210
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2026-05-12,Gujarat Titans,Sunrisers Hyderabad,Gujarat Titans,82.0,runs,168
-male,IPL,"Shaheed Veer Narayan Singh International Stadium, Raipur",2026-05-13,Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,6.0,wickets,192
+male,IPL,"Shaheed Veer Narayan Singh International Stadium, Raipur",2026-05-13,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,6.0,wickets,192
 male,IPL,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2026-05-14,Punjab Kings,Mumbai Indians,Mumbai Indians,6.0,wickets,200
 male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2026-05-15,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,7.0,wickets,187
 male,IPL,"Eden Gardens, Kolkata",2026-05-16,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,29.0,runs,247
-male,IPL,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2026-05-17,Royal Challengers Bengaluru,Punjab Kings,Royal Challengers Bengaluru,23.0,runs,222
+male,IPL,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2026-05-17,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,23.0,runs,222
 male,IPL,"Arun Jaitley Stadium, Delhi",2026-05-17,Rajasthan Royals,Delhi Capitals,Delhi Capitals,5.0,wickets,193
 male,IPL,"MA Chidambaram Stadium, Chepauk, Chennai",2026-05-18,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,5.0,wickets,180
 male,IPL,"Sawai Mansingh Stadium, Jaipur",2026-05-19,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,7.0,wickets,220
 male,IPL,"Eden Gardens, Kolkata",2026-05-20,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,4.0,wickets,147
 male,IPL,"Narendra Modi Stadium, Ahmedabad",2026-05-21,Gujarat Titans,Chennai Super Kings,Gujarat Titans,89.0,runs,229
-male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2026-05-22,Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,55.0,runs,255
+male,IPL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2026-05-22,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,55.0,runs,255
 male,IPL,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2026-05-23,Lucknow Super Giants,Punjab Kings,Punjab Kings,7.0,wickets,196
 male,IPL,"Wankhede Stadium, Mumbai",2026-05-24,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,30.0,runs,205
 male,IPL,"Eden Gardens, Kolkata",2026-05-24,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,40.0,runs,203
-male,IPL,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2026-05-26,Royal Challengers Bengaluru,Gujarat Titans,Royal Challengers Bengaluru,92.0,runs,254
+male,IPL,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2026-05-26,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,92.0,runs,254
 male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2026-05-27,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,47.0,runs,243
 male,IPL,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",2026-05-29,Rajasthan Royals,Gujarat Titans,Gujarat Titans,7.0,wickets,214
-male,IPL,"Narendra Modi Stadium, Ahmedabad",2026-05-31,Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,5.0,wickets,155
+male,IPL,"Narendra Modi Stadium, Ahmedabad",2026-05-31,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,5.0,wickets,155
 male,IPL,M Chinnaswamy Stadium,2008-04-18,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,140.0,runs,222
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2008-04-19,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,33.0,runs,240
-male,IPL,Feroz Shah Kotla,2008-04-19,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,9.0,wickets,129
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2008-04-19,Punjab Kings,Chennai Super Kings,Chennai Super Kings,33.0,runs,240
+male,IPL,Feroz Shah Kotla,2008-04-19,Delhi Capitals,Rajasthan Royals,Delhi Capitals,9.0,wickets,129
 male,IPL,Wankhede Stadium,2008-04-20,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,5.0,wickets,165
 male,IPL,Eden Gardens,2008-04-20,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,5.0,wickets,110
-male,IPL,Sawai Mansingh Stadium,2008-04-21,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,6.0,wickets,166
-male,IPL,"Rajiv Gandhi International Stadium, Uppal",2008-04-22,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,9.0,wickets,142
+male,IPL,Sawai Mansingh Stadium,2008-04-21,Rajasthan Royals,Punjab Kings,Rajasthan Royals,6.0,wickets,166
+male,IPL,"Rajiv Gandhi International Stadium, Uppal",2008-04-22,Deccan Chargers,Delhi Capitals,Delhi Capitals,9.0,wickets,142
 male,IPL,"MA Chidambaram Stadium, Chepauk",2008-04-23,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,6.0,runs,208
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2008-04-24,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,3.0,wickets,214
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2008-04-25,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,66.0,runs,182
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2008-04-25,Punjab Kings,Mumbai Indians,Punjab Kings,66.0,runs,182
 male,IPL,M Chinnaswamy Stadium,2008-04-26,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,7.0,wickets,135
 male,IPL,"MA Chidambaram Stadium, Chepauk",2008-04-26,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,9.0,wickets,147
 male,IPL,Dr DY Patil Sports Academy,2008-04-27,Mumbai Indians,Deccan Chargers,Deccan Chargers,10.0,wickets,154
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2008-04-27,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,4.0,wickets,158
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2008-04-27,Punjab Kings,Delhi Capitals,Punjab Kings,4.0,wickets,158
 male,IPL,M Chinnaswamy Stadium,2008-04-28,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,13.0,runs,178
 male,IPL,Eden Gardens,2008-04-29,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,7.0,wickets,137
-male,IPL,Feroz Shah Kotla,2008-04-30,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,10.0,runs,191
-male,IPL,"Rajiv Gandhi International Stadium, Uppal",2008-05-01,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,7.0,wickets,164
+male,IPL,Feroz Shah Kotla,2008-04-30,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,10.0,runs,191
+male,IPL,"Rajiv Gandhi International Stadium, Uppal",2008-05-01,Deccan Chargers,Punjab Kings,Punjab Kings,7.0,wickets,164
 male,IPL,Sawai Mansingh Stadium,2008-05-01,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,45.0,runs,196
-male,IPL,"MA Chidambaram Stadium, Chepauk",2008-05-02,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,8.0,wickets,169
+male,IPL,"MA Chidambaram Stadium, Chepauk",2008-05-02,Chennai Super Kings,Delhi Capitals,Delhi Capitals,8.0,wickets,169
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2008-05-25,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,5.0,wickets,165
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2008-05-03,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,9.0,runs,178
-male,IPL,Dr DY Patil Sports Academy,2008-05-04,Mumbai Indians,Delhi Daredevils,Mumbai Indians,29.0,runs,162
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2008-05-03,Punjab Kings,Kolkata Knight Riders,Punjab Kings,9.0,runs,178
+male,IPL,Dr DY Patil Sports Academy,2008-05-04,Mumbai Indians,Delhi Capitals,Mumbai Indians,29.0,runs,162
 male,IPL,Sawai Mansingh Stadium,2008-05-04,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,8.0,wickets,109
-male,IPL,M Chinnaswamy Stadium,2008-05-05,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,6.0,wickets,126
+male,IPL,M Chinnaswamy Stadium,2008-05-05,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,6.0,wickets,126
 male,IPL,"MA Chidambaram Stadium, Chepauk",2008-05-06,Chennai Super Kings,Deccan Chargers,Deccan Chargers,7.0,wickets,144
 male,IPL,Dr DY Patil Sports Academy,2008-05-07,Mumbai Indians,Rajasthan Royals,Mumbai Indians,7.0,wickets,103
-male,IPL,Feroz Shah Kotla,2008-05-08,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,4.0,wickets,187
+male,IPL,Feroz Shah Kotla,2008-05-08,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,4.0,wickets,187
 male,IPL,Eden Gardens,2008-05-08,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,5.0,runs,129
 male,IPL,Sawai Mansingh Stadium,2008-05-09,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,8.0,wickets,140
 male,IPL,M Chinnaswamy Stadium,2008-05-28,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,9.0,wickets,122
-male,IPL,"MA Chidambaram Stadium, Chepauk",2008-05-10,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,18.0,runs,181
+male,IPL,"MA Chidambaram Stadium, Chepauk",2008-05-10,Chennai Super Kings,Punjab Kings,Chennai Super Kings,18.0,runs,181
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2008-05-11,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,23.0,runs,204
-male,IPL,Sawai Mansingh Stadium,2008-05-11,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,3.0,wickets,156
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2008-05-12,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,9.0,wickets,143
-male,IPL,Eden Gardens,2008-05-13,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,23.0,runs,133
+male,IPL,Sawai Mansingh Stadium,2008-05-11,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,3.0,wickets,156
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2008-05-12,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,9.0,wickets,143
+male,IPL,Eden Gardens,2008-05-13,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,23.0,runs,133
 male,IPL,Wankhede Stadium,2008-05-14,Mumbai Indians,Chennai Super Kings,Mumbai Indians,9.0,wickets,156
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2008-05-28,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,41.0,runs,221
-male,IPL,Feroz Shah Kotla,2008-05-15,Delhi Daredevils,Deccan Chargers,Delhi Daredevils,12.0,runs,194
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2008-05-28,Punjab Kings,Rajasthan Royals,Punjab Kings,41.0,runs,221
+male,IPL,Feroz Shah Kotla,2008-05-15,Delhi Capitals,Deccan Chargers,Delhi Capitals,12.0,runs,194
 male,IPL,Wankhede Stadium,2008-05-16,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,8.0,wickets,67
-male,IPL,Feroz Shah Kotla,2008-05-17,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,6.0,runs,118
+male,IPL,Feroz Shah Kotla,2008-05-17,Delhi Capitals,Punjab Kings,Punjab Kings,6.0,runs,118
 male,IPL,Sawai Mansingh Stadium,2008-05-17,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,65.0,runs,197
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2008-05-18,Deccan Chargers,Mumbai Indians,Mumbai Indians,25.0,runs,178
 male,IPL,Eden Gardens,2008-05-18,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,3.0,runs,149
-male,IPL,M Chinnaswamy Stadium,2008-05-19,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,5.0,wickets,154
+male,IPL,M Chinnaswamy Stadium,2008-05-19,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,5.0,wickets,154
 male,IPL,Eden Gardens,2008-05-20,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,6.0,wickets,147
-male,IPL,Wankhede Stadium,2008-05-21,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,1.0,runs,189
+male,IPL,Wankhede Stadium,2008-05-21,Mumbai Indians,Punjab Kings,Punjab Kings,1.0,runs,189
 male,IPL,"MA Chidambaram Stadium, Chepauk",2008-05-21,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,14.0,runs,126
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2008-05-23,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,6.0,wickets,175
-male,IPL,Feroz Shah Kotla,2008-05-24,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,5.0,wickets,176
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2008-05-23,Punjab Kings,Deccan Chargers,Punjab Kings,6.0,wickets,175
+male,IPL,Feroz Shah Kotla,2008-05-24,Delhi Capitals,Mumbai Indians,Delhi Capitals,5.0,wickets,176
 male,IPL,"MA Chidambaram Stadium, Chepauk",2008-05-24,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,10.0,runs,211
 male,IPL,M Chinnaswamy Stadium,2008-05-03,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,3.0,runs,156
-male,IPL,Eden Gardens,2008-05-25,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,3.0,wickets,174
+male,IPL,Eden Gardens,2008-05-25,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,3.0,wickets,174
 male,IPL,Sawai Mansingh Stadium,2008-05-26,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,5.0,wickets,145
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2008-05-27,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,7.0,wickets,147
-male,IPL,Wankhede Stadium,2008-05-30,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,105.0,runs,192
-male,IPL,Wankhede Stadium,2008-05-31,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,9.0,wickets,112
+male,IPL,Wankhede Stadium,2008-05-30,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,105.0,runs,192
+male,IPL,Wankhede Stadium,2008-05-31,Chennai Super Kings,Punjab Kings,Chennai Super Kings,9.0,wickets,112
 male,IPL,Dr DY Patil Sports Academy,2008-06-01,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,3.0,wickets,163
 male,IPL,Newlands,2009-04-18,Chennai Super Kings,Mumbai Indians,Mumbai Indians,19.0,runs,165
 male,IPL,Newlands,2009-04-18,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,75.0,runs,133
-male,IPL,Newlands,2009-04-19,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,10.0,wickets,104
+male,IPL,Newlands,2009-04-19,Delhi Capitals,Punjab Kings,Delhi Capitals,10.0,wickets,104
 male,IPL,Newlands,2009-04-19,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,8.0,wickets,101
 male,IPL,St George's Park,2009-04-20,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,92.0,runs,179
-male,IPL,Kingsmead,2009-04-21,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,11.0,runs,158
+male,IPL,Kingsmead,2009-04-21,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,11.0,runs,158
 male,IPL,Newlands,2009-04-22,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,24.0,runs,184
-male,IPL,Kingsmead,2009-04-23,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,9.0,runs,189
+male,IPL,Kingsmead,2009-04-23,Chennai Super Kings,Delhi Capitals,Delhi Capitals,9.0,runs,189
 male,IPL,Newlands,2009-04-23,Kolkata Knight Riders,Rajasthan Royals,,,,150
-male,IPL,Kingsmead,2009-04-24,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,7.0,wickets,168
+male,IPL,Kingsmead,2009-04-24,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,7.0,wickets,168
 male,IPL,Kingsmead,2009-04-25,Deccan Chargers,Mumbai Indians,Deccan Chargers,12.0,runs,168
-male,IPL,St George's Park,2009-04-26,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,6.0,wickets,149
-male,IPL,Newlands,2009-04-26,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,27.0,runs,139
+male,IPL,St George's Park,2009-04-26,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,6.0,wickets,149
+male,IPL,Newlands,2009-04-26,Punjab Kings,Rajasthan Royals,Punjab Kings,27.0,runs,139
 male,IPL,Kingsmead,2009-04-27,Chennai Super Kings,Deccan Chargers,Deccan Chargers,6.0,wickets,165
 male,IPL,St George's Park,2009-04-27,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,92.0,runs,187
-male,IPL,SuperSport Park,2009-04-28,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,5.0,wickets,143
+male,IPL,SuperSport Park,2009-04-28,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,5.0,wickets,143
 male,IPL,Kingsmead,2009-04-29,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,5.0,wickets,139
-male,IPL,Kingsmead,2009-04-29,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,3.0,runs,119
-male,IPL,SuperSport Park,2009-04-30,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,6.0,wickets,148
+male,IPL,Kingsmead,2009-04-29,Punjab Kings,Mumbai Indians,Punjab Kings,3.0,runs,119
+male,IPL,SuperSport Park,2009-04-30,Deccan Chargers,Delhi Capitals,Delhi Capitals,6.0,wickets,148
 male,IPL,SuperSport Park,2009-04-30,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,38.0,runs,164
 male,IPL,Buffalo Park,2009-05-01,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,9.0,runs,148
-male,IPL,Kingsmead,2009-05-01,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,8.0,runs,145
+male,IPL,Kingsmead,2009-05-01,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,8.0,runs,145
 male,IPL,St George's Park,2009-05-02,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,3.0,wickets,141
-male,IPL,New Wanderers Stadium,2009-05-02,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,18.0,runs,163
-male,IPL,St George's Park,2009-05-03,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,6.0,wickets,153
+male,IPL,New Wanderers Stadium,2009-05-02,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,18.0,runs,163
+male,IPL,St George's Park,2009-05-03,Punjab Kings,Kolkata Knight Riders,Punjab Kings,6.0,wickets,153
 male,IPL,New Wanderers Stadium,2009-05-03,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,9.0,wickets,149
 male,IPL,Buffalo Park,2009-05-04,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,78.0,runs,178
-male,IPL,Kingsmead,2009-05-05,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,78.0,runs,211
-male,IPL,Kingsmead,2009-05-05,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,9.0,wickets,154
+male,IPL,Kingsmead,2009-05-05,Punjab Kings,Rajasthan Royals,Rajasthan Royals,78.0,runs,211
+male,IPL,Kingsmead,2009-05-05,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,9.0,wickets,154
 male,IPL,SuperSport Park,2009-05-06,Deccan Chargers,Mumbai Indians,Deccan Chargers,19.0,runs,145
 male,IPL,SuperSport Park,2009-05-07,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,7.0,wickets,105
-male,IPL,SuperSport Park,2009-05-07,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,12.0,runs,185
-male,IPL,Buffalo Park,2009-05-08,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,7.0,wickets,116
-male,IPL,De Beers Diamond Oval,2009-05-09,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,3.0,wickets,168
+male,IPL,SuperSport Park,2009-05-07,Chennai Super Kings,Punjab Kings,Chennai Super Kings,12.0,runs,185
+male,IPL,Buffalo Park,2009-05-08,Delhi Capitals,Mumbai Indians,Delhi Capitals,7.0,wickets,116
+male,IPL,De Beers Diamond Oval,2009-05-09,Deccan Chargers,Punjab Kings,Punjab Kings,3.0,wickets,168
 male,IPL,De Beers Diamond Oval,2009-05-09,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,7.0,wickets,140
 male,IPL,St George's Park,2009-05-10,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,16.0,runs,157
-male,IPL,New Wanderers Stadium,2009-05-10,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,7.0,wickets,123
+male,IPL,New Wanderers Stadium,2009-05-10,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,7.0,wickets,123
 male,IPL,De Beers Diamond Oval,2009-05-11,Deccan Chargers,Rajasthan Royals,Deccan Chargers,53.0,runs,166
 male,IPL,SuperSport Park,2009-05-12,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,6.0,wickets,173
-male,IPL,SuperSport Park,2009-05-12,Kings XI Punjab,Mumbai Indians,Mumbai Indians,8.0,wickets,119
-male,IPL,Kingsmead,2009-05-13,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,12.0,runs,173
+male,IPL,SuperSport Park,2009-05-12,Punjab Kings,Mumbai Indians,Mumbai Indians,8.0,wickets,119
+male,IPL,Kingsmead,2009-05-13,Deccan Chargers,Delhi Capitals,Delhi Capitals,12.0,runs,173
 male,IPL,Kingsmead,2009-05-14,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,2.0,wickets,129
 male,IPL,Kingsmead,2009-05-14,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,2.0,runs,145
-male,IPL,OUTsurance Oval,2009-05-15,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,6.0,wickets,120
+male,IPL,OUTsurance Oval,2009-05-15,Delhi Capitals,Punjab Kings,Punjab Kings,6.0,wickets,120
 male,IPL,St George's Park,2009-05-16,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,7.0,wickets,147
 male,IPL,New Wanderers Stadium,2009-05-16,Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,6.0,wickets,160
-male,IPL,New Wanderers Stadium,2009-05-17,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,1.0,runs,134
-male,IPL,OUTsurance Oval,2009-05-17,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,14.0,runs,150
+male,IPL,New Wanderers Stadium,2009-05-17,Deccan Chargers,Punjab Kings,Punjab Kings,1.0,runs,134
+male,IPL,OUTsurance Oval,2009-05-17,Delhi Capitals,Rajasthan Royals,Delhi Capitals,14.0,runs,150
 male,IPL,SuperSport Park,2009-05-18,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,7.0,wickets,188
-male,IPL,New Wanderers Stadium,2009-05-19,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,7.0,wickets,134
+male,IPL,New Wanderers Stadium,2009-05-19,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,7.0,wickets,134
 male,IPL,Kingsmead,2009-05-20,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,4.0,wickets,101
-male,IPL,Kingsmead,2009-05-20,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,24.0,runs,116
-male,IPL,SuperSport Park,2009-05-21,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,4.0,wickets,165
+male,IPL,Kingsmead,2009-05-20,Chennai Super Kings,Punjab Kings,Chennai Super Kings,24.0,runs,116
+male,IPL,SuperSport Park,2009-05-21,Delhi Capitals,Mumbai Indians,Delhi Capitals,4.0,wickets,165
 male,IPL,SuperSport Park,2009-05-21,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,12.0,runs,170
-male,IPL,SuperSport Park,2009-05-22,Delhi Daredevils,Deccan Chargers,Deccan Chargers,6.0,wickets,153
+male,IPL,SuperSport Park,2009-05-22,Delhi Capitals,Deccan Chargers,Deccan Chargers,6.0,wickets,153
 male,IPL,New Wanderers Stadium,2009-05-23,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,6.0,wickets,146
 male,IPL,New Wanderers Stadium,2009-05-24,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,6.0,runs,143
 male,IPL,Dr DY Patil Sports Academy,2010-03-12,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,11.0,runs,161
 male,IPL,Brabourne Stadium,2010-03-13,Mumbai Indians,Rajasthan Royals,Mumbai Indians,4.0,runs,212
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2010-03-13,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,5.0,wickets,142
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2010-03-13,Punjab Kings,Delhi Capitals,Delhi Capitals,5.0,wickets,142
 male,IPL,Eden Gardens,2010-03-14,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,7.0,wickets,135
 male,IPL,"MA Chidambaram Stadium, Chepauk",2010-03-14,Chennai Super Kings,Deccan Chargers,Deccan Chargers,31.0,runs,190
-male,IPL,"Sardar Patel Stadium, Motera",2010-03-15,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,6.0,wickets,141
-male,IPL,M Chinnaswamy Stadium,2010-03-16,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,8.0,wickets,203
+male,IPL,"Sardar Patel Stadium, Motera",2010-03-15,Rajasthan Royals,Delhi Capitals,Delhi Capitals,6.0,wickets,141
+male,IPL,M Chinnaswamy Stadium,2010-03-16,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,8.0,wickets,203
 male,IPL,Eden Gardens,2010-03-16,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,55.0,runs,164
-male,IPL,Feroz Shah Kotla,2010-03-17,Delhi Daredevils,Mumbai Indians,Mumbai Indians,98.0,runs,218
+male,IPL,Feroz Shah Kotla,2010-03-17,Delhi Capitals,Mumbai Indians,Mumbai Indians,98.0,runs,218
 male,IPL,M Chinnaswamy Stadium,2010-03-18,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,10.0,wickets,92
-male,IPL,Feroz Shah Kotla,2010-03-19,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,5.0,wickets,185
-male,IPL,Barabati Stadium,2010-03-19,Deccan Chargers,Kings XI Punjab,Deccan Chargers,6.0,runs,170
+male,IPL,Feroz Shah Kotla,2010-03-19,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,5.0,wickets,185
+male,IPL,Barabati Stadium,2010-03-19,Deccan Chargers,Punjab Kings,Deccan Chargers,6.0,runs,170
 male,IPL,"Sardar Patel Stadium, Motera",2010-03-20,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,34.0,runs,168
 male,IPL,Brabourne Stadium,2010-03-20,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,7.0,wickets,151
-male,IPL,Barabati Stadium,2010-03-21,Deccan Chargers,Delhi Daredevils,Deccan Chargers,10.0,runs,171
-male,IPL,"MA Chidambaram Stadium, Chepauk",2010-03-21,Chennai Super Kings,Kings XI Punjab,,,,136
+male,IPL,Barabati Stadium,2010-03-21,Deccan Chargers,Delhi Capitals,Deccan Chargers,10.0,runs,171
+male,IPL,"MA Chidambaram Stadium, Chepauk",2010-03-21,Chennai Super Kings,Punjab Kings,,,,136
 male,IPL,Brabourne Stadium,2010-03-22,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,7.0,wickets,155
 male,IPL,M Chinnaswamy Stadium,2010-03-23,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,36.0,runs,171
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2010-03-24,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,31.0,runs,183
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2010-03-24,Punjab Kings,Rajasthan Royals,Rajasthan Royals,31.0,runs,183
 male,IPL,"Brabourne Stadium, Mumbai",2010-03-25,Chennai Super Kings,Mumbai Indians,Mumbai Indians,5.0,wickets,180
 male,IPL,"Sardar Patel Stadium, Motera",2010-03-26,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,8.0,wickets,148
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2010-03-27,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,39.0,runs,183
-male,IPL,M Chinnaswamy Stadium,2010-03-25,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,17.0,runs,183
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2010-03-27,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,39.0,runs,183
+male,IPL,M Chinnaswamy Stadium,2010-03-25,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,17.0,runs,183
 male,IPL,"Sardar Patel Stadium, Motera",2010-03-28,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,17.0,runs,177
 male,IPL,Dr DY Patil Sports Academy,2010-03-28,Deccan Chargers,Mumbai Indians,Mumbai Indians,41.0,runs,172
-male,IPL,Feroz Shah Kotla,2010-03-29,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,40.0,runs,177
-male,IPL,Brabourne Stadium,2010-03-30,Mumbai Indians,Kings XI Punjab,Mumbai Indians,4.0,wickets,163
+male,IPL,Feroz Shah Kotla,2010-03-29,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,40.0,runs,177
+male,IPL,Brabourne Stadium,2010-03-30,Mumbai Indians,Punjab Kings,Mumbai Indians,4.0,wickets,163
 male,IPL,"MA Chidambaram Stadium, Chepauk",2010-03-31,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,5.0,wickets,161
-male,IPL,Feroz Shah Kotla,2010-03-31,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,67.0,runs,188
+male,IPL,Feroz Shah Kotla,2010-03-31,Delhi Capitals,Rajasthan Royals,Delhi Capitals,67.0,runs,188
 male,IPL,Eden Gardens,2010-04-01,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,24.0,runs,181
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2010-04-02,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,6.0,wickets,181
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2010-04-02,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,6.0,wickets,181
 male,IPL,"MA Chidambaram Stadium, Chepauk",2010-04-03,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,23.0,runs,246
 male,IPL,Brabourne Stadium,2010-04-03,Mumbai Indians,Deccan Chargers,Mumbai Indians,63.0,runs,178
-male,IPL,Eden Gardens,2010-04-04,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,8.0,wickets,200
-male,IPL,Feroz Shah Kotla,2010-04-04,Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,37.0,runs,184
+male,IPL,Eden Gardens,2010-04-04,Kolkata Knight Riders,Punjab Kings,Punjab Kings,8.0,wickets,200
+male,IPL,Feroz Shah Kotla,2010-04-04,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,37.0,runs,184
 male,IPL,"Vidarbha Cricket Association Stadium, Jamtha",2010-04-05,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,2.0,runs,159
 male,IPL,"MA Chidambaram Stadium, Chepauk",2010-04-06,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,24.0,runs,165
-male,IPL,Sawai Mansingh Stadium,2010-04-07,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,9.0,wickets,153
-male,IPL,Eden Gardens,2010-04-07,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,14.0,runs,181
+male,IPL,Sawai Mansingh Stadium,2010-04-07,Rajasthan Royals,Punjab Kings,Rajasthan Royals,9.0,wickets,153
+male,IPL,Eden Gardens,2010-04-07,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,14.0,runs,181
 male,IPL,M Chinnaswamy Stadium,2010-04-08,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,7.0,wickets,184
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2010-04-09,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,6.0,wickets,154
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2010-04-09,Punjab Kings,Mumbai Indians,Punjab Kings,6.0,wickets,154
 male,IPL,"Vidarbha Cricket Association Stadium, Jamtha",2010-04-10,Deccan Chargers,Chennai Super Kings,Deccan Chargers,6.0,wickets,138
 male,IPL,M Chinnaswamy Stadium,2010-04-10,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,7.0,wickets,160
-male,IPL,Feroz Shah Kotla,2010-04-11,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,7.0,wickets,111
+male,IPL,Feroz Shah Kotla,2010-04-11,Delhi Capitals,Punjab Kings,Punjab Kings,7.0,wickets,111
 male,IPL,Sawai Mansingh Stadium,2010-04-11,Rajasthan Royals,Mumbai Indians,Mumbai Indians,37.0,runs,174
 male,IPL,"Vidarbha Cricket Association Stadium, Jamtha",2010-04-12,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,13.0,runs,151
-male,IPL,Brabourne Stadium,2010-04-13,Mumbai Indians,Delhi Daredevils,Mumbai Indians,39.0,runs,183
+male,IPL,Brabourne Stadium,2010-04-13,Mumbai Indians,Delhi Capitals,Mumbai Indians,39.0,runs,183
 male,IPL,"MA Chidambaram Stadium, Chepauk",2010-04-13,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,9.0,wickets,139
 male,IPL,Sawai Mansingh Stadium,2010-04-14,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,5.0,wickets,130
-male,IPL,"MA Chidambaram Stadium, Chepauk",2010-04-15,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,6.0,wickets,112
-male,IPL,Himachal Pradesh Cricket Association Stadium,2010-04-16,Kings XI Punjab,Deccan Chargers,Deccan Chargers,5.0,wickets,174
+male,IPL,"MA Chidambaram Stadium, Chepauk",2010-04-15,Chennai Super Kings,Delhi Capitals,Delhi Capitals,6.0,wickets,112
+male,IPL,Himachal Pradesh Cricket Association Stadium,2010-04-16,Punjab Kings,Deccan Chargers,Deccan Chargers,5.0,wickets,174
 male,IPL,M Chinnaswamy Stadium,2010-04-17,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,57.0,runs,191
 male,IPL,Eden Gardens,2010-04-17,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,8.0,wickets,132
-male,IPL,Himachal Pradesh Cricket Association Stadium,2010-04-18,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,6.0,wickets,192
-male,IPL,Feroz Shah Kotla,2010-04-18,Delhi Daredevils,Deccan Chargers,Deccan Chargers,11.0,runs,145
+male,IPL,Himachal Pradesh Cricket Association Stadium,2010-04-18,Punjab Kings,Chennai Super Kings,Chennai Super Kings,6.0,wickets,192
+male,IPL,Feroz Shah Kotla,2010-04-18,Delhi Capitals,Deccan Chargers,Deccan Chargers,11.0,runs,145
 male,IPL,Eden Gardens,2010-04-19,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,9.0,wickets,133
 male,IPL,Dr DY Patil Sports Academy,2010-04-21,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,35.0,runs,184
 male,IPL,Dr DY Patil Sports Academy,2010-04-22,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,38.0,runs,142
@@ -843,70 +843,70 @@ male,IPL,Dr DY Patil Sports Academy,2010-04-25,Chennai Super Kings,Mumbai Indian
 male,IPL,"MA Chidambaram Stadium, Chepauk",2011-04-08,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2.0,runs,153
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2011-04-09,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,8.0,wickets,137
 male,IPL,Nehru Stadium,2011-04-09,Kochi Tuskers Kerala,Royal Challengers Bangalore,Royal Challengers Bangalore,6.0,wickets,161
-male,IPL,Feroz Shah Kotla,2011-04-10,Delhi Daredevils,Mumbai Indians,Mumbai Indians,8.0,wickets,95
-male,IPL,Dr DY Patil Sports Academy,2011-04-10,Pune Warriors,Kings XI Punjab,Pune Warriors,7.0,wickets,112
+male,IPL,Feroz Shah Kotla,2011-04-10,Delhi Capitals,Mumbai Indians,Mumbai Indians,8.0,wickets,95
+male,IPL,Dr DY Patil Sports Academy,2011-04-10,Pune Warriors,Punjab Kings,Pune Warriors,7.0,wickets,112
 male,IPL,Eden Gardens,2011-04-11,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,9.0,runs,163
-male,IPL,Sawai Mansingh Stadium,2011-04-12,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,6.0,wickets,151
+male,IPL,Sawai Mansingh Stadium,2011-04-12,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,6.0,wickets,151
 male,IPL,M Chinnaswamy Stadium,2011-04-12,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,9.0,wickets,140
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2011-04-13,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,6.0,wickets,188
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2011-04-13,Punjab Kings,Chennai Super Kings,Punjab Kings,6.0,wickets,188
 male,IPL,Dr DY Patil Sports Academy,2011-04-13,Pune Warriors,Kochi Tuskers Kerala,Pune Warriors,4.0,wickets,148
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2011-04-14,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,33.0,runs,175
 male,IPL,Sawai Mansingh Stadium,2011-04-15,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,9.0,wickets,159
 male,IPL,Wankhede Stadium,2011-04-15,Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,8.0,wickets,182
 male,IPL,"MA Chidambaram Stadium, Chepauk",2011-04-16,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,21.0,runs,183
-male,IPL,"Rajiv Gandhi International Stadium, Uppal",2011-04-16,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,8.0,wickets,165
-male,IPL,Dr DY Patil Sports Academy,2011-04-17,Pune Warriors,Delhi Daredevils,Delhi Daredevils,3.0,wickets,187
+male,IPL,"Rajiv Gandhi International Stadium, Uppal",2011-04-16,Deccan Chargers,Punjab Kings,Punjab Kings,8.0,wickets,165
+male,IPL,Dr DY Patil Sports Academy,2011-04-17,Pune Warriors,Delhi Capitals,Delhi Capitals,3.0,wickets,187
 male,IPL,Eden Gardens,2011-04-17,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,8.0,wickets,81
 male,IPL,Nehru Stadium,2011-04-18,Kochi Tuskers Kerala,Chennai Super Kings,Kochi Tuskers Kerala,7.0,wickets,131
-male,IPL,Feroz Shah Kotla,2011-04-19,Delhi Daredevils,Deccan Chargers,Deccan Chargers,16.0,runs,168
+male,IPL,Feroz Shah Kotla,2011-04-19,Delhi Capitals,Deccan Chargers,Deccan Chargers,16.0,runs,168
 male,IPL,Wankhede Stadium,2011-04-20,Mumbai Indians,Pune Warriors,Mumbai Indians,7.0,wickets,118
 male,IPL,Eden Gardens,2011-04-20,Kolkata Knight Riders,Kochi Tuskers Kerala,Kochi Tuskers Kerala,6.0,runs,132
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2011-04-21,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,48.0,runs,195
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2011-04-21,Punjab Kings,Rajasthan Royals,Punjab Kings,48.0,runs,195
 male,IPL,Wankhede Stadium,2011-04-22,Mumbai Indians,Chennai Super Kings,Mumbai Indians,8.0,runs,164
 male,IPL,Eden Gardens,2011-04-22,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,9.0,wickets,171
-male,IPL,Feroz Shah Kotla,2011-04-23,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,29.0,runs,231
+male,IPL,Feroz Shah Kotla,2011-04-23,Delhi Capitals,Punjab Kings,Delhi Capitals,29.0,runs,231
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2011-04-24,Deccan Chargers,Mumbai Indians,Mumbai Indians,37.0,runs,172
 male,IPL,Sawai Mansingh Stadium,2011-04-24,Rajasthan Royals,Kochi Tuskers Kerala,Rajasthan Royals,8.0,wickets,109
 male,IPL,"MA Chidambaram Stadium, Chepauk",2011-04-25,Chennai Super Kings,Pune Warriors,Chennai Super Kings,25.0,runs,142
-male,IPL,Feroz Shah Kotla,2011-04-26,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,3.0,wickets,160
+male,IPL,Feroz Shah Kotla,2011-04-26,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,3.0,wickets,160
 male,IPL,Dr DY Patil Sports Academy,2011-04-27,Pune Warriors,Chennai Super Kings,Chennai Super Kings,8.0,wickets,141
 male,IPL,Nehru Stadium,2011-04-27,Kochi Tuskers Kerala,Deccan Chargers,Deccan Chargers,55.0,runs,129
-male,IPL,Feroz Shah Kotla,2011-04-28,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,17.0,runs,148
+male,IPL,Feroz Shah Kotla,2011-04-28,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,17.0,runs,148
 male,IPL,Sawai Mansingh Stadium,2011-04-29,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,7.0,wickets,94
 male,IPL,M Chinnaswamy Stadium,2011-04-29,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,26.0,runs,181
-male,IPL,Nehru Stadium,2011-04-30,Kochi Tuskers Kerala,Delhi Daredevils,Delhi Daredevils,38.0,runs,157
-male,IPL,Eden Gardens,2011-04-30,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,8.0,wickets,119
+male,IPL,Nehru Stadium,2011-04-30,Kochi Tuskers Kerala,Delhi Capitals,Delhi Capitals,38.0,runs,157
+male,IPL,Eden Gardens,2011-04-30,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,8.0,wickets,119
 male,IPL,Sawai Mansingh Stadium,2011-05-01,Rajasthan Royals,Pune Warriors,Rajasthan Royals,6.0,wickets,143
 male,IPL,"MA Chidambaram Stadium, Chepauk",2011-05-01,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,19.0,runs,165
-male,IPL,Wankhede Stadium,2011-05-02,Mumbai Indians,Kings XI Punjab,Mumbai Indians,23.0,runs,159
-male,IPL,Feroz Shah Kotla,2011-05-02,Delhi Daredevils,Kochi Tuskers Kerala,Kochi Tuskers Kerala,7.0,wickets,140
+male,IPL,Wankhede Stadium,2011-05-02,Mumbai Indians,Punjab Kings,Mumbai Indians,23.0,runs,159
+male,IPL,Feroz Shah Kotla,2011-05-02,Delhi Capitals,Kochi Tuskers Kerala,Kochi Tuskers Kerala,7.0,wickets,140
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2011-05-03,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,20.0,runs,169
 male,IPL,"MA Chidambaram Stadium, Chepauk",2011-05-04,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,8.0,wickets,147
 male,IPL,Dr DY Patil Sports Academy,2011-05-04,Pune Warriors,Mumbai Indians,Mumbai Indians,21.0,runs,160
 male,IPL,Nehru Stadium,2011-05-05,Kochi Tuskers Kerala,Kolkata Knight Riders,Kochi Tuskers Kerala,17.0,runs,156
-male,IPL,"Rajiv Gandhi International Stadium, Uppal",2011-05-05,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,4.0,wickets,175
-male,IPL,M Chinnaswamy Stadium,2011-05-06,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,85.0,runs,205
+male,IPL,"Rajiv Gandhi International Stadium, Uppal",2011-05-05,Deccan Chargers,Delhi Capitals,Delhi Capitals,4.0,wickets,175
+male,IPL,M Chinnaswamy Stadium,2011-05-06,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,85.0,runs,205
 male,IPL,Eden Gardens,2011-05-07,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,10.0,runs,114
-male,IPL,Wankhede Stadium,2011-05-07,Mumbai Indians,Delhi Daredevils,Mumbai Indians,32.0,runs,178
+male,IPL,Wankhede Stadium,2011-05-07,Mumbai Indians,Delhi Capitals,Mumbai Indians,32.0,runs,178
 male,IPL,M Chinnaswamy Stadium,2011-05-08,Royal Challengers Bangalore,Kochi Tuskers Kerala,Royal Challengers Bangalore,9.0,wickets,125
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2011-05-08,Kings XI Punjab,Pune Warriors,Pune Warriors,5.0,wickets,119
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2011-05-08,Punjab Kings,Pune Warriors,Pune Warriors,5.0,wickets,119
 male,IPL,Sawai Mansingh Stadium,2011-05-09,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,63.0,runs,196
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2011-05-10,Deccan Chargers,Pune Warriors,Pune Warriors,6.0,wickets,136
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2011-05-10,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,76.0,runs,163
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2011-05-10,Punjab Kings,Mumbai Indians,Punjab Kings,76.0,runs,163
 male,IPL,Sawai Mansingh Stadium,2011-05-11,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,9.0,wickets,146
-male,IPL,"MA Chidambaram Stadium, Chepauk",2011-05-12,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,18.0,runs,176
-male,IPL,Holkar Cricket Stadium,2011-05-13,Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,6.0,wickets,178
+male,IPL,"MA Chidambaram Stadium, Chepauk",2011-05-12,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,18.0,runs,176
+male,IPL,Holkar Cricket Stadium,2011-05-13,Kochi Tuskers Kerala,Punjab Kings,Punjab Kings,6.0,wickets,178
 male,IPL,M Chinnaswamy Stadium,2011-05-14,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,4.0,wickets,89
 male,IPL,Wankhede Stadium,2011-05-14,Mumbai Indians,Deccan Chargers,Deccan Chargers,10.0,runs,135
-male,IPL,Himachal Pradesh Cricket Association Stadium,2011-05-15,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,29.0,runs,170
+male,IPL,Himachal Pradesh Cricket Association Stadium,2011-05-15,Punjab Kings,Delhi Capitals,Punjab Kings,29.0,runs,170
 male,IPL,Holkar Cricket Stadium,2011-05-15,Kochi Tuskers Kerala,Rajasthan Royals,Kochi Tuskers Kerala,8.0,wickets,97
 male,IPL,Dr DY Patil Sports Academy,2011-05-16,Pune Warriors,Deccan Chargers,Deccan Chargers,6.0,wickets,136
-male,IPL,Himachal Pradesh Cricket Association Stadium,2011-05-17,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,111.0,runs,232
+male,IPL,Himachal Pradesh Cricket Association Stadium,2011-05-17,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,111.0,runs,232
 male,IPL,"MA Chidambaram Stadium, Chepauk",2011-05-18,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,11.0,runs,152
 male,IPL,Dr DY Patil Sports Academy,2011-05-19,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,7.0,wickets,118
 male,IPL,Wankhede Stadium,2011-05-20,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,10.0,wickets,133
-male,IPL,Himachal Pradesh Cricket Association Stadium,2011-05-21,Kings XI Punjab,Deccan Chargers,Deccan Chargers,82.0,runs,198
-male,IPL,Feroz Shah Kotla,2011-05-21,Delhi Daredevils,Pune Warriors,,,,56
+male,IPL,Himachal Pradesh Cricket Association Stadium,2011-05-21,Punjab Kings,Deccan Chargers,Deccan Chargers,82.0,runs,198
+male,IPL,Feroz Shah Kotla,2011-05-21,Delhi Capitals,Pune Warriors,,,,56
 male,IPL,M Chinnaswamy Stadium,2011-05-22,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,8.0,wickets,128
 male,IPL,Eden Gardens,2011-05-22,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,5.0,wickets,175
 male,IPL,Wankhede Stadium,2011-05-24,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,6.0,wickets,175
@@ -914,149 +914,149 @@ male,IPL,Wankhede Stadium,2011-05-25,Mumbai Indians,Kolkata Knight Riders,Mumbai
 male,IPL,"MA Chidambaram Stadium, Chepauk",2011-05-27,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,43.0,runs,185
 male,IPL,"MA Chidambaram Stadium, Chepauk",2011-05-28,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,58.0,runs,205
 male,IPL,"MA Chidambaram Stadium, Chepauk",2012-04-04,Chennai Super Kings,Mumbai Indians,Mumbai Indians,8.0,wickets,112
-male,IPL,Eden Gardens,2012-04-05,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,8.0,wickets,97
+male,IPL,Eden Gardens,2012-04-05,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,8.0,wickets,97
 male,IPL,Wankhede Stadium,2012-04-06,Mumbai Indians,Pune Warriors,Pune Warriors,28.0,runs,129
-male,IPL,Sawai Mansingh Stadium,2012-04-06,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,31.0,runs,191
-male,IPL,M Chinnaswamy Stadium,2012-04-07,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,20.0,runs,157
+male,IPL,Sawai Mansingh Stadium,2012-04-06,Rajasthan Royals,Punjab Kings,Rajasthan Royals,31.0,runs,191
+male,IPL,M Chinnaswamy Stadium,2012-04-07,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,20.0,runs,157
 male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2012-04-07,Deccan Chargers,Chennai Super Kings,Chennai Super Kings,74.0,runs,193
 male,IPL,Sawai Mansingh Stadium,2012-04-08,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,22.0,runs,164
-male,IPL,Subrata Roy Sahara Stadium,2012-04-08,Pune Warriors,Kings XI Punjab,Pune Warriors,22.0,runs,166
+male,IPL,Subrata Roy Sahara Stadium,2012-04-08,Pune Warriors,Punjab Kings,Pune Warriors,22.0,runs,166
 male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2012-04-09,Deccan Chargers,Mumbai Indians,Mumbai Indians,5.0,wickets,138
 male,IPL,M Chinnaswamy Stadium,2012-04-10,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,42.0,runs,165
-male,IPL,Feroz Shah Kotla,2012-04-10,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,8.0,wickets,110
+male,IPL,Feroz Shah Kotla,2012-04-10,Delhi Capitals,Chennai Super Kings,Delhi Capitals,8.0,wickets,110
 male,IPL,Wankhede Stadium,2012-04-11,Mumbai Indians,Rajasthan Royals,Mumbai Indians,27.0,runs,197
 male,IPL,"MA Chidambaram Stadium, Chepauk",2012-04-12,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,5.0,wickets,205
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2012-04-12,Kings XI Punjab,Pune Warriors,Kings XI Punjab,7.0,wickets,115
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2012-04-12,Punjab Kings,Pune Warriors,Punjab Kings,7.0,wickets,115
 male,IPL,Eden Gardens,2012-04-13,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,5.0,wickets,131
-male,IPL,Feroz Shah Kotla,2012-04-19,Delhi Daredevils,Deccan Chargers,Delhi Daredevils,5.0,wickets,157
+male,IPL,Feroz Shah Kotla,2012-04-19,Delhi Capitals,Deccan Chargers,Delhi Capitals,5.0,wickets,157
 male,IPL,Subrata Roy Sahara Stadium,2012-04-14,Pune Warriors,Chennai Super Kings,Pune Warriors,7.0,wickets,155
-male,IPL,Eden Gardens,2012-04-15,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,2.0,runs,134
+male,IPL,Eden Gardens,2012-04-15,Kolkata Knight Riders,Punjab Kings,Punjab Kings,2.0,runs,134
 male,IPL,M Chinnaswamy Stadium,2012-04-15,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,59.0,runs,195
-male,IPL,Wankhede Stadium,2012-04-16,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,7.0,wickets,92
+male,IPL,Wankhede Stadium,2012-04-16,Mumbai Indians,Delhi Capitals,Delhi Capitals,7.0,wickets,92
 male,IPL,Sawai Mansingh Stadium,2012-04-17,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,5.0,wickets,196
 male,IPL,M Chinnaswamy Stadium,2012-04-17,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,6.0,wickets,182
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2012-04-18,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,8.0,wickets,124
-male,IPL,"Rajiv Gandhi International Stadium, Uppal",2012-05-10,Deccan Chargers,Delhi Daredevils,Delhi Daredevils,9.0,wickets,187
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2012-04-18,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,8.0,wickets,124
+male,IPL,"Rajiv Gandhi International Stadium, Uppal",2012-05-10,Deccan Chargers,Delhi Capitals,Delhi Capitals,9.0,wickets,187
 male,IPL,"MA Chidambaram Stadium, Chepauk",2012-04-19,Chennai Super Kings,Pune Warriors,Chennai Super Kings,13.0,runs,164
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2012-04-20,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,5.0,wickets,163
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2012-04-20,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,5.0,wickets,163
 male,IPL,"MA Chidambaram Stadium, Chepauk",2012-04-21,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,7.0,wickets,146
-male,IPL,Feroz Shah Kotla,2012-04-21,Delhi Daredevils,Pune Warriors,Pune Warriors,20.0,runs,192
-male,IPL,Wankhede Stadium,2012-04-22,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,6.0,wickets,163
+male,IPL,Feroz Shah Kotla,2012-04-21,Delhi Capitals,Pune Warriors,Pune Warriors,20.0,runs,192
+male,IPL,Wankhede Stadium,2012-04-22,Mumbai Indians,Punjab Kings,Punjab Kings,6.0,wickets,163
 male,IPL,Barabati Stadium,2012-04-22,Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,5.0,wickets,126
 male,IPL,Sawai Mansingh Stadium,2012-04-23,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,46.0,runs,189
-male,IPL,Subrata Roy Sahara Stadium,2012-04-24,Pune Warriors,Delhi Daredevils,Delhi Daredevils,8.0,wickets,146
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2012-04-25,Kings XI Punjab,Mumbai Indians,Mumbai Indians,4.0,wickets,168
+male,IPL,Subrata Roy Sahara Stadium,2012-04-24,Pune Warriors,Delhi Capitals,Delhi Capitals,8.0,wickets,146
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2012-04-25,Punjab Kings,Mumbai Indians,Mumbai Indians,4.0,wickets,168
 male,IPL,Subrata Roy Sahara Stadium,2012-04-26,Pune Warriors,Deccan Chargers,Deccan Chargers,18.0,runs,177
-male,IPL,Feroz Shah Kotla,2012-04-27,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,37.0,runs,207
-male,IPL,"MA Chidambaram Stadium, Chepauk",2012-04-28,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,7.0,runs,156
+male,IPL,Feroz Shah Kotla,2012-04-27,Delhi Capitals,Mumbai Indians,Delhi Capitals,37.0,runs,207
+male,IPL,"MA Chidambaram Stadium, Chepauk",2012-04-28,Chennai Super Kings,Punjab Kings,Punjab Kings,7.0,runs,156
 male,IPL,Eden Gardens,2012-04-28,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,47.0,runs,190
-male,IPL,Feroz Shah Kotla,2012-04-29,Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,1.0,runs,152
+male,IPL,Feroz Shah Kotla,2012-04-29,Delhi Capitals,Rajasthan Royals,Delhi Capitals,1.0,runs,152
 male,IPL,Wankhede Stadium,2012-04-29,Mumbai Indians,Deccan Chargers,Mumbai Indians,5.0,wickets,100
 male,IPL,"MA Chidambaram Stadium, Chepauk",2012-04-30,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,5.0,wickets,139
 male,IPL,Barabati Stadium,2012-05-01,Deccan Chargers,Pune Warriors,Deccan Chargers,13.0,runs,186
-male,IPL,Sawai Mansingh Stadium,2012-05-01,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,6.0,wickets,141
-male,IPL,M Chinnaswamy Stadium,2012-05-02,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,4.0,wickets,158
+male,IPL,Sawai Mansingh Stadium,2012-05-01,Rajasthan Royals,Delhi Capitals,Delhi Capitals,6.0,wickets,141
+male,IPL,M Chinnaswamy Stadium,2012-05-02,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,4.0,wickets,158
 male,IPL,Subrata Roy Sahara Stadium,2012-05-03,Pune Warriors,Mumbai Indians,Mumbai Indians,1.0,runs,120
 male,IPL,"MA Chidambaram Stadium, Chepauk",2012-05-04,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,10.0,runs,160
 male,IPL,Eden Gardens,2012-05-05,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,7.0,runs,150
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2012-05-05,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,43.0,runs,177
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2012-05-05,Punjab Kings,Rajasthan Royals,Rajasthan Royals,43.0,runs,177
 male,IPL,Wankhede Stadium,2012-05-06,Mumbai Indians,Chennai Super Kings,Mumbai Indians,2.0,wickets,173
 male,IPL,M Chinnaswamy Stadium,2012-05-06,Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,5.0,wickets,181
-male,IPL,Feroz Shah Kotla,2012-05-07,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,6.0,wickets,153
+male,IPL,Feroz Shah Kotla,2012-05-07,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,6.0,wickets,153
 male,IPL,Subrata Roy Sahara Stadium,2012-05-08,Pune Warriors,Rajasthan Royals,Rajasthan Royals,7.0,wickets,125
-male,IPL,"Rajiv Gandhi International Stadium, Uppal",2012-05-08,Deccan Chargers,Kings XI Punjab,Kings XI Punjab,25.0,runs,170
+male,IPL,"Rajiv Gandhi International Stadium, Uppal",2012-05-08,Deccan Chargers,Punjab Kings,Punjab Kings,25.0,runs,170
 male,IPL,Wankhede Stadium,2012-05-09,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,9.0,wickets,141
 male,IPL,Sawai Mansingh Stadium,2012-05-10,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,4.0,wickets,126
 male,IPL,Subrata Roy Sahara Stadium,2012-05-11,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,35.0,runs,173
 male,IPL,Eden Gardens,2012-05-12,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,27.0,runs,182
-male,IPL,"MA Chidambaram Stadium, Chepauk",2012-05-12,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,9.0,wickets,114
+male,IPL,"MA Chidambaram Stadium, Chepauk",2012-05-12,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,9.0,wickets,114
 male,IPL,Sawai Mansingh Stadium,2012-05-13,Rajasthan Royals,Pune Warriors,Rajasthan Royals,45.0,runs,170
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2012-05-13,Kings XI Punjab,Deccan Chargers,Kings XI Punjab,4.0,wickets,190
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2012-05-13,Punjab Kings,Deccan Chargers,Punjab Kings,4.0,wickets,190
 male,IPL,M Chinnaswamy Stadium,2012-05-14,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,5.0,wickets,171
 male,IPL,Eden Gardens,2012-05-14,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,5.0,wickets,158
-male,IPL,Feroz Shah Kotla,2012-05-15,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,5.0,wickets,136
+male,IPL,Feroz Shah Kotla,2012-05-15,Delhi Capitals,Punjab Kings,Delhi Capitals,5.0,wickets,136
 male,IPL,Wankhede Stadium,2012-05-16,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,32.0,runs,140
-male,IPL,Himachal Pradesh Cricket Association Stadium,2012-05-17,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,6.0,wickets,120
-male,IPL,Feroz Shah Kotla,2012-05-17,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,21.0,runs,215
+male,IPL,Himachal Pradesh Cricket Association Stadium,2012-05-17,Punjab Kings,Chennai Super Kings,Punjab Kings,6.0,wickets,120
+male,IPL,Feroz Shah Kotla,2012-05-17,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,21.0,runs,215
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2012-05-18,Deccan Chargers,Rajasthan Royals,Deccan Chargers,5.0,wickets,126
-male,IPL,Himachal Pradesh Cricket Association Stadium,2012-05-19,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,6.0,wickets,141
+male,IPL,Himachal Pradesh Cricket Association Stadium,2012-05-19,Punjab Kings,Delhi Capitals,Delhi Capitals,6.0,wickets,141
 male,IPL,Subrata Roy Sahara Stadium,2012-05-19,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,34.0,runs,136
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2012-05-20,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,9.0,runs,132
 male,IPL,Sawai Mansingh Stadium,2012-05-20,Rajasthan Royals,Mumbai Indians,Mumbai Indians,10.0,wickets,162
-male,IPL,Subrata Roy Sahara Stadium,2012-05-22,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,18.0,runs,162
+male,IPL,Subrata Roy Sahara Stadium,2012-05-22,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,18.0,runs,162
 male,IPL,M Chinnaswamy Stadium,2012-05-23,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,38.0,runs,187
-male,IPL,"MA Chidambaram Stadium, Chepauk",2012-05-25,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,86.0,runs,222
+male,IPL,"MA Chidambaram Stadium, Chepauk",2012-05-25,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,86.0,runs,222
 male,IPL,"MA Chidambaram Stadium, Chepauk",2012-05-27,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,5.0,wickets,190
-male,IPL,Eden Gardens,2013-04-03,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,6.0,wickets,128
+male,IPL,Eden Gardens,2013-04-03,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,6.0,wickets,128
 male,IPL,M Chinnaswamy Stadium,2013-04-04,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,2.0,runs,156
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2013-04-05,Sunrisers Hyderabad,Pune Warriors,Sunrisers Hyderabad,22.0,runs,126
-male,IPL,Feroz Shah Kotla,2013-04-06,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,5.0,runs,165
+male,IPL,Feroz Shah Kotla,2013-04-06,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,5.0,runs,165
 male,IPL,"MA Chidambaram Stadium, Chepauk",2013-04-06,Chennai Super Kings,Mumbai Indians,Mumbai Indians,9.0,runs,148
-male,IPL,Subrata Roy Sahara Stadium,2013-04-07,Pune Warriors,Kings XI Punjab,Kings XI Punjab,8.0,wickets,99
+male,IPL,Subrata Roy Sahara Stadium,2013-04-07,Pune Warriors,Punjab Kings,Punjab Kings,8.0,wickets,99
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2013-04-07,Sunrisers Hyderabad,Royal Challengers Bangalore,,,,130
 male,IPL,Sawai Mansingh Stadium,2013-04-08,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,19.0,runs,144
-male,IPL,Wankhede Stadium,2013-04-09,Mumbai Indians,Delhi Daredevils,Mumbai Indians,44.0,runs,209
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2013-04-10,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,10.0,wickets,138
+male,IPL,Wankhede Stadium,2013-04-09,Mumbai Indians,Delhi Capitals,Mumbai Indians,44.0,runs,209
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2013-04-10,Punjab Kings,Chennai Super Kings,Chennai Super Kings,10.0,wickets,138
 male,IPL,M Chinnaswamy Stadium,2013-04-11,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,8.0,wickets,154
 male,IPL,Subrata Roy Sahara Stadium,2013-04-11,Pune Warriors,Rajasthan Royals,Pune Warriors,7.0,wickets,145
-male,IPL,Feroz Shah Kotla,2013-04-12,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,3.0,wickets,114
+male,IPL,Feroz Shah Kotla,2013-04-12,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,3.0,wickets,114
 male,IPL,Wankhede Stadium,2013-04-13,Mumbai Indians,Pune Warriors,Mumbai Indians,41.0,runs,183
 male,IPL,"MA Chidambaram Stadium, Chepauk",2013-04-13,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,4.0,wickets,165
 male,IPL,Eden Gardens,2013-04-14,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,48.0,runs,180
-male,IPL,Sawai Mansingh Stadium,2013-04-14,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,6.0,wickets,124
+male,IPL,Sawai Mansingh Stadium,2013-04-14,Rajasthan Royals,Punjab Kings,Rajasthan Royals,6.0,wickets,124
 male,IPL,"MA Chidambaram Stadium, Chepauk",2013-04-15,Chennai Super Kings,Pune Warriors,Pune Warriors,24.0,runs,159
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2013-04-16,Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,4.0,runs,157
-male,IPL,M Chinnaswamy Stadium,2013-04-16,Royal Challengers Bangalore,Delhi Daredevils,,,,152
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2013-04-16,Punjab Kings,Kolkata Knight Riders,Punjab Kings,4.0,runs,157
+male,IPL,M Chinnaswamy Stadium,2013-04-16,Royal Challengers Bangalore,Delhi Capitals,,,,152
 male,IPL,Maharashtra Cricket Association Stadium,2013-04-17,Pune Warriors,Sunrisers Hyderabad,Sunrisers Hyderabad,11.0,runs,119
 male,IPL,Sawai Mansingh Stadium,2013-04-17,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,87.0,runs,179
-male,IPL,Feroz Shah Kotla,2013-04-18,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,86.0,runs,169
-male,IPL,"Rajiv Gandhi International Stadium, Uppal",2013-04-19,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,5.0,wickets,123
+male,IPL,Feroz Shah Kotla,2013-04-18,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,86.0,runs,169
+male,IPL,"Rajiv Gandhi International Stadium, Uppal",2013-04-19,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,5.0,wickets,123
 male,IPL,Eden Gardens,2013-04-20,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,4.0,wickets,119
 male,IPL,M Chinnaswamy Stadium,2013-04-20,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,7.0,wickets,117
-male,IPL,Feroz Shah Kotla,2013-04-21,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,9.0,wickets,161
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2013-04-21,Kings XI Punjab,Pune Warriors,Kings XI Punjab,7.0,wickets,185
+male,IPL,Feroz Shah Kotla,2013-04-21,Delhi Capitals,Mumbai Indians,Delhi Capitals,9.0,wickets,161
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2013-04-21,Punjab Kings,Pune Warriors,Punjab Kings,7.0,wickets,185
 male,IPL,"MA Chidambaram Stadium, Chepauk",2013-04-22,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,5.0,wickets,185
 male,IPL,M Chinnaswamy Stadium,2013-04-23,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,130.0,runs,263
-male,IPL,Himachal Pradesh Cricket Association Stadium,2013-05-16,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,7.0,runs,171
+male,IPL,Himachal Pradesh Cricket Association Stadium,2013-05-16,Punjab Kings,Delhi Capitals,Punjab Kings,7.0,runs,171
 male,IPL,Eden Gardens,2013-04-24,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,5.0,wickets,159
 male,IPL,"MA Chidambaram Stadium, Chepauk",2013-04-25,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,5.0,wickets,159
-male,IPL,Eden Gardens,2013-04-26,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,6.0,wickets,149
+male,IPL,Eden Gardens,2013-04-26,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,6.0,wickets,149
 male,IPL,Sawai Mansingh Stadium,2013-04-27,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,8.0,wickets,144
 male,IPL,Wankhede Stadium,2013-04-27,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,58.0,runs,194
 male,IPL,"MA Chidambaram Stadium, Chepauk",2013-04-28,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,14.0,runs,200
-male,IPL,Shaheed Veer Narayan Singh International Stadium,2013-04-28,Delhi Daredevils,Pune Warriors,Delhi Daredevils,15.0,runs,164
+male,IPL,Shaheed Veer Narayan Singh International Stadium,2013-04-28,Delhi Capitals,Pune Warriors,Delhi Capitals,15.0,runs,164
 male,IPL,Sawai Mansingh Stadium,2013-04-29,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,4.0,wickets,171
-male,IPL,Wankhede Stadium,2013-04-29,Mumbai Indians,Kings XI Punjab,Mumbai Indians,4.0,runs,174
+male,IPL,Wankhede Stadium,2013-04-29,Mumbai Indians,Punjab Kings,Mumbai Indians,4.0,runs,174
 male,IPL,Subrata Roy Sahara Stadium,2013-04-30,Pune Warriors,Chennai Super Kings,Chennai Super Kings,37.0,runs,164
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2013-05-01,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,7.0,wickets,129
-male,IPL,Shaheed Veer Narayan Singh International Stadium,2013-05-01,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,7.0,wickets,136
-male,IPL,"MA Chidambaram Stadium, Chepauk",2013-05-02,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,15.0,runs,186
+male,IPL,Shaheed Veer Narayan Singh International Stadium,2013-05-01,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,7.0,wickets,136
+male,IPL,"MA Chidambaram Stadium, Chepauk",2013-05-02,Chennai Super Kings,Punjab Kings,Chennai Super Kings,15.0,runs,186
 male,IPL,Subrata Roy Sahara Stadium,2013-05-02,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,17.0,runs,187
 male,IPL,Eden Gardens,2013-05-03,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,8.0,wickets,132
-male,IPL,"Rajiv Gandhi International Stadium, Uppal",2013-05-04,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,6.0,wickets,80
-male,IPL,M Chinnaswamy Stadium,2013-05-14,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,7.0,wickets,174
+male,IPL,"Rajiv Gandhi International Stadium, Uppal",2013-05-04,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,6.0,wickets,80
+male,IPL,M Chinnaswamy Stadium,2013-05-14,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,7.0,wickets,174
 male,IPL,Wankhede Stadium,2013-05-05,Mumbai Indians,Chennai Super Kings,Mumbai Indians,60.0,runs,139
 male,IPL,Sawai Mansingh Stadium,2013-05-05,Rajasthan Royals,Pune Warriors,Rajasthan Royals,5.0,wickets,178
 male,IPL,M Chinnaswamy Stadium,2013-04-09,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,7.0,wickets,161
-male,IPL,Sawai Mansingh Stadium,2013-05-07,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,9.0,wickets,154
+male,IPL,Sawai Mansingh Stadium,2013-05-07,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,9.0,wickets,154
 male,IPL,Wankhede Stadium,2013-05-07,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,65.0,runs,170
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2013-05-08,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,77.0,runs,223
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2013-05-09,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,8.0,wickets,145
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2013-05-09,Punjab Kings,Rajasthan Royals,Rajasthan Royals,8.0,wickets,145
 male,IPL,Subrata Roy Sahara Stadium,2013-05-09,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,46.0,runs,152
-male,IPL,Feroz Shah Kotla,2013-05-10,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,4.0,runs,183
+male,IPL,Feroz Shah Kotla,2013-05-10,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,4.0,runs,183
 male,IPL,Subrata Roy Sahara Stadium,2013-05-11,Pune Warriors,Mumbai Indians,Mumbai Indians,5.0,wickets,112
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2013-05-11,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,30.0,runs,150
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2013-05-11,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,30.0,runs,150
 male,IPL,JSCA International Stadium Complex,2013-05-12,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,5.0,wickets,115
 male,IPL,Sawai Mansingh Stadium,2013-05-12,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,5.0,wickets,141
-male,IPL,Feroz Shah Kotla,2013-04-23,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,5.0,wickets,120
+male,IPL,Feroz Shah Kotla,2013-04-23,Delhi Capitals,Punjab Kings,Punjab Kings,5.0,wickets,120
 male,IPL,Wankhede Stadium,2013-05-13,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,7.0,wickets,178
 male,IPL,JSCA International Stadium Complex,2013-05-15,Kolkata Knight Riders,Pune Warriors,Pune Warriors,7.0,runs,170
-male,IPL,"MA Chidambaram Stadium, Chepauk",2013-05-14,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,33.0,runs,168
+male,IPL,"MA Chidambaram Stadium, Chepauk",2013-05-14,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,33.0,runs,168
 male,IPL,Wankhede Stadium,2013-05-15,Mumbai Indians,Rajasthan Royals,Mumbai Indians,14.0,runs,166
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2013-05-06,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,6.0,wickets,190
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2013-05-06,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,6.0,wickets,190
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2013-05-17,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,23.0,runs,136
-male,IPL,Himachal Pradesh Cricket Association Stadium,2013-05-18,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,50.0,runs,183
-male,IPL,Subrata Roy Sahara Stadium,2013-05-19,Pune Warriors,Delhi Daredevils,Pune Warriors,38.0,runs,172
+male,IPL,Himachal Pradesh Cricket Association Stadium,2013-05-18,Punjab Kings,Mumbai Indians,Punjab Kings,50.0,runs,183
+male,IPL,Subrata Roy Sahara Stadium,2013-05-19,Pune Warriors,Delhi Capitals,Pune Warriors,38.0,runs,172
 male,IPL,M Chinnaswamy Stadium,2013-05-18,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,24.0,runs,106
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2013-05-19,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,5.0,wickets,130
 male,IPL,Feroz Shah Kotla,2013-05-21,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,48.0,runs,192
@@ -1064,180 +1064,180 @@ male,IPL,Feroz Shah Kotla,2013-05-22,Rajasthan Royals,Sunrisers Hyderabad,Rajast
 male,IPL,Eden Gardens,2013-05-24,Mumbai Indians,Rajasthan Royals,Mumbai Indians,4.0,wickets,165
 male,IPL,Eden Gardens,2013-05-26,Chennai Super Kings,Mumbai Indians,Mumbai Indians,23.0,runs,148
 male,IPL,Sheikh Zayed Stadium,2014-04-16,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,41.0,runs,163
-male,IPL,Sharjah Cricket Stadium,2014-04-17,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,8.0,wickets,145
-male,IPL,Sheikh Zayed Stadium,2014-04-18,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,6.0,wickets,205
+male,IPL,Sharjah Cricket Stadium,2014-04-17,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,8.0,wickets,145
+male,IPL,Sheikh Zayed Stadium,2014-04-18,Chennai Super Kings,Punjab Kings,Punjab Kings,6.0,wickets,205
 male,IPL,Sheikh Zayed Stadium,2014-04-18,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,4.0,wickets,133
 male,IPL,Dubai International Cricket Stadium,2014-04-19,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,7.0,wickets,115
-male,IPL,Dubai International Cricket Stadium,2014-04-19,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,4.0,wickets,166
-male,IPL,Sharjah Cricket Stadium,2014-04-20,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,7.0,wickets,191
-male,IPL,Sheikh Zayed Stadium,2014-04-21,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,93.0,runs,177
-male,IPL,Sharjah Cricket Stadium,2014-04-22,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,72.0,runs,193
+male,IPL,Dubai International Cricket Stadium,2014-04-19,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,4.0,wickets,166
+male,IPL,Sharjah Cricket Stadium,2014-04-20,Rajasthan Royals,Punjab Kings,Punjab Kings,7.0,wickets,191
+male,IPL,Sheikh Zayed Stadium,2014-04-21,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,93.0,runs,177
+male,IPL,Sharjah Cricket Stadium,2014-04-22,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,72.0,runs,193
 male,IPL,Dubai International Cricket Stadium,2014-04-23,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,7.0,runs,140
 male,IPL,Sharjah Cricket Stadium,2014-04-24,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,2.0,runs,150
-male,IPL,Dubai International Cricket Stadium,2014-04-25,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,4.0,runs,184
+male,IPL,Dubai International Cricket Stadium,2014-04-25,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,4.0,runs,184
 male,IPL,Dubai International Cricket Stadium,2014-04-25,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,7.0,wickets,141
 male,IPL,Sheikh Zayed Stadium,2014-04-26,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,6.0,wickets,70
-male,IPL,Sheikh Zayed Stadium,2014-04-26,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,23.0,runs,132
-male,IPL,Sharjah Cricket Stadium,2014-04-27,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,6.0,wickets,125
+male,IPL,Sheikh Zayed Stadium,2014-04-26,Kolkata Knight Riders,Punjab Kings,Punjab Kings,23.0,runs,132
+male,IPL,Sharjah Cricket Stadium,2014-04-27,Delhi Capitals,Mumbai Indians,Delhi Capitals,6.0,wickets,125
 male,IPL,Sharjah Cricket Stadium,2014-04-27,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,5.0,wickets,145
-male,IPL,Dubai International Cricket Stadium,2014-04-28,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,5.0,wickets,124
+male,IPL,Dubai International Cricket Stadium,2014-04-28,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,5.0,wickets,124
 male,IPL,Sheikh Zayed Stadium,2014-04-29,Kolkata Knight Riders,Rajasthan Royals,,,,152
 male,IPL,Dubai International Cricket Stadium,2014-04-30,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,15.0,runs,172
 male,IPL,JSCA International Stadium Complex,2014-05-02,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,34.0,runs,148
-male,IPL,Wankhede Stadium,2014-05-03,Mumbai Indians,Kings XI Punjab,Mumbai Indians,5.0,wickets,168
-male,IPL,Feroz Shah Kotla,2014-05-03,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,7.0,wickets,152
+male,IPL,Wankhede Stadium,2014-05-03,Mumbai Indians,Punjab Kings,Mumbai Indians,5.0,wickets,168
+male,IPL,Feroz Shah Kotla,2014-05-03,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,7.0,wickets,152
 male,IPL,M Chinnaswamy Stadium,2014-05-04,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,4.0,wickets,155
 male,IPL,"Sardar Patel Stadium, Motera",2014-05-05,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,10.0,runs,170
-male,IPL,Feroz Shah Kotla,2014-05-05,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,8.0,wickets,178
+male,IPL,Feroz Shah Kotla,2014-05-05,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,8.0,wickets,178
 male,IPL,Wankhede Stadium,2014-05-06,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,19.0,runs,187
-male,IPL,Feroz Shah Kotla,2014-05-07,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,8.0,wickets,160
-male,IPL,Barabati Stadium,2014-05-07,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,44.0,runs,231
+male,IPL,Feroz Shah Kotla,2014-05-07,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,8.0,wickets,160
+male,IPL,Barabati Stadium,2014-05-07,Punjab Kings,Chennai Super Kings,Punjab Kings,44.0,runs,231
 male,IPL,"Sardar Patel Stadium, Motera",2014-05-08,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,32.0,runs,134
-male,IPL,M Chinnaswamy Stadium,2014-05-09,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,32.0,runs,198
-male,IPL,Feroz Shah Kotla,2014-05-10,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,8.0,wickets,143
+male,IPL,M Chinnaswamy Stadium,2014-05-09,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,32.0,runs,198
+male,IPL,Feroz Shah Kotla,2014-05-10,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,8.0,wickets,143
 male,IPL,Wankhede Stadium,2014-05-10,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,4.0,wickets,157
-male,IPL,Barabati Stadium,2014-05-11,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,9.0,wickets,149
+male,IPL,Barabati Stadium,2014-05-11,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,9.0,wickets,149
 male,IPL,M Chinnaswamy Stadium,2014-05-11,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,5.0,wickets,190
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2014-05-12,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,7.0,wickets,157
 male,IPL,JSCA International Stadium Complex,2014-05-13,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,5.0,wickets,148
-male,IPL,M Chinnaswamy Stadium,2014-05-13,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,16.0,runs,186
-male,IPL,"Rajiv Gandhi International Stadium, Uppal",2014-05-14,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,6.0,wickets,205
+male,IPL,M Chinnaswamy Stadium,2014-05-13,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,16.0,runs,186
+male,IPL,"Rajiv Gandhi International Stadium, Uppal",2014-05-14,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,6.0,wickets,205
 male,IPL,Barabati Stadium,2014-05-14,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,6.0,wickets,141
-male,IPL,"Sardar Patel Stadium, Motera",2014-05-15,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,62.0,runs,201
+male,IPL,"Sardar Patel Stadium, Motera",2014-05-15,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,62.0,runs,201
 male,IPL,JSCA International Stadium Complex,2014-05-18,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,5.0,wickets,138
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2014-05-18,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,7.0,wickets,142
 male,IPL,"Sardar Patel Stadium, Motera",2014-05-19,Rajasthan Royals,Mumbai Indians,Mumbai Indians,25.0,runs,178
-male,IPL,Feroz Shah Kotla,2014-05-19,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,4.0,wickets,164
+male,IPL,Feroz Shah Kotla,2014-05-19,Delhi Capitals,Punjab Kings,Punjab Kings,4.0,wickets,164
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2014-05-20,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,7.0,wickets,160
 male,IPL,Eden Gardens,2014-05-20,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,8.0,wickets,154
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2014-05-21,Kings XI Punjab,Mumbai Indians,Mumbai Indians,7.0,wickets,156
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2014-05-21,Punjab Kings,Mumbai Indians,Mumbai Indians,7.0,wickets,156
 male,IPL,Eden Gardens,2014-05-22,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,30.0,runs,195
 male,IPL,JSCA International Stadium Complex,2014-05-22,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,6.0,wickets,185
-male,IPL,Wankhede Stadium,2014-05-23,Mumbai Indians,Delhi Daredevils,Mumbai Indians,15.0,runs,173
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2014-05-23,Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,16.0,runs,179
+male,IPL,Wankhede Stadium,2014-05-23,Mumbai Indians,Delhi Capitals,Mumbai Indians,15.0,runs,173
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2014-05-23,Punjab Kings,Rajasthan Royals,Punjab Kings,16.0,runs,179
 male,IPL,M Chinnaswamy Stadium,2014-05-24,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,8.0,wickets,154
 male,IPL,Eden Gardens,2014-05-24,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,4.0,wickets,160
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2014-05-25,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,7.0,wickets,115
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2014-05-25,Punjab Kings,Delhi Capitals,Punjab Kings,7.0,wickets,115
 male,IPL,Wankhede Stadium,2014-05-25,Mumbai Indians,Rajasthan Royals,Mumbai Indians,5.0,wickets,189
-male,IPL,Eden Gardens,2014-05-27,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,28.0,runs,163
+male,IPL,Eden Gardens,2014-05-27,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,28.0,runs,163
 male,IPL,Brabourne Stadium,2014-05-28,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,7.0,wickets,173
-male,IPL,Wankhede Stadium,2014-05-30,Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,24.0,runs,226
-male,IPL,M Chinnaswamy Stadium,2014-06-01,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,3.0,wickets,199
+male,IPL,Wankhede Stadium,2014-05-30,Chennai Super Kings,Punjab Kings,Punjab Kings,24.0,runs,226
+male,IPL,M Chinnaswamy Stadium,2014-06-01,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,3.0,wickets,199
 male,IPL,Eden Gardens,2015-04-08,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,7.0,wickets,168
-male,IPL,"MA Chidambaram Stadium, Chepauk",2015-04-09,Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,1.0,runs,150
-male,IPL,Maharashtra Cricket Association Stadium,2015-04-10,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,26.0,runs,162
+male,IPL,"MA Chidambaram Stadium, Chepauk",2015-04-09,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,1.0,runs,150
+male,IPL,Maharashtra Cricket Association Stadium,2015-04-10,Punjab Kings,Rajasthan Royals,Rajasthan Royals,26.0,runs,162
 male,IPL,"MA Chidambaram Stadium, Chepauk",2015-04-11,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,45.0,runs,209
 male,IPL,Eden Gardens,2015-04-11,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,3.0,wickets,177
-male,IPL,Feroz Shah Kotla,2015-04-12,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,3.0,wickets,184
-male,IPL,Wankhede Stadium,2015-04-12,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,18.0,runs,177
+male,IPL,Feroz Shah Kotla,2015-04-12,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,3.0,wickets,184
+male,IPL,Wankhede Stadium,2015-04-12,Mumbai Indians,Punjab Kings,Punjab Kings,18.0,runs,177
 male,IPL,M Chinnaswamy Stadium,2015-04-13,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,8.0,wickets,166
 male,IPL,"Sardar Patel Stadium, Motera",2015-04-14,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,7.0,wickets,164
 male,IPL,Eden Gardens,2015-04-30,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,7.0,wickets,165
-male,IPL,Maharashtra Cricket Association Stadium,2015-04-15,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,5.0,wickets,165
+male,IPL,Maharashtra Cricket Association Stadium,2015-04-15,Punjab Kings,Delhi Capitals,Delhi Capitals,5.0,wickets,165
 male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2015-04-16,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,6.0,wickets,127
 male,IPL,Wankhede Stadium,2015-04-17,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,6.0,wickets,183
-male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2015-04-18,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,4.0,runs,167
-male,IPL,Maharashtra Cricket Association Stadium,2015-04-18,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,4.0,wickets,155
+male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2015-04-18,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,4.0,runs,167
+male,IPL,Maharashtra Cricket Association Stadium,2015-04-18,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,4.0,wickets,155
 male,IPL,"Sardar Patel Stadium, Motera",2015-04-19,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,8.0,wickets,156
 male,IPL,M Chinnaswamy Stadium,2015-04-19,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,18.0,runs,209
-male,IPL,Feroz Shah Kotla,2015-04-20,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,6.0,wickets,146
-male,IPL,"Sardar Patel Stadium, Motera",2015-04-21,Rajasthan Royals,Kings XI Punjab,,,,191
+male,IPL,Feroz Shah Kotla,2015-04-20,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,6.0,wickets,146
+male,IPL,"Sardar Patel Stadium, Motera",2015-04-21,Rajasthan Royals,Punjab Kings,,,,191
 male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2015-04-22,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,16.0,runs,176
 male,IPL,M Chinnaswamy Stadium,2015-04-22,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,27.0,runs,181
-male,IPL,Feroz Shah Kotla,2015-04-23,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,37.0,runs,190
+male,IPL,Feroz Shah Kotla,2015-04-23,Delhi Capitals,Mumbai Indians,Delhi Capitals,37.0,runs,190
 male,IPL,"Sardar Patel Stadium, Motera",2015-04-24,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,9.0,wickets,130
 male,IPL,Wankhede Stadium,2015-04-25,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,20.0,runs,157
-male,IPL,"MA Chidambaram Stadium, Chepauk",2015-04-25,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,97.0,runs,192
-male,IPL,Feroz Shah Kotla,2015-04-26,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,10.0,wickets,95
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2015-04-27,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,20.0,runs,150
-male,IPL,Eden Gardens,2015-05-07,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,13.0,runs,171
+male,IPL,"MA Chidambaram Stadium, Chepauk",2015-04-25,Chennai Super Kings,Punjab Kings,Chennai Super Kings,97.0,runs,192
+male,IPL,Feroz Shah Kotla,2015-04-26,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,10.0,wickets,95
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2015-04-27,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,20.0,runs,150
+male,IPL,Eden Gardens,2015-05-07,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,13.0,runs,171
 male,IPL,M Chinnaswamy Stadium,2015-04-29,Royal Challengers Bangalore,Rajasthan Royals,,,,200
 male,IPL,"MA Chidambaram Stadium, Chepauk",2015-04-28,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2.0,runs,134
-male,IPL,Feroz Shah Kotla,2015-05-01,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,9.0,wickets,118
+male,IPL,Feroz Shah Kotla,2015-05-01,Delhi Capitals,Punjab Kings,Delhi Capitals,9.0,wickets,118
 male,IPL,Wankhede Stadium,2015-05-01,Mumbai Indians,Rajasthan Royals,Mumbai Indians,8.0,runs,187
 male,IPL,M Chinnaswamy Stadium,2015-05-02,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,7.0,wickets,111
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2015-05-02,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,22.0,runs,192
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2015-05-03,Kings XI Punjab,Mumbai Indians,Mumbai Indians,23.0,runs,172
-male,IPL,Brabourne Stadium,2015-05-03,Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,14.0,runs,189
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2015-05-03,Punjab Kings,Mumbai Indians,Mumbai Indians,23.0,runs,172
+male,IPL,Brabourne Stadium,2015-05-03,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,14.0,runs,189
 male,IPL,"MA Chidambaram Stadium, Chepauk",2015-05-04,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,24.0,runs,148
 male,IPL,Eden Gardens,2015-05-04,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,35.0,runs,167
-male,IPL,Wankhede Stadium,2015-05-05,Mumbai Indians,Delhi Daredevils,Mumbai Indians,5.0,wickets,152
-male,IPL,M Chinnaswamy Stadium,2015-05-06,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,138.0,runs,226
+male,IPL,Wankhede Stadium,2015-05-05,Mumbai Indians,Delhi Capitals,Mumbai Indians,5.0,wickets,152
+male,IPL,M Chinnaswamy Stadium,2015-05-06,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,138.0,runs,226
 male,IPL,Brabourne Stadium,2015-05-07,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,7.0,runs,201
 male,IPL,"MA Chidambaram Stadium, Chepauk",2015-05-08,Chennai Super Kings,Mumbai Indians,Mumbai Indians,6.0,wickets,158
-male,IPL,Eden Gardens,2015-05-09,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,1.0,wickets,183
-male,IPL,Shaheed Veer Narayan Singh International Stadium,2015-05-09,Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,6.0,runs,163
+male,IPL,Eden Gardens,2015-05-09,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,1.0,wickets,183
+male,IPL,Shaheed Veer Narayan Singh International Stadium,2015-05-09,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,6.0,runs,163
 male,IPL,Wankhede Stadium,2015-05-10,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,39.0,runs,235
 male,IPL,"MA Chidambaram Stadium, Chepauk",2015-05-10,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,12.0,runs,157
-male,IPL,"Rajiv Gandhi International Stadium, Uppal",2015-05-11,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,5.0,runs,185
-male,IPL,Shaheed Veer Narayan Singh International Stadium,2015-05-12,Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,6.0,wickets,119
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2015-05-13,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,22.0,runs,106
+male,IPL,"Rajiv Gandhi International Stadium, Uppal",2015-05-11,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,5.0,runs,185
+male,IPL,Shaheed Veer Narayan Singh International Stadium,2015-05-12,Delhi Capitals,Chennai Super Kings,Delhi Capitals,6.0,wickets,119
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2015-05-13,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,22.0,runs,106
 male,IPL,Wankhede Stadium,2015-05-14,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,5.0,runs,171
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2015-05-15,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,6.0,wickets,135
-male,IPL,"Punjab Cricket Association Stadium, Mohali",2015-05-16,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,7.0,wickets,130
+male,IPL,"Punjab Cricket Association Stadium, Mohali",2015-05-16,Punjab Kings,Chennai Super Kings,Chennai Super Kings,7.0,wickets,130
 male,IPL,Brabourne Stadium,2015-05-16,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,9.0,runs,199
-male,IPL,M Chinnaswamy Stadium,2015-05-17,Royal Challengers Bangalore,Delhi Daredevils,,,,187
+male,IPL,M Chinnaswamy Stadium,2015-05-17,Royal Challengers Bangalore,Delhi Capitals,,,,187
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2015-05-17,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,9.0,wickets,113
 male,IPL,Wankhede Stadium,2015-05-19,Chennai Super Kings,Mumbai Indians,Mumbai Indians,25.0,runs,187
 male,IPL,Maharashtra Cricket Association Stadium,2015-05-20,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,71.0,runs,180
 male,IPL,JSCA International Stadium Complex,2015-05-22,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,3.0,wickets,139
 male,IPL,Eden Gardens,2015-05-24,Mumbai Indians,Chennai Super Kings,Mumbai Indians,41.0,runs,202
-male,IPL,Wankhede Stadium,2016-04-09,Mumbai Indians,Rising Pune Supergiants,Rising Pune Supergiants,9.0,wickets,121
-male,IPL,Eden Gardens,2016-04-10,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,9.0,wickets,98
-male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-04-11,Kings XI Punjab,Gujarat Lions,Gujarat Lions,5.0,wickets,161
+male,IPL,Wankhede Stadium,2016-04-09,Mumbai Indians,Rising Pune Supergiant,Rising Pune Supergiant,9.0,wickets,121
+male,IPL,Eden Gardens,2016-04-10,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,9.0,wickets,98
+male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-04-11,Punjab Kings,Gujarat Lions,Gujarat Lions,5.0,wickets,161
 male,IPL,M Chinnaswamy Stadium,2016-04-12,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,45.0,runs,227
 male,IPL,Eden Gardens,2016-04-13,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,6.0,wickets,187
-male,IPL,Saurashtra Cricket Association Stadium,2016-04-14,Gujarat Lions,Rising Pune Supergiants,Gujarat Lions,7.0,wickets,163
-male,IPL,Feroz Shah Kotla,2016-04-15,Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,8.0,wickets,111
+male,IPL,Saurashtra Cricket Association Stadium,2016-04-14,Gujarat Lions,Rising Pune Supergiant,Gujarat Lions,7.0,wickets,163
+male,IPL,Feroz Shah Kotla,2016-04-15,Delhi Capitals,Punjab Kings,Delhi Capitals,8.0,wickets,111
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2016-04-16,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,8.0,wickets,142
 male,IPL,Wankhede Stadium,2016-04-16,Mumbai Indians,Gujarat Lions,Gujarat Lions,3.0,wickets,143
-male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-04-17,Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,6.0,wickets,152
-male,IPL,M Chinnaswamy Stadium,2016-04-17,Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,7.0,wickets,191
+male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-04-17,Punjab Kings,Rising Pune Supergiant,Punjab Kings,6.0,wickets,152
+male,IPL,M Chinnaswamy Stadium,2016-04-17,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,7.0,wickets,191
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2016-04-18,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,7.0,wickets,142
-male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-04-19,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,6.0,wickets,138
+male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-04-19,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,6.0,wickets,138
 male,IPL,Wankhede Stadium,2016-04-20,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,6.0,wickets,170
 male,IPL,Saurashtra Cricket Association Stadium,2016-04-21,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,10.0,wickets,135
-male,IPL,Maharashtra Cricket Association Stadium,2016-04-22,Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,13.0,runs,185
-male,IPL,Feroz Shah Kotla,2016-04-23,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,10.0,runs,164
-male,IPL,"Rajiv Gandhi International Stadium, Uppal",2016-04-23,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,5.0,wickets,143
+male,IPL,Maharashtra Cricket Association Stadium,2016-04-22,Rising Pune Supergiant,Royal Challengers Bangalore,Royal Challengers Bangalore,13.0,runs,185
+male,IPL,Feroz Shah Kotla,2016-04-23,Delhi Capitals,Mumbai Indians,Delhi Capitals,10.0,runs,164
+male,IPL,"Rajiv Gandhi International Stadium, Uppal",2016-04-23,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,5.0,wickets,143
 male,IPL,Saurashtra Cricket Association Stadium,2016-04-24,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,6.0,wickets,180
-male,IPL,Maharashtra Cricket Association Stadium,2016-04-24,Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,2.0,wickets,160
-male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-04-25,Kings XI Punjab,Mumbai Indians,Mumbai Indians,25.0,runs,189
-male,IPL,"Rajiv Gandhi International Stadium, Uppal",2016-04-26,Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,34.0,runs,118
-male,IPL,Feroz Shah Kotla,2016-04-27,Delhi Daredevils,Gujarat Lions,Gujarat Lions,1.0,runs,172
+male,IPL,Maharashtra Cricket Association Stadium,2016-04-24,Rising Pune Supergiant,Kolkata Knight Riders,Kolkata Knight Riders,2.0,wickets,160
+male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-04-25,Punjab Kings,Mumbai Indians,Mumbai Indians,25.0,runs,189
+male,IPL,"Rajiv Gandhi International Stadium, Uppal",2016-04-26,Sunrisers Hyderabad,Rising Pune Supergiant,Rising Pune Supergiant,34.0,runs,118
+male,IPL,Feroz Shah Kotla,2016-04-27,Delhi Capitals,Gujarat Lions,Gujarat Lions,1.0,runs,172
 male,IPL,Wankhede Stadium,2016-04-28,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,6.0,wickets,174
-male,IPL,Maharashtra Cricket Association Stadium,2016-04-29,Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,3.0,wickets,195
-male,IPL,Feroz Shah Kotla,2016-04-30,Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,27.0,runs,186
+male,IPL,Maharashtra Cricket Association Stadium,2016-04-29,Rising Pune Supergiant,Gujarat Lions,Gujarat Lions,3.0,wickets,195
+male,IPL,Feroz Shah Kotla,2016-04-30,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,27.0,runs,186
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2016-04-30,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,15.0,runs,194
-male,IPL,Saurashtra Cricket Association Stadium,2016-05-01,Gujarat Lions,Kings XI Punjab,Kings XI Punjab,23.0,runs,154
-male,IPL,Maharashtra Cricket Association Stadium,2016-05-01,Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,8.0,wickets,159
+male,IPL,Saurashtra Cricket Association Stadium,2016-05-01,Gujarat Lions,Punjab Kings,Punjab Kings,23.0,runs,154
+male,IPL,Maharashtra Cricket Association Stadium,2016-05-01,Rising Pune Supergiant,Mumbai Indians,Mumbai Indians,8.0,wickets,159
 male,IPL,M Chinnaswamy Stadium,2016-05-02,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,5.0,wickets,185
-male,IPL,Saurashtra Cricket Association Stadium,2016-05-03,Gujarat Lions,Delhi Daredevils,Delhi Daredevils,8.0,wickets,149
-male,IPL,Eden Gardens,2016-05-04,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,7.0,runs,164
-male,IPL,Feroz Shah Kotla,2016-05-05,Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,7.0,wickets,162
+male,IPL,Saurashtra Cricket Association Stadium,2016-05-03,Gujarat Lions,Delhi Capitals,Delhi Capitals,8.0,wickets,149
+male,IPL,Eden Gardens,2016-05-04,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,7.0,runs,164
+male,IPL,Feroz Shah Kotla,2016-05-05,Delhi Capitals,Rising Pune Supergiant,Rising Pune Supergiant,7.0,wickets,162
 male,IPL,"Rajiv Gandhi International Stadium, Uppal",2016-05-06,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,5.0,wickets,126
-male,IPL,M Chinnaswamy Stadium,2016-05-07,Royal Challengers Bangalore,Rising Pune Supergiants,Royal Challengers Bangalore,7.0,wickets,191
-male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-05-07,Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,9.0,runs,181
+male,IPL,M Chinnaswamy Stadium,2016-05-07,Royal Challengers Bangalore,Rising Pune Supergiant,Royal Challengers Bangalore,7.0,wickets,191
+male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-05-07,Punjab Kings,Delhi Capitals,Punjab Kings,9.0,runs,181
 male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-08,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,85.0,runs,177
 male,IPL,Eden Gardens,2016-05-08,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,5.0,wickets,158
-male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-05-09,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,1.0,runs,175
-male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-10,Rising Pune Supergiants,Sunrisers Hyderabad,Sunrisers Hyderabad,4.0,runs,137
+male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-05-09,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,1.0,runs,175
+male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-10,Rising Pune Supergiant,Sunrisers Hyderabad,Sunrisers Hyderabad,4.0,runs,137
 male,IPL,M Chinnaswamy Stadium,2016-05-11,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,6.0,wickets,151
-male,IPL,"Rajiv Gandhi International Stadium, Uppal",2016-05-12,Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,7.0,wickets,146
-male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-13,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,7.0,wickets,124
+male,IPL,"Rajiv Gandhi International Stadium, Uppal",2016-05-12,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,7.0,wickets,146
+male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-13,Mumbai Indians,Punjab Kings,Punjab Kings,7.0,wickets,124
 male,IPL,M Chinnaswamy Stadium,2016-05-14,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,144.0,runs,248
-male,IPL,Eden Gardens,2016-05-14,Kolkata Knight Riders,Rising Pune Supergiants,Kolkata Knight Riders,8.0,wickets,103
-male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-05-15,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,7.0,wickets,179
-male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-15,Mumbai Indians,Delhi Daredevils,Mumbai Indians,80.0,runs,206
+male,IPL,Eden Gardens,2016-05-14,Kolkata Knight Riders,Rising Pune Supergiant,Kolkata Knight Riders,8.0,wickets,103
+male,IPL,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-05-15,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,7.0,wickets,179
+male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-15,Mumbai Indians,Delhi Capitals,Mumbai Indians,80.0,runs,206
 male,IPL,Eden Gardens,2016-05-16,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,9.0,wickets,183
-male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-17,Rising Pune Supergiants,Delhi Daredevils,Rising Pune Supergiants,19.0,runs,121
-male,IPL,M Chinnaswamy Stadium,2016-05-18,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,82.0,runs,211
+male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-17,Rising Pune Supergiant,Delhi Capitals,Rising Pune Supergiant,19.0,runs,121
+male,IPL,M Chinnaswamy Stadium,2016-05-18,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,82.0,runs,211
 male,IPL,Green Park,2016-05-19,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,6.0,wickets,124
-male,IPL,Shaheed Veer Narayan Singh International Stadium,2016-05-20,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,6.0,wickets,158
-male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-21,Rising Pune Supergiants,Kings XI Punjab,Rising Pune Supergiants,4.0,wickets,172
+male,IPL,Shaheed Veer Narayan Singh International Stadium,2016-05-20,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,6.0,wickets,158
+male,IPL,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016-05-21,Rising Pune Supergiant,Punjab Kings,Rising Pune Supergiant,4.0,wickets,172
 male,IPL,Green Park,2016-05-21,Gujarat Lions,Mumbai Indians,Gujarat Lions,6.0,wickets,172
 male,IPL,Eden Gardens,2016-05-22,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,22.0,runs,171
-male,IPL,Shaheed Veer Narayan Singh International Stadium,2016-05-22,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,6.0,wickets,138
+male,IPL,Shaheed Veer Narayan Singh International Stadium,2016-05-22,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,6.0,wickets,138
 male,IPL,M Chinnaswamy Stadium,2016-05-24,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,4.0,wickets,158
 male,IPL,Feroz Shah Kotla,2016-05-25,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,22.0,runs,162
 male,IPL,Feroz Shah Kotla,2016-05-27,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,4.0,wickets,162

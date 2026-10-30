@@ -202,3 +202,24 @@ def fmt_predict(gender: str, fmt: str, venue: str):
     sd = 0 if pd.isna(sd) else float(sd)
     return {"predicted": round(float(pred)), "low": round(float(pred - 0.5 * sd)),
             "high": round(float(pred + 0.5 * sd)), "matches": int(n)}
+
+
+@app.get("/fmt/teams")
+def fmt_teams(gender: str, fmt: str):
+    df = matches_all[(matches_all.gender == gender) & (matches_all.fmt == fmt)]
+    t = set(df.team_1.dropna()) | set(df.team_2.dropna())
+    return {"teams": sorted(t)}
+
+
+@app.get("/fmt/h2h")
+def fmt_h2h(gender: str, fmt: str, a: str, b: str):
+    df = matches_all[(matches_all.gender == gender) & (matches_all.fmt == fmt)]
+    df = df[((df.team_1 == a) & (df.team_2 == b)) | ((df.team_1 == b) & (df.team_2 == a))]
+    df = df.sort_values("start_date", ascending=False)
+    a_wins = int((df.winner == a).sum())
+    b_wins = int((df.winner == b).sum())
+    last = df[["start_date", "team_1", "team_2", "winner", "win_margin", "margin_type"]].head(10).copy()
+    last["win_margin"] = last["win_margin"].fillna(0)
+    return {"played": int(len(df)), "a_wins": a_wins, "b_wins": b_wins,
+            "no_result": int(len(df) - a_wins - b_wins),
+            "last": last.fillna("").to_dict("records")}

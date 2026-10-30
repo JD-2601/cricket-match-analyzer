@@ -247,11 +247,11 @@ else:
     fmt = st.sidebar.radio("Format", ["WPL", "T20I", "ODI", "Test"])
 
 if gender == "Men's" and fmt == "IPL":
-    pages = ["Score Predictor", "Ground Explorer", "Weather Forecast", "Player Stats", "Team Stats"]
+    pages = ["Score Predictor", "Ground Explorer", "Weather Forecast", "Player Stats", "Team Stats", "Head to Head"]
 elif fmt == "WPL":
-    pages = ["Ground Records", "Player Stats", "Team Stats"]
+    pages = ["Ground Records", "Player Stats", "Team Stats", "Head to Head"]
 else:
-    pages = ["Score Predictor", "Ground Records", "Player Stats", "Team Stats"]
+    pages = ["Score Predictor", "Ground Records", "Player Stats", "Team Stats", "Head to Head"]
 page = st.sidebar.radio("Page", pages)
 
 header(f"{gender} - {fmt}", page)
@@ -347,6 +347,36 @@ if not (gender == "Men's" and fmt == "IPL" and page in IPL_PAGES):
             st.markdown('<div class="section">Team records</div>', unsafe_allow_html=True)
             st.dataframe(tdf[["Team", "Matches", "Wins", "Losses", "No result", "Win %", "Avg score", "Highest total"]],
                          hide_index=True, use_container_width=True)
+
+    if page == "Head to Head":
+        tl = requests.get(f"{API}/fmt/teams", params={"gender": g, "fmt": fmt}, timeout=60).json()["teams"]
+        with st.container(key="controls"):
+            c1, c2 = st.columns(2)
+            ta = c1.selectbox("Team A", tl, index=None, placeholder="Choose a team")
+            tb = c2.selectbox("Team B", tl, index=None, placeholder="Choose a team")
+        if ta is None or tb is None:
+            hint("Choose two teams to see their record against each other.")
+        elif ta == tb:
+            hint("Choose two different teams.")
+        else:
+            h = requests.get(f"{API}/fmt/h2h", params={"gender": g, "fmt": fmt, "a": ta, "b": tb}, timeout=30).json()
+            k = st.columns(4)
+            k[0].markdown(card("Matches", h["played"]), unsafe_allow_html=True)
+            k[1].markdown(card(ta, h["a_wins"], "wins"), unsafe_allow_html=True)
+            k[2].markdown(card(tb, h["b_wins"], "wins"), unsafe_allow_html=True)
+            k[3].markdown(card("No result", h["no_result"]), unsafe_allow_html=True)
+            if h["played"] == 0:
+                st.info("These teams have not met in this format.")
+            else:
+                st.markdown('<div class="section">Last matches between them</div>', unsafe_allow_html=True)
+                ldf = pd.DataFrame(h["last"])
+                ldf["Result"] = ldf.apply(
+                    lambda r: (f"{r.winner} by {int(r.win_margin)} {r.margin_type}"
+                               if r.winner and r.margin_type else (r.winner or "No result")), axis=1)
+                ldf["Date"] = pd.to_datetime(ldf["start_date"]).dt.strftime("%d %b %Y")
+                ldf = ldf.rename(columns={"team_1": "Team 1", "team_2": "Team 2"})
+                st.dataframe(ldf[["Date", "Team 1", "Team 2", "Result"]], hide_index=True, use_container_width=True)
+            st.markdown('<div class="note">Counts only matches in this format. Teams that renamed over time (for example IPL franchises) are counted under each name separately.</div>', unsafe_allow_html=True)
 
     if fmt == "WPL":
         st.markdown('<div class="note">Score prediction is not offered for WPL. The league only started in 2023, so there are too few matches (88) for a reliable prediction. These pages show past records only.</div>', unsafe_allow_html=True)

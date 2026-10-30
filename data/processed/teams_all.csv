@@ -1,23 +1,4 @@
 team,matches,wins,no_result,losses,win_pct,avg_score,highest_total,gender,fmt
-Chennai Super Kings,266,148,2,116,55.6,164.5,246,male,IPL
-Deccan Chargers,75,29,0,46,38.7,152.8,214,male,IPL
-Delhi Capitals,120,58,6,56,48.3,167.4,264,male,IPL
-Delhi Daredevils,161,67,3,91,41.6,150.8,231,male,IPL
-Gujarat Lions,30,13,1,16,43.3,161.9,208,male,IPL
-Gujarat Titans,77,47,0,30,61.0,178.5,233,male,IPL
-Kings XI Punjab,190,85,4,101,44.7,158.0,232,male,IPL
-Kochi Tuskers Kerala,14,6,0,8,42.9,135.8,184,male,IPL
-Kolkata Knight Riders,278,140,7,131,50.4,156.9,272,male,IPL
-Lucknow Super Giants,72,34,2,36,47.2,177.1,257,male,IPL
-Mumbai Indians,291,155,4,132,53.3,163.6,247,male,IPL
-Pune Warriors,46,12,1,33,26.1,141.3,192,male,IPL
-Punjab Kings,88,41,3,44,46.6,178.3,265,male,IPL
-Rajasthan Royals,251,123,6,122,49.0,161.6,243,male,IPL
-Rising Pune Supergiant,16,10,0,6,62.5,154.4,187,male,IPL
-Rising Pune Supergiants,14,5,0,9,35.7,147.4,195,male,IPL
-Royal Challengers Bangalore,240,114,6,120,47.5,156.9,263,male,IPL
-Royal Challengers Bengaluru,46,29,0,17,63.0,187.8,262,male,IPL
-Sunrisers Hyderabad,211,102,5,104,48.3,164.8,287,male,IPL
 Delhi Capitals,37,22,0,15,59.5,153.3,223,female,WPL
 Gujarat Giants,34,13,0,21,38.2,155.7,209,female,WPL
 Mumbai Indians,37,23,0,14,62.2,157.2,213,female,WPL
@@ -283,3 +264,18 @@ Australia,16,6,7,3,37.5,259.8,575,female,Test
 England,19,3,9,7,15.8,219.1,463,female,Test
 India,9,5,3,1,55.6,254.3,603,female,Test
 South Africa,4,0,1,3,0.0,217.5,373,female,Test
+Chennai Super Kings,266,148,2,116,55.6,164.5,246,male,IPL
+Deccan Chargers,75,29,0,46,38.7,152.8,214,male,IPL
+Delhi Capitals,281,125,9,147,44.5,157.9,264,male,IPL
+Gujarat Lions,30,13,1,16,43.3,161.9,208,male,IPL
+Gujarat Titans,77,47,0,30,61.0,178.5,233,male,IPL
+Kochi Tuskers Kerala,14,6,0,8,42.9,135.8,184,male,IPL
+Kolkata Knight Riders,278,140,7,131,50.4,156.9,272,male,IPL
+Lucknow Super Giants,72,34,2,36,47.2,177.1,257,male,IPL
+Mumbai Indians,291,155,4,132,53.3,163.6,247,male,IPL
+Pune Warriors,46,12,1,33,26.1,141.3,192,male,IPL
+Punjab Kings,278,126,7,145,45.3,164.4,265,male,IPL
+Rajasthan Royals,251,123,6,122,49.0,161.6,243,male,IPL
+Rising Pune Supergiant,30,15,0,15,50.0,151.1,195,male,IPL
+Royal Challengers Bangalore,286,143,6,137,50.0,161.9,263,male,IPL
+Sunrisers Hyderabad,211,102,5,104,48.3,164.8,287,male,IPL
